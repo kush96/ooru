@@ -1,0 +1,39 @@
+[project]
+name = "ooru_backend"
+version = "0.1.0"
+description = "Local database for Bengaluru civic infrastructure records"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115,<1",
+    "pydantic>=2.10,<3",
+    "groq>=0.30,<1",
+    "uvicorn>=0.34,<1",
+    "alembic>=1.16,<2",
+    "geoalchemy2>=0.18,<1",
+    "psycopg[binary]>=3.2,<4",
+    "sqlalchemy>=2.0,<2.1",
+    "geopandas",
+    "python-dotenv>=1.2.3",
+    "folium>=0.20.0",
+    "mapclassify>=2.11.0",
+    "matplotlib>=3.11.2",
+    "osmnx>=2.1.1",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[dependency-groups]
+dev = [
+    "debugpy>=1.8.22",
+    "httpx>=0.28,<1",
+    "pytest>=8,<10",
+]
+resources = [
+    "beautifulsoup4>=4.13,<5",
+    "pypdf>=6,<7",
+]

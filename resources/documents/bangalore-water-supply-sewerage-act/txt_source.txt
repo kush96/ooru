@@ -1,0 +1,3392 @@
+=== PDF PAGE 1 ===
+THE BANGALORE WATER SUPPLY AND SEWERAGE ACT, 1964 
+ARRANGEMENT OF SECTIONS 
+Statement of Objects and Reasons: 
+Sections : 
+CHAPTER I 
+PRELIMINARY 
+ 1. Short title and commencement. 
+ 2. Definitions. 
+CHAPTER II 
+ESTABLISHMENT OF THE BOARD 
+ 3. Constitution and composition of the Bangalore Water Supply and Sewerage Board.  
+ 4. Term of office and conditions for re-appointment of members of Board. 
+ 5. Disqualification for becoming a member of the Board. 
+ 6. Removal or suspension of members. 
+ 7. Power of State Government to declare certain transactions void. 
+ 8. Temporary absence of members. 
+ 9. Incorporation. 
+ 10. Authentication of orders and other instruments of the Board. 
+ 11. Meetings of the Board. 
+ 12. Appointment of staff. 
+ 13. Appointment of consultants. 
+ 14. Consultative Committee. 
+ 15. General duties of the Board. 
+CHAPTER III 
+THE BOARD’S FINANCE, ACCOUNTS AND AUDIT 
+ 16. General principles for Board’s finance. 
+ 17. Annual financial statement. 
+ 18. Restriction on unbudgeted expenditure. 
+ 19. Subventions to the Board. 
+ 20. Loans to the Board. 
+ 21. Power of Board to borrow. 
+ 22. Guarantee of loans. 
+ 23. Omitted. 
+ 24. Depreciation reserve. 
+ 24A. Improvement reserve. 
+ 24B. Payment of interest to Government. 
+ 25. Accounts and audit. 
+ 
+CHAPTER IV 
+WATER SUPPLY 
+ 26. Vesting of works in Board. 
+ 27. Construction of water works. 
+ 28. Trespass on water supply premises. 
+ 29. Prohibition of building over water mains. 
+ 30. Control over house connections. 
+IndiaCode
+
+=== PDF PAGE 2 ===
+ 2 
+ 31. Payment to be made for water supplied. 
+ 32. Private water supply for domestic consumption. 
+ 33. Supply of water for domestic purpose not to include any supply for certain specifi ed 
+purposes. 
+ 34. Water supply for domestic purposes not to be used for non-domestic purposes. 
+ 35. Power to supply water for non-domestic purposes. 
+ 36. Supply of water to the Bruhat Bangalore Mahanagara Palike and other local authorities. 
+ 37. Use of water for extinguishing fire. 
+ 38. Public water supply. 
+ 39. Power to lay mains. 
+ 40. Power to lay service pipes, etc. 
+ 41. Provision of fire hydrants. 
+ 42. Power to require owners of premises to set up pumps, etc. 
+ 43. Supply of water. 
+ 44. Laying of supply pipes, etc. 
+ 45. Power to require separate service pipes. 
+ 46. Stopcocks. 
+ 47. Power to provide meters. 
+ 48. Presumption as to correctness of meters. 
+ 49. Prohibition of waste or misuse of water. 
+ 50. Power to enter premises to detect waste or misuse of water. 
+ 51. Power to test water fittings. 
+ 52. Water pipes, etc., not to be placed where water will be polluted. 
+ 53. Power to cut off water supply. 
+ 54. Joint and several liability of owners and occupiers for offence in relation to water supply.  
+ 55. Non-liability of Board when supply reduced or not made in certain cases.  
+ 56. Rights of user of conduits, lines, etc. 
+ 57. Power of owner of premises to place pipes through land belonging to other persons.  
+ 58. Power to execute work after giving notice to the person liable. 
+ 59. Work to be done by licensed plumber. 
+ 60. Prohibition of certain acts. 
+ 61. Regulations regarding water supply. 
+ 61A. Bye-laws regarding water supply. 
+ 62. Punishment for certain offences. 
+CHAPTER V 
+SEWERS AND SEWERAGE 
+ 63. Vesting of sewers, etc., in Board. 
+ 64. Control of sewers and sewage disposal works. 
+ 65. Certain matters not to be passed into Board sewers. 
+ 66. Application by owners and occupiers to drain into Board sewers. 
+ 67. Drainage of undrained premises. 
+ 68. New premises not to be erected without drains. 
+ 69. Power to drain group or block premises by combined operations. 
+ 70. Power of Board to close or limit the use of private drains in certain cases. 
+ 71. Use of drain by a person other than the owners. 
+ 72. Sewage and rain water drains to be distinct. 
+      72A.Obligation to provide rain water harvesting structure  
+ 73. Power to require owner to carry out certain works for satisfactory drainage.  
+IndiaCode
+
+=== PDF PAGE 3 ===
+ 3 
+ 74. Appointment of places for the emptying of sewers and disposal of sewage.  
+ 75. Connection with sewers not to be made without permission. 
+ 76. Buildings and private streets not to be erected or constructed over sewers without 
+permission. 
+ 77. Rights of user of property for sewers. 
+ 78. Power of owner of premises to lay sewer through land belonging to other persons.  
+ 79. Power to execute work after giving notice to the person liable. 
+ 80. Power to affix shafts, etc., for ventilation of sewer or cesspool. 
+ 81. Power to examine and test sewers, etc., believed to be defective. 
+ 82. Work to be done by licensed plumber. 
+ 83. Prohibition of certain acts. 
+ 84. Regulations regarding sewerage. 
+ 84A. Bye-laws regarding sewerage. 
+ 85. Punishment for certain offences. 
+CHAPTER VI 
+MISCELLANEOUS 
+ 86. Annual reports, statistics and returns. 
+ 87. Power to make rules. 
+ 88. Regulations. 
+89. Directions by the State Government. 
+89A. Collection of capital contribution from the beneficiary or borrowing loan etc., in               
+        respect of any project 
+ 90. Licenses and written permissions. 
+ 91. Powers of entry and inspection. 
+ 92. Power to enter land adjoining land in relation to any work. 
+ 93. Breaking into buildings. 
+ 94. Time of making entry. 
+ 95. Consent ordinarily to be obtained. 
+ 96. Regard to be had to social or religious usages. 
+ 97. Prohibition or obstruction or molestation in execution of work. 
+ 98. Notices, etc., to fix reasonable time. 
+ 99. Signature on notices, etc., may be stamped. 
+ 100. Notices, etc., by whom to be served or issued. 
+ 101. Service of notices, etc. 
+ 102. Service of bills for charges or notice of demand by ordinary posts. 
+ 103. Power in case of non-compliance with notice, etc. 
+ 104. Liability of occupier to pay in default of owner. 
+ 105. Execution of work by occupier in default of owner and deduction of expenses from rent.  
+ 106. Relief to agent and trustees. 
+ 107. Compensation to be paid by offenders for damage caused by them. 
+ 108. Mode of recovery of dues. 
+ 109. General penalty. 
+  109A.  Penalty of pro-rata charges for unauthorized connections. 
+    110. Offences by companies. 
+ 111. Prosecutions. 
+ 112. Composition of offences. 
+ 113. Arrest of offenders. 
+ 114. Duties of police officers and employees of the Corporation. 
+IndiaCode
+
+=== PDF PAGE 4 ===
+ 4 
+ 115. Validity of notices and other documents. 
+ 116. Admissibility of document or entry as evidence. 
+ 117. Evidence of officers of Board. 
+ 118. Delegation of powers. 
+ 119. Chief Controlling Authority. 
+ 120. Appeals. 
+ 121. Revision. 
+ 122. Rules and regulations to be laid before State Legislature, etc. 
+ 123. Provisions as to employees of the Bruhat Ban galore Mahanagara Palike employed in 
+connection with water supply or sewerage undertakings. 
+ 124. Members, officers and servants of the Board to be public servants. 
+ 125. Protection of action of the Board, etc. 
+ 126. Notice to be given of suits. 
+ 127. Continuation of appointments, notifications, rules, bye-laws, etc. 
+ 128. Amendment of Mysore Act LXIX of 1949. 
+ 129. Orders for bringing this Act into force. 
+  SCHEDULE. 
+  Summary of Amendments 
+* * * * 
+ 
+STATEMENTS OF OBJECTS AND REASONS 
+I 
+Act 36 of 1964. —At pr esent the Head -works and the Rising Main of the Bangalore Water 
+Supply Scheme are under the control of Government while the distribution of water is under the 
+control of the Bangalore Municipal Corporation. The present water supply being inadequate, 
+Government have sanctioned the Cauvery Water Supply Scheme at an estimated cost of Rs. 26 
+crores. It will be necessary to change the present distribution system wherever necessary to suit 
+the proposed water supply. As the supply of water from the new scheme will  be adequate, it will 
+be necessary to improve the present underground drainage system to make use of the water to 
+the maximum extent. It is, therefore, necessary to entrust the administration of water supply and 
+sewerage to the same Authority. The World Ba nk Authorities who will be financing the Water 
+Supply Scheme have desired that the administration of both the Water Supply and Drainage in 
+Bangalore be entrusted to an independent and autonomous body. The proposed Board will be 
+solely in charge of the Wate r Supply and Underground drainage in Bangalore. The present Bill 
+provides for constitution of Water Supply and Sewerage Board for Bangalore.  
+(Published in the Karnataka Gazette (Extraordinary) Part IV -2A, dated 25th June 1964 as No. 
+166 at page. 86.) 
+II 
+Amending Act 6 of 1966. —At present the Bangalore Water Supply and Sewerage Board 
+maintains the water supply and sewerage system in Bangalore and it will shortly embark upon 
+large scale developments in connection with the long range Water Supply and Sewerage Project 
+involving very heavy financial commitments. In order to effectively carry out the functions and 
+responsibilities entrusted to it, the Board will have to be given a larger measures of autonomy 
+than is now contemplated by the Bangalore Water Supply a nd Sewerage Act, 1964. It is also 
+considered that the accounting system of the Board should be based on commercial principles in 
+order to provide information required by an undertaking of this character, with provision for 
+depreciation as a charge against revenues every year. Statutory provision is necessary to enable 
+the Board to pay to Government interest on the value of the assets transferred to it by the 
+Government. Certain other minor amendments to improve the working of the Board are also 
+found desirable. 
+Hence this Bill. 
+IndiaCode
+
+=== PDF PAGE 5 ===
+ 5 
+(Published in the Karnataka Gazette (Extraordinary) Part IV -2A, dated 12th October 1965 as 
+No. 192A at page. 14.) 
+III 
+Amending Act 10 of 1966. —It is considered necessary to amend the Bruhat Bangalore 
+Mahanagara Municipal Bruhat Bangal ore Mahanagara Palike Act, 1949, in certain respects, in 
+order to afford more amenities to the public, to augment the resources of the corporation and to 
+streamline the administration of the Bruhat Bangalore Mahanagara Palike by avoiding delays.  
+Hence this Bill. 
+(Published in the Karnataka Gazette (Extraordinary) Part IV -2A, dated 23rd February 1966 as 
+No. 30 at page. 18.) 
+IV 
+Amending Act 18 of 1984. —The Public Accounts Committee has suggested that in order to 
+have better financial control and with a view to further streamline its accounts procedures, the 
+audit of the Bangalore Water Supply and Sewerage Board could be entrusted to the Comptroller 
+and Auditor General of India, Accordingly section 25 of the Bangalore Water Supply and 
+Sewerage Board Act is proposed to be amended, empowering Government to appoint auditors of 
+its choice. 
+Section 32 of the Act provides for supply of water for domestic purposes. Section 33 specifies 
+that the supply of water for flushing latrines or drains and for all baths other th an swimming baths 
+or public baths shall be deemed to include the supply of water for domestic purposes. Section 35 
+provides for supply of water for non-domestic purposes. The water that is being supplied to hotels 
+in Bangalore City are charged at the rates  prescribed for non -domestic purposes. Hence in writ 
+petitions Nos. 6160 of 1974 and others filed by some hotels, the Hon’ble High Court of Karnataka 
+had directed the Board to determine the percentage of water utilised for domestic and non -
+domestic purpose s respectively, in respect of each of the petitioners’ establishments from the 
+date of the writ petition. Since the hotels are being run on commercial lines, it is necessary that 
+the entire water supply should be charged at the non -domestic rates and to va lidate the 
+collections already made at these rates. 
+Hence this Bill. 
+(Published in the Karnataka Gazette (Extraordinary) Part IV -2A, dated 18th January 1984 as 
+No. 48 at page. 4.) 
+V 
+ Amending Act 19 of 2009. — It is considered necessary to provide for makin g it 
+mandatory to build rainwater harvesting structure by households in order to preserve the 
+groundwater by amending the Bangalore Water Supply and Sewerage Act, 1964.  
+ Hence the Bill. 
+ (LA Bill No.27 of 2009, File No. DPAL 6 Shasana 2009) 
+ [Entry 5 and 17  of List II of the Seventh Schedule to the Constitution of India.]  
+VI 
+Amending Act 15 of 2010. - A Committee constituted under the chairmanship of the Chief 
+Engineer (retired) reviewed the provisions of the Bangalore Water Supply and Sewerage Board 
+Act, 1 964 and the provisions of the Water Supply and Sewerage Acts of several cities viz., 
+Chennai, Hyderabad and Delhi with a view to adopt best practices useful to the Board and has 
+made certain recommendations. Considering those recommendations it is consider ed necessary 
+to amend the Bangalore Water Supply and Sewerage Board Act, 1964 to provide for, - 
+ 
+(a) extension of the provisions of the Act to whole of the Bruhat Bangalore Mahanagara 
+Palike area; 
+(b) enhancement of the maximum number of members of the Board to nine; 
+(c) empowering the Board to insist on owners or occupiers to adopt water conservation 
+methods like rain water harvesting and recycling of waste water for non -potable or 
+potable purpose; 
+ 
+IndiaCode
+
+=== PDF PAGE 6 ===
+ 6 
+(d) enhancement of penalties on various offences punishable under   
+     this Act; 
+(e) acquisition of land for the purposes of the Board; and  
+ 
+(f) certain consequential amendments; 
+ 
+    Opportunity is also taken to amend,- 
+ 
+(i) the Karnataka Municipal Corporations Act, 1976 to exempt property taxes on 
+buildings of the Board; and 
+(ii) the Karnataka Ground Water (Regulation for protection of sources of drinking 
+water) Act, 1999 to appoint an officer not below the rank of Assistant 
+Commissioner belonging to the Bangalore Water Supply and Sewerage Board in 
+respect of Bangalore and an off icer of KUWSS Board in respect of areas falling 
+under other Municipal Corporations and Municipal Council to act as appropriate 
+authority under the said Act. 
+ 
+Hence, the Bill. 
+ 
+[L.A. Bill No. 42 of 2009, File No. DPAL 32 Shasana 2009] 
+ 
+[Entry 32 of List II of the Seventh Schedule to the Constitution of India.] 
+ 
+VII 
+Amending Act 32 of 2010. -  In Government Order No.UDD 27 MNI 2000, dated:26 -12-
+2003, Water Supply and Sewerage Project was sanctioned for implementation in seven city 
+municipal councils of Bommana halli, Byatarayanapura, K.R.Puram, Mahadevapura, 
+Rajarajeshwari Nagara, Dasarahalli, Yelahanka and one town municipal council of Kengeri of the 
+Bangalore Metropolitan Area, at a total cost of Rs.658.65 crores.   
+ In Govt. order No.UDD 36 MNI 2004, dated:13 -02-2004 the structure for the collection of 
+beneficiary capital contribution from different categories of properties in the 7 CMC’s and one 
+TMC under reference has been approved.  It has also been ordered that the Beneficiary capital 
+contribution collecte d by the Urban Local Bodies should be kept in greater Bangalore water 
+supply and sanitation policy, beneficiary capital account to be held jointly by the concerned Urban 
+Local Bodies and Karnataka Urban infrastructure Development Finance Bruhat Bangalore 
+Mahanagara Palike for further transfer to the Bangalore Water Supply and Sewerage Board.  
+ But, this Government order was challenged by a petitioner in writ petition No. 322/2008 in 
+the High Court of Karnataka, on the ground that the said Government order to  collect beneficiary 
+capital contribution are not supported by Law.  Therefore, the Bangalore Water Supply and 
+Sewerage Board was not able to defend the impugned Government orders in the above writ 
+petition. 
+ Therefore, it is considered necessary to amend the Bangalore Water Supply and 
+Sewerage Act, 1964 to provide for empowering the Government to issue directions to the 
+Bangalore Water Supply and Sewerage Board to levy  and collect the beneficiary capital 
+contribution through Local bodies towards the water  supply and sanitation projects.  And also to 
+validate the  beneficiary capital contribution collected with effect form 1 st January 2003, by the 
+Local authority in accordance with Government order referred above. 
+ Hence the Bill, 
+[L.A. Bill No. 16 of 2010, File No. DPAL 54 Shasana 2009] 
+[Entries 17 and 32 of List II of the Seventh Schedule to the Constitution of India.]  
+ 
+ 
+ 
+IndiaCode
+
+=== PDF PAGE 7 ===
+ 7 
+VIII 
+Amending Act 05 of 2011. -  It is considered necessary to provide for making it mandatory 
+to build rainwater harvesting structure by  households in order to preserve the groundwater by 
+amending the Bangalore Water Supply and Sewerage Act, 1964. 
+ Hence the Bill. 
+  [L.A. Bill No.7 of 2011, File No. Samvyashae 34 Shasana 2010] 
+[Entries 5 and 32 of List II of the Seventh Schedule to the Constitution of India.] 
+IX 
+Amending Act 28 of 2013.-  It is considered necessary to amend the Bangalore 
+Water Supply and Sewerage Act, 1964 (Karnataka Act 36 of 1964) to provide for,- 
+Collection of up to 50% of the pro -rata charges in addition to the penaltie s and 
+pro-rata charges payable from the persons having unauthorized connections subject to 
+such conditions as may be specified in the regulations. 
+Hence the Bill 
+[L.A. Bill No.1 of 2013, File No. Samvyashae 62 Shasana 2012] 
+[Entries 5 and 17 of List II of the Seventh Schedule to the Constitution of India.] 
+X 
+Amending Act 25 of 2016.- The proposed amendment is necessitated in view of 
+the Karnataka Housing Board and Bangalore Development Authority have been allotting 
+sites in terms of square meters measuring 216 square meters and 108 square meters in 
+favour of their successful applicants which is marginally less than 2400 square feet and 
+1200 square feet respectively.  In this background, it is considered necessary to amend  
+section 72 -A of the Bangalore Water  Supply and Sewerage Act, 1964 to make 
+compulsory of providing Rain Water Harvesting in sital area of not less than 216 square 
+meters and every owner who propose to construct a building on a sital area of not less 
+than 108 square meters. 
+  
+Hence, the Bill. 
+  
+[L.A. Bill No. 18 of 2016, File No. Samvyashae 56 Shasana 2015] 
+[entries 5 and 17 of List II of the Seventh Schedule to the Constitution of India.] 
+XI 
+Amending Act 02 of 2017. - It is considered necessary to amend section 15 of 
+the Bangalore Water Supply  and Sewerage Board Act, 1964, to empower the Board to 
+prepare and carryout scheme,- 
+(a) with the approval of the Government  at cabinet level in respect of 
+any estimates above ten crore rupees, irrespective of source of 
+funds; and 
+(b) with the approval of the Gov ernment Administrative Department 
+level to estimates of less than ten crore rupees with Government 
+grants or loan as source of funds. 
+ 
+          Hence the Bill. 
+ 
+[L.A. Bill No.39 of 2016, File No. Samvyashae 49 Shasana 2016] 
+[entries 6, 17 and 32  of List II of the Seventh Schedule to the Constitution of India] 
+ 
+IndiaCode
+
+=== PDF PAGE 8 ===
+ 8 
+XII 
+Amending Act 29 of2021.- It is considered necessary to amend the  Bangalore 
+Water Supply and Sewerage Act, 1964 (Karnataka Act 36 of 1964) in order to,-  
+(i) reduce the dependency on Cauvery water or underground water; 
+(ii) reduce the flow of storm water drains; 
+(iii) mitigate urban flooding;  
+(iv) reduce non-point source pollution of surface and ground water; 
+(v) manage the summer peak demand through ground water charging and ground 
+water table or aquifer; 
+(vi) provide fresh water source through rain water harvesting, where the ground 
+water quality is poor; and 
+(vii) mandate rain water harvesting as the rain harvested water is free, readily 
+available and has no distribution cost. 
+Hence the Bill. 
+[L.A. Bill No. 23 of 2021, File No. Samvyashae 25 Shasana 2021]  
+[Entry 5 and 17 of List II of the Seventh Schedule to the Constitution of   India.]  
+[Published in Karnataka Gazette Extra-ordinary No. 820 in part-IVA dated: 07.10.2021]  
+ 
+XIII 
+Amendment Act 61 of 2025:- It is considered necessary to amend 
+the following Acts for decriminalising and rationalising offences and to 
+further enhance trust -based governance for ease of living and doing 
+business, namely:- 
+1. the Bangalore Water Supply and Sewerage) Act, 1964 
+(Karnataka Act 36 of 1964); 
+2. the Karnataka Urban Development Authorities Act, 1987 
+(Karnataka Act 34 of 1987); 
+3. the Karnataka Agricultural produce marketing (Regulation and 
+Development) Act, 1966 (Karnataka Act 27 of 1966); 
+IndiaCode
+
+=== PDF PAGE 9 ===
+ 9 
+4. In the Karnataka Warehouse Act, 1961 (Karnataka Act 11 of 
+1962); 
+5. the Karnataka Tourism Trade (Facilitation and Regulation) Act, 
+2015 (Karnataka Act 21 of 2015); 
+6. the Karnataka Industrial Areas Development Act, 1966 
+(Karnataka Act 18 of 1966); 
+7. the Karnataka Gram Swaraj and Panchayatharaj Act, 1993 
+(Karnataka Act 14 of 1993); 
+8. the Karnataka Lifts, Escalators and Passenger Conveyors Act, 
+2012 (Karnataka Act 9 of 2013); 
+9. the Karnataka Municipalities Act, 1964 (Karnataka Act 22 of 
+1964); 
+10. the Karnataka Municipal Corporations Act, 1976 (Karnataka 
+Act 14 of 1977); 
+11. the Karnataka Town and Country Planning Act, 1961 
+(Karnataka Act  11 of 1963) ;and 
+ 12. the Karnataka Industries (Facilitation) Act, 2002 (Karnataka 
+Act 45 of  2003 
+ Hence, the Bill. 
+ 
+[L.A. Bill No. 59 of 2025, File No. SAMVYASHAE 65 SHASANA 2025]  
+[Entries 5, 6, 28, 32 of List II and entry 20 of List III of the Seventh 
+Schedule to the Constitution of India]  
+[Published in Karnataka Gazette Extra -ordinary No.577 in part -IVA 
+dated:12.09.2025] 
+IndiaCode
+
+=== PDF PAGE 10 ===
+ 10 
+ 
+1
+[KARNATAKA]
+1
+ ACT No. 36 OF 1964 
+(First published in the 1[Karnataka Gazette]1 on the Tenth day of September, 1964.) 
+THE BANGALORE WATER SUPPLY AND SEWERAGE ACT, 1964 
+(Received the assent of the President on the Twenty-seventh day of August, 1964.) 
+(As amended by Karnataka Acts 6 of 1966, 10 of 1966, 18 of 1984, 19 of 2009, 15 of 
+2010, 32 of 2010 , 5 of 2011, 28 of 2013, 25 of 2016, 2 of 2017, 29 of 2021 and 61 of 
+2025) 
+An Act to make provision for water supply, sewerage and sewage disposal in 
+Bangalore Metropolitan area and for matters connected therewith. 
+WHEREAS it is expedient to make provision for water supply, sewerage and sewage 
+disposal in Bangalore Metropolitan area and for matters connected therewith; 
+BE it enacted by the 1[Karnataka State] 1 Legislature in the Fifteenth Year of the 
+Republic of India as follows:— 
+ 1. Adopted by the Karnataka Adaptation of laws order 1973 w.e.f. 1.11.1973. 
+ 
+CHAPTER I 
+PRELIMINARY 
+1. Short title and commencement. —(1) This Act may be called the Bangalore 
+Water Supply and Sewerage Act, 1964. 
+(2) Chapters I, II, III and VI of this Act shall come into force at once, and Chapter IV 
+and Chapter V of this Act shall respectively come into force on such 1[dates]1 as the 
+State Government may by notification in the official Gazette, appoint. 
+ 1. Chapter 4 came into force w.e.f. 1.12.1964 and Chapter 5 w.e.f. 2.12.1964. 
+2. Definitions.—In this Act, unless the context otherwise requires,— 
+ 3[(1) ‘Apartment’ means a part of the property intended for any type of independent 
+use including one or more room or enclosed spaces located  on one or more floors    (or 
+part or parts thereof)  in a   building, intended to be used for  residential purposes and 
+with a direct exit to public street, road or highway or a common area leading to such 
+street, road or highway;   
+ (1a) ‘Bangalore Metropolitan Area’  means the area falling within the jurisdiction of the 
+Bruhat Bangalore Mahanagara Palike and includes such other areas adjacent thereto as 
+the State Government may, by notification, from time to time specify;]3 
+ (2) ‘Board’ means the Bangalo re Water Supply and Sewerage Board constituted 
+under this Act; 
+3[(3) ‘Bruhat Bangalore Mahanagara’ means the areas falling within the jurisdiction of 
+the Bruhat Bangalore Mahanagara Palike constituted under the Karnataka Municipal 
+Corporations Act, 1976;] 3 
+     
+1[(3A) “bye-laws” means bye-laws made by the Board under this Act;]1 
+  
+(4) ‘Chief Engineer’ means the officer appointed or authorised by the Board to 
+perform the functions of the Chief Engineer under this Act and includes an officer placed 
+in additional charge of the duties of the Chief Engineer; 
+ 3[(5) ‘Building’ includes  a residential building, house, out house, apartment, high rise 
+building, commercial building, temporary structure, industrial building, stable, latrine, 
+IndiaCode
+
+=== PDF PAGE 11 ===
+ 11 
+urinal, shed, hut or any o ther structure whether of masonry bricks, wood, mud, metal or 
+other materials but does not include any portable shelter; ]3 
+    
+ (6) ‘communication pipe’ means,— 
+(a) where the premises supplied with water abut on the part of the street in which 
+the main is laid, and the service pipe enters those premises otherwise than through the 
+outer wall of a building on the street and has a stopcock placed in those premises and 
+as near to the boundary of that street as is reasonably practicable, so much of the 
+service pipe as lies between the main and that stopcock; 
+(b) in any other case, so much of the service pipe as lies between the main and 
+the boundary of the street in which the main is laid, and includes the ferrule at the 
+junction of the service pipe with the main, and also,— 
+(i) where the communication pipe ends at a stopcock, that stopcock; and 
+(ii) any stopcock fitted on the communication pipe between the end thereof and 
+the main; 
+  3[(7)‘high rise building’ means buildings having more than four floors i.e., gr ound 
+floor + 3 floors and above; 
+  Explanation.- Multistoried building is also known in common parlance as high 
+rise building.] 3 
+     
+ (8) ‘drain’ includes sewer, tunnel, a culvert, a ditch, a channel and any other device 
+for carrying off sewage, offensive matter, polluted water, waste water, rain water or sub -
+soil water; 
+     4[(8a)‘Mahanagara Palike’ means the Bruhat Bangalore Mahanagara Palike;] 4 
+    
+(9) ‘land’ includes benefits to arise out of land, things attached to the earth or 
+permanently fastened to anything attached to the earth and rights created by law over 
+any street; 
+(10) ‘licensed plumber’ means a person licensed under the provisions of this Act as a 
+plumber; 
+(11) ‘main’ means a pipe laid 1[x x x] 1 for the purpose of giving a general supply  of 
+water as distinct from a supply to individual consumers and includes any apparatus used 
+in connection with such a pipe; 
+  
+(12) ‘notification’ means a notification published in the official Gazette; 
+(13) ‘occupier’ includes,— 
+(a) any person who for the time being is paying or is liable to pay to the owner the 
+rent or any portion of the rent of the land or building in respect of which such rent is paid 
+or is payable; 
+(b) an owner in occupation of, or otherwise using his land or building; 
+(c) a rent-free tenant of any land or building; 
+(d) a licensee in occupation of any land or building; and 
+(e) any person who is liable to pay to the owner damages for the use and 
+occupation of any land or building; 
+(14) ‘owner’ includes a person who for the time being is r eceiving or is entitled to 
+receive, the rent of any land or building whether on his own account or on account of 
+IndiaCode
+
+=== PDF PAGE 12 ===
+ 12 
+himself and others or as an agent, trustee, guardian or receiver for any other person or 
+who should so receive the rent or be entitled to recei ve it if the land or building or part 
+thereof were let to a tenant; 
+(15) ‘premises’ means any land or building or part of a building and includes,— 
+(a) the garden, ground and out -houses, if any, appertaining to a building or part of 
+a building; and 
+(b) any fittings affixed to a building or part of a building for the more beneficial 
+enjoyment thereof; 
+(16) ‘prescribed’ means prescribed by rules or regulations as the case may be made 
+under this Act; 
+(17) ‘prescribed officer’ means the officer prescribed by re gulations made under this 
+Act; 
+    1 [(17a)‘Pro-rata charges’ means proportionate charges towards cost of improvement 
+of water supply and sewerage systems levied by the Board from time to time payable by 
+owner or occupier or developer of any building; ]1 
+    
+(18) ‘regulations’ means regulations made by the Board under this Act; 
+(19) ‘rules’ means rules made by the State Government under this Act; 
+(20) ‘Sanitary Engineer’ means the officer appointed by the Board to be the Sanitary 
+Engineer and includes any officer placed in additional charge of the duties of the 
+Sanitary Engineer; 
+(21) ‘service pipe’ means so much of any pipe for supplying water from a main to any 
+premises as is subject to water pressure from that main, or would be so subject but for 
+the closing of some tap; 
+(22) ‘sewage’ means night soil and other contents of latrines, urinals, cesspools or 
+drains, and polluted water from sinks, bathrooms, stables, cattle sheds and other like 
+places, and includes trade effluents and discharges from manufactories of all kinds; 
+(23) ‘sewer’ means a closed conduit for carrying off sewage, offensive matter, 
+polluted water, waste water or sub-soil water; 
+(24) ‘shed’ means a slight or temporary structure for shade or shelter; 
+(25) ‘street’ includes any way, road, lane, square, court, alley, gully, passage, whether 
+a throughfare or not and whether built upon or not, over which the public have a right of 
+way and also the roadway or footway over any bridge or causeway; 
+(26) ‘supply pipe’ means so much of any service pipe as is not a communication pipe; 
+(27) ‘trade effluent’ means any liquid either with or without particles of matter in 
+suspension therein, which is wholly or in part produced in the course of any trade or 
+industry carried on at trade premises, and in rela tion to any trade premises means any 
+such liquid as aforesaid which is so produced in the course of any trade industry carried 
+on at those premises, but does not include domestic sewage; 
+(28) ‘trade premises’ means any premises used or intended to be used for carrying on 
+any trade or industry; 
+(29) ‘trade refuse’ means the refuse of any trade or industry; 
+(30) ‘trunk main’ means a main constructed for the purpose of conveying water from a 
+source of supply to a filter or reservoir or from one filter or reser voir to another filter or 
+reservoir, or for the purpose of conveying water in bulk from one part of the limits of 
+supply to another part of those limits, or for the purpose of giving or taking a supply of 
+water in bulk; 
+IndiaCode
+
+=== PDF PAGE 13 ===
+ 13 
+(31) ‘vehicle’ includes a carriage, cart, van, dray, truck, hand -cart, bicycle, cycle -
+rikshaw, auto-rikshaw, motor vehicle and every wheeled conveyance which is used or is 
+capable of being used on a street; 
+(32) ‘water course’ includes any river, stream or channel whether natural or artificial; 
+(33) ‘water fittings’ includes pipes (other than mains), taps, cocks, valves, ferrules, 
+meters, cisterns, baths and other similar apparatus used in connection with the supply 
+and use of water; 
+(34) ‘Water -Supply Engineer’ means the officer appointed by  the Board to be the 
+Water-Supply Engineer, and includes any officer placed in additional charge of the 
+duties of the Water Supply Engineer; 
+(35) ‘water works’ includes all lakes, tanks, streams, cisterns, springs, pumps, wells, 
+reservoirs, aqueducts, wate r trucks, sluices, mains, pipes, culverts, hydrants, stand 
+pipes and conduits and all lands, buildings, machinery, bridges and things used for, or 
+intended for the purpose of, supplying water. 
+     
+1. Inserted by Act 6 of 1966 w.e.f. 17.3.1966. 
+2. Omitted by Act 6 of 1966 w.e.f. 17.3.1966. 
+3. Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+4. 1. Inserted by Act 15 of 2010 w.e.f. 16.04.2010. 
+  
+CHAPTER II 
+ESTABLISHMENT OF THE BOARD 
+3. Constitution and composition of the Bangalore Water Supply and Sewerage 
+Board.—(1) The State Government shall as soon as may be after the commencement of 
+this Chapter, constitute by notification in the official Gazette a Board by the name of “The 
+Bangalore Water Supply and Sewerage Board”. 
+ 2[(2) The Board shall consist of not less than thr ee and not more than nine members 
+appointed by the State Government.] 2 
+ (3) Of the members,— 
+(a) one shall be a person who has experience of, and has shown capacity in 
+commercial matters and administration; 
+(b) 2[two]2 shall be 1[a person with wide experi ence of civil engineering works 
+preferably in the field of public health engineering with reference to water supply, 
+sewerage and sewage disposal and industrial wastes]1; and 
+ (c) one shall be a person who has experience of accounting and financial matters  
+in a public utility undertaking, preferably a water supply or sewage disposal undertaking. 
+(4) One of the members possessing any of the qualifications specified in sub -section 
+(3) shall be appointed by the State Government to be the Chairman of the Board. 
+2[(5) A person shall be disqualified for being appointed or being a member of the 
+Board if he is a member of the Parliament or of any State Legislature or any local 
+authority.] 2 
+ 
+ (6) No act done by the Board shall be called in question on the ground onl y of the 
+existence of any vacancy in, or defect in the constitution of, the Board. 
+1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+2. Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+IndiaCode
+
+=== PDF PAGE 14 ===
+ 14 
+4. Term of office and conditions for re -appointment of members of Board.—The 
+Chairman and other members of the Board shall hold office for such period, and shall be 
+eligible for re-appointment under such conditions, as may be prescribed by the rules. 
+5. 1[Disqualification for becoming a member of the Board.] 1—1[(1) A person shall 
+be disqualified for being appointed as a member of the Board, and for being a member 
+thereof, if, save as hereinafter provided, he has directly or indirectly by himself or his 
+partner any share or interest in any work done by order of the Board or in any contract or 
+employment with, or under, or by, or on behalf of, the Board.]1 
+ (2) Nothing contained in sub -section (1) shall prevent a member from acquiring or 
+holding any share or interest in any firm or company 2[x x x]2: 
+Provided that if the Board has ente red into, or is about to enter into any contract or 
+agreement with any such firm or company in which a member holds any share or 
+interest, he shall disclose the fact and nature of such interest and he shall not be entitled 
+to vote on any decision of the Board relating to such contract or agreement. 
+(3) A disclosure referred to in the proviso to sub -section (2) shall forthwith be 
+recorded in the minutes of the Board and communicated to the State Government and 
+the State Government may thereupon give such directions as it may deem proper. 
+1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+                                                         2. Omitted by Act 6 of 1966 w.e.f. 17.3.1966. 
+ 
+6. Removal or suspension of members. —(1) The State Government may suspe nd 
+from office for such period as it thinks fit or remove from office any member of the Board 
+who,— 
+(a) is of unsound mind and stands so declared by a competent court; or 
+(b) is an undischarged insolvent; or 
+1[(c) becomes subject to any disqualification sp ecified in sub -section (1) of section 
+5.]1 
+ (d) becomes or seeks to become a member of Parliament or any State Legislature 
+or any local authority; or 
+(e) in the opinion of the State Government,— 
+(i)   has refused to act; or 
+(ii)  has become incapable of acting; or 
+(iii) has so abused his position as a member as to render his continuance on the 
+Board detrimental to the interests of the general public; or 
+(iv) is otherwise unfit to continue as a member; or 
+(f)  is convicted of an offence involving moral turpitude. 
+(2) The State Government may suspend any member pending an inquiry against him. 
+(3) No order or removal shall be made under this section unless the member 
+concerned has been given an opportunity to submit his explanation to the State 
+Government and w hen such order is passed, the seat of the member removed shall 
+become vacant and another member may be appointed under section 3 to fill up the 
+vacancy. 
+(4) A member who has been removed shall not be eligible for re -appointment as 
+member or in any other capacity to the Board. 
+(5) If the Board fails to carry out its functions, or refuses or fails to follow 1[the 
+directions issued by the State Government under section 89] 1, the State Government 
+may remove the Chairman and the members of the Board and appoint a Chairman and 
+members in their places. 
+1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+IndiaCode
+
+=== PDF PAGE 15 ===
+ 15 
+7. Power of State Government to declare certain transactions void. —(1) The 
+State Government may declare void any transaction in connection with which a member 
+has bee n removed under 1[x x x] 1 clause ( e) of sub -section (1) of section 6 after 
+considering the report on the facts of the case made to it by a District Judge nominated 
+by it in this behalf. 
+ (2) A District Judge nominated under sub -section (1) shall, before ma king his report 
+under that sub -section to the State Government in relation to any transaction, give all 
+parties interested in the transaction a reasonable opportunity of being heard. 
+(3) Where a transaction is declared void under this section it shall not be enforceable 
+by any party to the transaction but the provisions of section 65 of the Indian Contract 
+Act, 1872, shall, so far as may be, apply to such transaction as they apply to an 
+agreement which is discovered to be void or a contract which becomes void. 
+(4) The decision of the State Government declaring any transaction void under this 
+section shall be final and shall not be called in question in any Court. 
+1. Omitted by Act 6 of 1966 w.e.f. 17.3.1966. 
+8. Temporary absence of members. —If the Chairman o r any other member of the 
+Board is by infirmity or otherwise rendered temporarily incapable of carrying out his 
+duties or is absent on leave or otherwise in circumstances not involving the vacation of 
+his appointment, the State Government may appoint anoth er person to officiate for him 
+and carry out his functions under this Act or any rule or regulation made thereunder. 
+9. Incorporation of Board. —(1) The Board shall be a body corporate having 
+perpetual succession and a common seal, with power subject to the  provisions of this 
+Act and the rules made thereunder, to acquire and hold and dispose of property, both 
+movable and immovable, and shall by the said name sue and be sued. 
+(2) For the purposes of this Act and the Land Acquisition Act, 1894, the Board shall  
+be deemed to be a local authority. 
+10. Authentication of orders and other instruments of the Board.—All orders and 
+decisions of the Board shall be authenticated by the signature of the Chairman or any 
+other member authorised by the Board in this behalf an d all other instruments issued by 
+the Board shall be authenticated by the signature of such member or officer of the Board 
+as may in like manner be authorised in this behalf. 
+11. Meetings of the Board. —(1) The Board shall hold ordinary meetings at such 
+intervals as may be provided in the regulations; and a meeting may be convened by the 
+Chairman at any other time for the transaction of urgent business. 
+(2) The number of members necessary to constitute a quorum at a meeting shall be 
+such as may be provided in the regulations. 
+ 1[12. Appointment of staff. - The Board may appoint a Chief Administrative Officer 
+cum Secretary, Engineer in Chief, Chief Engineers, Sanitary Engineers, Water Supply 
+Engineers and such other Engineers, Officers and servants as may be re quired to 
+enable the Board to carry out its functions under this Act:  
+  Provided that the appointment of the  Chief Administrative Officer-cum-Secretary, 
+Engineer in Chief, Chief Engineers, Additional Chief Engineers, Executive Engineers 
+shall be made with the prior approval of the State Government.] 1 
+1. Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+13. Appointment of 1[consultants]1.—The Board may, subject to such conditions as 
+may be prescribed by 1[regulations]1, from time to time, appoint qualified  persons to be 
+1[consultants]1 to the Board and pay them such remuneration as it thinks proper. 
+1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+IndiaCode
+
+=== PDF PAGE 16 ===
+ 16 
+14. Consultative Committee. —(1) The State Government shall constitute a 
+Consultative Committee consisting of m embers of the Board and such other persons 
+being not less than three and not more than nine as the State Government may appoint 
+after consultation with such representatives or bodies representative of the following 
+interests as the State Government thinks fit, that is to say, the Municipal Bruhat 
+Bangalore Mahanagara Palike of the Bruhat Bangalore Mahanagara, the Bangalore City 
+Improvement Trust Board and consumers of water. 
+(2) The Chairman of the Board shall be ex-officio Chairman of the Consultative 
+Committee. 
+(3) The Consultative Committee shall meet at least once in every three months. 
+(4) The functions of the Consultative Committee shall be as follows:— 
+(i) to advise the Board on major questions of policy and major schemes; 
+(ii) to review the progress and the work of the Board from time to time; 
+(iii) to consider such other matters as the Board may place before it; and 
+(iv) to consider such matters as the State Government may by rules prescribe. 
+(5) The Board shall place before the Consultative Committe e the annual financial 
+statement and supplementary statement, if any, before submitting such statement to the 
+State Government under section 17 together with copies of the report and proceedings. 
+15. General duties of the Board. —(1) The Board shall be char ged with the general 
+duty of providing a supply and improving the existing supply of water in the Bangalore 
+Metropolitan Area and of making adequate provision for the sewerage and the disposal 
+of the sewage in the Bangalore Metropolitan Area and for the ef ficient discharge of such 
+duty the Board shall exercise such powers and perform such functions as are conferred 
+or imposed by or under this Act. 
+(2) Without prejudice to the provisions of sub -section (1), it shall be the duty of the 
+Board to take steps from time to time,— 
+(a) for ascertaining the sufficiency and wholesomeness of water supplies within the 
+Bangalore Metropolitan Area; 
+(b) for preparing and carrying out schemes 1[x x x] 1 for the supply of wholesome 
+water for domestic purposes within the Bangalore Metropolitan Area; 
+ (c) for preparing and carrying out schemes 1[x x x] 1, for the proper sewerage of, 
+and the disposal of the sewage of, the Bangalore Metropolitan Area. 
+4[2[Provided that no scheme under clause (b) or (c) estimated to the cost as speci fied 
+in column (2) of the Table below shall be carried out by the Board without approval of the 
+Authority specified in column(3) thereof, namely:- 
+Table 
+SL. No. 
+(1) 
+Scheme 
+(2) 
+Approving Authority 
+(3) 
+(1) A scheme costing more than rupees ten 
+crores irrespective of source of funding 
+ 
+Government Cabinet Level 
+(2) A scheme costing less than rupees ten 
+crores with Government grant or loan as 
+source of funds  
+Government  
+(Administrative Department)]2]4 
+ 
+ (3) A scheme under clause (b) of sub-section (2) shall inter alia make provision,— 
+(a) for a supply of wholesome water in pipes to every part of the Bangalore 
+Metropolitan Area in which there are houses, for the domestic purposes of the occupants 
+IndiaCode
+
+=== PDF PAGE 17 ===
+ 17 
+thereof, and for taking the pipes affording that supply to such point or points as will 
+enable the houses to be connected thereto at a reasonable cost, so however, that this 
+clause shall not require the Board to do anything which is not practicable at a reasonable 
+cost or to provide such a supply to any part of the Ban galore Metropolitan Area where 
+such a supply is already available at such point or points aforesaid; 
+(b) for a supply, as far as possible, of wholesome water otherwise than in pipes in 
+every part of the Bangalore Metropolitan Area in which there are houses , for the 
+domestic purposes of the occupants thereof, and to which it is not practicable to provide 
+a supply in pipes at a reasonable cost, and in which danger to health arises from the 
+insufficiency or unwholesomeness of the existing supply and a public s upply is required 
+and can be provided at a reasonable cost, and for securing that such supply is available 
+within a reasonable distance of every house in that part. 
+(4) If any question arises under clause (a) of sub-section (3) as to whether anything is 
+or is not practicable at a reasonable cost or as to the point or points to which pipes must 
+be taken in order to enable houses to be connected to them at reasonable cost, or under 
+clause (b) of the said sub -section, as to whether a public supply can be provi ded at a 
+reasonable cost, the State Government shall determine that question and thereupon the 
+Board shall give effect to that determination. 
+(5) Without prejudice to the provisions of sub -sections (1), (2) and (3), the Board 
+shall, for the purposes of sec uring, as far as is reasonably practicable, that every house 
+has a sufficient supply of wholesome water for domestic purposes, exercise its powers 
+under this Act of requiring the owners of houses to provide a supply of water thereto. 
+ 1[(6) The Board shall also have  power to insist on owner, occupier or builder to adopt 
+water conservation methods like rain water harvesting and recycling of waste water for 
+non potable or potable purposes. 
+ (7) For the efficient discharge of such duties, the Board shall exer cise such powers 
+and perform such functions as are conferred or imposed by or under this Act.] 1 
+1. Omitted by Act 6 of 1966 w.e.f. 17.3.1966. 
+2. Inserted by Act 6 of 1966 w.e.f. 17.3.1966. 
+3. Inserted by Act 15 of 2010 w.e.f. 16.04.2010. 
+4. substituted by Act 2 of 2017 w.e.f 4.1.2017 
+ 
+CHAPTER III 
+THE BOARD’S FINANCE, ACCOUNTS AND AUDIT 
+  1[16. General principles for Board’s finance.—  2 [(1) For carrying on its 
+operations under this Act, the Board shall levy rates, fees, rentals, prorata charges, 
+deposits, taxes, and other charges and shall vary such rates, fees, rentals, prorata 
+charges, deposits, taxes  and other charges from time to time in order to provide 
+sufficient revenue,- 
+ (a) to cover operating expenses, taxes, interest payments and to provide for  
+adequate maintenance and depreciation, contribution to pension fund including all 
+expenses incurred during the year; 
+ (b) to meet repayment of loans and other borrowings; 
+ (c) to finance year to year improvement; and 
+ (d) to provide for such other purpose s beneficial to the promotion of water supply 
+and disposal of sewage in the Bangalore Metropolitan area as the Board may 
+determine.]2 
+IndiaCode
+
+=== PDF PAGE 18 ===
+ 18 
+(2) No part of the revenues of the Board, after meeting the expenses referred to in 
+clauses (a), (b) and ( c) of sub-section (1) shall be used to augment the reserves of the 
+Board other than the reserves referred to in sections 24 and 24 -A or for the general 
+purposes of the Board including expenses in connection with capital works, other than 
+improvement works.]1 
+1. Subsection 1 and 2 Substituted by Act 6 of 1966 w.e.f. 10.9.1964. 
+  
+2.     Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+ 
+17. Annual financial statement. —(1) In February of each year the Board shall 
+submit to the State Government a statement in the form prescribed b y 1[regulations]1 of 
+the estimated capital and revenue receipts and expenditure for the ensuing year. 
+(2) The said statement shall include a statement of the salaries of members, officers 
+and servants of the Board and of such other particulars as may be prescribed by rules. 
+(3) The State Government shall as soon as may be after receipt of the said statement 
+cause it to be laid on the table of both Houses of the State Legislature; and the said 
+statement shall be open to discussion therein, but shall not be subject to vote. 
+(4) The Board shall take into consideration any comments made on the said 
+statement in the State Legislature. 
+(5) The Board may at any time during the year in respect of which a statement under 
+sub-section (1) has been submitted, submit to the State Government a supplementary 
+statement, and all the provisions of this section shall apply to such statement as they 
+apply to the statement under the said sub-section. 
+18. Restriction on unbudgeted expenditure. —(1) Save where in the opinion of the 
+Board circumstances of extreme urgency have arisen, no sum exceeding 1[one lakh of 
+rupees]1 on account of recurring expenditure or exceeding 1[five lakhs of rupees] 1 on 
+account of non -recurring expenditure shall be expended by the Board in any year of 
+account unless such sum has been included in a statement submitted under sub -section 
+(1) or sub-section (5) of section 17. 
+  
+(2) Where any such sum is expended under circumstances of extreme urgency, a 
+report thereon indicating the source from which it is prop osed to meet the expenditure 
+shall be made so soon as practicable to the State Government. 
+1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+19. Subventions to the Board. —The State Government may, with the approval of 
+the State Legislature from time to tim e make subventions to the Board for the purposes 
+of this Act on such terms and conditions as the State Government may determine. 
+20. Loans to the Board. —The State Government may, from time to time, advance 
+loans to the Board on such terms and conditions, n ot inconsistent with the provisions of 
+this Act, as the State Government may determine. 
+    21. Power of Board to borrow .— 1[(1)The Board shall not borrow any loan 
+without the prior approval of the State Government.] 1 
+(2) Rules made by the State Governme nt for the purposes of this section may 
+empower the Board to borrow by the issue of bonds or stocks or otherwise and to make 
+arrangements with bankers. 
+(3) The maximum amount which the Board may at any time have on loan under sub -
+section (1) shall be ten c rores of rupees, unless the State Government by notification 
+fixes a higher maximum amount. 
+IndiaCode
+
+=== PDF PAGE 19 ===
+ 19 
+(4) Stock issued by the Board under this section shall be issued, transferred, dealt 
+with and redeemed in such manner as may be prescribed by rules. 
+1.  Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+ 
+22. Guarantee of loans.—The State Government may guarantee in such manner as 
+it thinks fit the payment of the principal and interest of any loan proposed to be raised by 
+the Board or of either the principal or the interest: 
+Provided that the State Government shall, so long as any such guarantees are in 
+force, lay before both Houses of the State Legislature in every year during the budget 
+session a statement of the guarantees, if any, given during the current financial year of 
+the State, and an up-to-date account of the total sums, if any, which have been paid out 
+of State revenues by reason of any such guarantees or paid into State revenue towards 
+repayment of any money so paid out. 
+1[23. x x x]1 
+ 1. Omitted by Act 6 of 1966 w.e.f. 17.3.1966. 
+24. Depreciation reserve. —(1) The Board shall create a depreciation reserve and, 
+1[x x x] 1 shall, at the end of every year, credit to such reserve from its revenue, such 
+amount as would if made annually throughout the preserved period of assets specified in 
+the Table appended to the Schedule to this Act and accumulated at compound interest 
+at the rate of three per cent per annum produce by the end of the prescribed period an 
+amount equal to ninety per cent of the original cost of the assets after taking into account 
+the sums already written off and set aside in the books of the Board. 
+(2) The amount to be credited every year to the depreciation reserve under sub -
+section (1) shall consist of the incremental deposit plus interest on the  accumulated 
+balance in the reserve: 
+Provided that the contribution in respect of any asset to the depreciation reserve 
+under this section shall cease at the end of such period as may be prescribed by 
+1[regulations]1 or when the asset ceases to be used by the Board, whichever is earlier: 
+  
+1[Provisos x x x]1 
+1. Omitted by Act 6 of 1966 w.e.f. 17.3.1966. 
+2. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+1[24A. Improvement reserve. —The Board shall create a reserve for improvement 
+works and shall, at the end of ever y year, credit to such reserve from its revenue such 
+percentage of the balance remaining after meeting its operating, maintenance and 
+management expenses and after adequate provision is made for depreciation, taxes, 
+interest and amortization payments on lo ans and other borrowings as the Board may 
+determine, taking into consideration the improvement works which the Board will have to 
+execute in order to provide adequate water supply and sewage disposal services in the 
+Bangalore Metropolitan Area. 
+ 1. Section 24A and 24B inserted by Act 6 of 1966 w.e.f. 10.9.1964. 
+24B. Payment of interest to Government.—In respect of assets of the Government 
+which vest in the Board by virtue of the provisions of this Act, the Board shall pay 
+interest on the cost of such assets at such rate as may, from time to time, be fixed by the 
+Government in consultation with the Board and such interest shall be deemed to be a 
+part of the expenditure of the Board.]1 
+    1[24C.Power to write off irrecoverable amounts. - The Board shall have power to 
+write off any amount or sum due to it, if, in its opinion, such amount or sum is 
+irrecoverable: 
+IndiaCode
+
+=== PDF PAGE 20 ===
+ 20 
+  Provided that the Board shall, before writing off such an amount exceeding 
+twenty-five thousand rupees, obtain the sanction of the State Government.]1 
+1.  Inserted by Act 15 of 2010 w.e.f. 16.04.2010. 
+25. Accounts and audit. —(1) The Board shall cause proper accounts and other 
+records in relation thereto to be kept, including the proper system of internal check and 
+prepare an annual statement of accounts, including the income and expenditure account 
+and the balance sheet in such form as may be prescribed by 1[regulations]1 2[x x x]2. 
+(2) The accounts of the Board shall be audited by 3[such auditors as may be 
+appointed by the Government] 3 and any expenditure incurred 2[x x x]2 in connection with 
+such audit shall be payable by the Board 2[x x x]2. 
+   
+(3) The 3[auditor appointed by the Government]3 shall have the same rights, privileges 
+and authority in connection with such audit as the Comptroller and Audit or-General of 
+India has in connection with the audit of Government accounts and in particular shall 
+have the right to demand the production of books, accounts, connected vouchers and 
+other documents and papers, and to inspect any of the offices of the Board. 
+   
+(4) The accounts of the Board as certified by the 3[auditor]3 together with the audit 
+report thereon shall be forwarded annually to the State Government and the State 
+Government may issue such instructions to the Board in respect thereof as it deems fit 
+and the Board shall comply with such instructions. 
+(5) The State Government shall,— 
+(a) cause the accounts of the Board together with the audit report thereon 
+forwarded to it under sub-section (4) to be laid annually before the State Legislature; and 
+(b) cause the accounts of the Board to be published in the manner prescribed by 
+1[regulations]1 and make available copies thereof on sale at a reasonable price. 
+1.Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+2.Omitted by Act 18 of 1984 w.e.f. 21.4.1984.. 
+3. Substituted by Act 18 of 1984 w.e.f. 21.4.1984. 
+CHAPTER IV 
+WATER SUPPLY 
+26. Vesting of works in Board. —On and from the date of coming into force of this 
+Chapter, all public reservoirs, tanks, cisterns, fountains, wells, pumps, pipes, taps, 
+conduits and other works connected with the supply of water to the 1[Bangalore 
+Metropolitan Area] 1 including the headworks and reservoirs at Tippagondanhalli and 
+Hesarghatta and the rising mains whether made at the cost of the Government, the 
+Bruhat Bangalore Mahanagara Palike or otherwise and all bridges, buildings, machinery, 
+works, materials and other things connected therewith and all land (not being private 
+property) adjacent and appertaining to the same shall vest in the Board and be subject 
+to its control. 
+ 1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+27. Construction of water works. —(1) The Board may construct, lay, or erect 
+filtration plants, reservoirs, machinery conduits, pipes or other works in any place in the 
+State for supplying the Bangalore Metropoli tan Area with water, and may provide tanks, 
+reservoirs, machinery, mains, fountains and other conveniences within the Bangalore 
+Metropolitan Area for the use of the inhabitants. 
+(2) The Board may cause existing water works to be maintained and supplied wit h 
+water or it may close any such works and substitute other such works and may cause 
+them to be maintained and supplied with water. 
+IndiaCode
+
+=== PDF PAGE 21 ===
+ 21 
+28. Trespass on water supply premises. —No person shall except with permission 
+duly obtained from the Board or the Water Supp ly Engineer enter on land vested in the 
+Board along which a conduit or pipe runs or on any premises connected with the water 
+supply. 
+   29. Prohibition of building over water mains.— 1[(1) No building, wall or other 
+structure shall be erected and no street  be constructed over any Board’s water main. 
+Even where structure is built near a pipe line there shall be a minimum clearance of 1.0 
+meter or half the dia -meter of the pipe line which ever is greater from the edge of the 
+structure to the pipe line or appurtenances on the pipe-line.] 1 
+(2) If any building, wall or other structure be so erected or any street be so 
+constructed, the Water Supply Engineer may cause the same to be removed or 
+otherwise dealt with as the Water Supply Engineer deems fit and the exp enses thereby 
+incurred shall be paid by the persons contravening the provisions of sub-section (1). 
+1.  Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+30. Control over house connections. —All house connections, whether within or 
+without the premises to wh ich they belong, with the water -supply mains shall be under 
+the control of the Board, but shall be altered, repaired and kept in proper order, at the 
+expense of the owner of the premises to which they belong, or for the use of which they 
+were constructed, and in conformity with the regulations made in that behalf. 
+31. Payment to be made for water supplied. —Notwithstanding anything contained 
+in section 127 or any law, contract or other instrument, for all water supplied under this 
+Act, payment shall be made at such rates, at such times and under such conditions as 
+may be specified by regulations, and different rates may be prescribed for supply of 
+water for different purposes. 
+1[Provided that where an arrangement has been entered into with the Bruhat 
+Bangalore Mahanagara Palike             2 [under the provisions of Karnataka Municipal 
+Corporations Act, 1976,]2 water shall be supplied by the Board in accordance with such 
+arrangement to the inhabitants of the City.]1 
+1. Inserted by Act 10 of 1966 w.e.f. 31.3.1966. 
+2.     Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+ 
+32. Private water supply for domestic consumption. —(1) The Water Supply 
+Engineer may, on application by the owner or occupier of any building, arrange, in 
+accordance with the regulations, to supply water thereto for domestic consumption and 
+use. 
+(2) It shall not be lawful for the owner of any dwelling house which may be 
+constructed or re-constructed after the commencement of this Act to occupy it or cause 
+or permit it to be occupied until he has obta ined a certificate from the Board that there is 
+provided within, or within a reasonable distance of the house such supply of wholesome 
+water as appears to the Board to be sufficient for the domestic consumption and use of 
+the inmates of the house. 
+ 1[(3) Where on any land there is a super structure without  supply of water from the 
+Boards main for domestic consumption and where such supply can be furnished from 
+the main not more than 35 meters distant from any part of any such super structure, the 
+Board may by notice require the owner, lessee or occupant of the land or super structure 
+to obtain such supply.] 1 
+1.  Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+IndiaCode
+
+=== PDF PAGE 22 ===
+ 22 
+33. Supply of water for domestic purpose not to include any supply for certain 
+specified purposes.—The supply of water for domestic purposes under this Act shall 
+not be deemed to include any supply,— 
+ 2[(a) for any trade, manufacture or business including Hospitals, Nursing homes, 
+Educational Institutions and Community Halls; ]2 
+ 
+ 
+ (b) for gardens or for purposes of irrigation; 
+(c) for building purposes; 
+(d) for fountains, swimming baths, public baths or tanks or for any ornamental or 
+mechanical purpose; 
+(e) for animals, where they are kept for sale or hire or for the sale of their produce or 
+any preparation therefrom; 
+(f) for the consumption and use by the inmates of hotels, boarding houses and 
+residential clubs; 
+(g) for the consumption and use by the persons resorting to theatres and cinemas; 
+(h) for constructing or for watering streets; or 
+(i) for washing vehicles where they are kept for sale or hire; 
+1[x x x]1 
+1. Omitted by Act 18 of 1984 w.e.f. 1.12.1964. 
+2. Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+  
+34. Water supply for domestic purposes not to be used for non -domestic 
+purposes.—No person shall, without the written permission of the Board, use or allow to 
+be used for other than domestic purposes water supplied for domestic purposes. 
+35. Power to supply water for non -domestic purposes.—(1) The Chief Engineer 
+may, with the sanction of the Board, supply water for any purpose other than a domestic 
+purpose on such terms and conditions consistent with this Act and the regulations made 
+thereunder on receiving a written application specifying the purpose for which such 
+supply is required and the quantity likely to be consumed. 
+(2) When an application under sub -section (1) is received, the Chief Engineer may, 
+subject to such charges and rates as may be fixed by the regulations, lay or allow to be 
+laid the necessary pipes and water fittings of such dime nsions and description as may 
+be prescribed by the regulation and may arrange for the supply of water through such 
+pipes and fittings. 
+36. Supply of water to the Bruhat Bangalore Mahanagara Palike and other local 
+authorities.—The Board may supply water to the Government, Bruhat Bangalore 
+Mahanagara Palike or any other local authority on such terms as to payment and as to 
+the period and the conditions of supply as shall be determined by the Board. 
+37. Use of water for extinguishing fire. —Water may be used fo r extinguishing fire 
+without payment. 
+38. Public water supply.—(1) The Board may, subject to the payment by the Bruhat 
+Bangalore Mahanagara Palike of such charges as the Board may determine, provide 
+gratuitous supply of wholesome water to the public within  the Bruhat Bangalore 
+Mahanagara and may, for that purpose, erect public hydrants or other conveniences. 
+(2) The Water -Supply Engineer may, in consultation with the Commissioner of the 
+Bruhat Bangalore Mahanagara Palike, close a public hydrant or other convenience when 
+it is no longer required for the supply of wholesome water to the public. 
+IndiaCode
+
+=== PDF PAGE 23 ===
+ 23 
+39. Power to lay mains. —(1) Notwithstanding anything contained in 1[the Karnataka 
+Municipal Corporations Act, 1976 ] 1 or any other law for the time being in force, the 
+Board may lay a main whether within or without the local limits of the Bangalore 
+Metropolitan Area,— 
+ (a) in any street or any land vested in the Government, the Bruhat Bangalore 
+Mahanagara Palike or any other local authority or any Corporation owned or 
+controlled by the Government; 
+ (b) with the consent of every owner and occupier of any land not forming part of a 
+street, in, over or on that land, 
+and may, from time to time, inspect, repair, alter or renew or may at any time remove 
+any main so laid whether by virtue of this section or otherwise: 
+Provided that where a consent required for the purpose of this sub -section is 
+withheld, the Board may, after giving the owner or occupier of the land a written notice of 
+its intention so to do, lay the main in, over or on that land even without such consent. 
+ (2) Where the Board, in exercise of the powers under this section, lays a main in, 
+over or on any land not forming part of a street or land referred to in clause ( a) of sub -
+section (1), or inspect, repair, alter , renew or remove a main so laid down in, over or on 
+any such land, it shall pay compensation to every person interested in that land for any 
+damage done to, or injurious affection of that land by reason of the inspection, laying, 
+repair, alteration, renewal or removal of the main. 
+1.  Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+40. Power to lay service pipes, etc. —(1) The Board may, in any street or any land 
+referred to in clause ( a) of sub -section (1) of section 39, whether within or without the 
+local limits of the Bangalore Metropolitan Area, lay such service pipes with such 
+stopcocks and other water fittings as it may deem necessary for supplying water to 
+premises and may, from time to time, inspect, repair, alter or renew and may, at any 
+time, remove any service pipe laid in such street or land whether by virtue of this section 
+or otherwise. 
+(2) Where a service pipe has been lawfully laid in, over, or on the land not forming 
+part of a street or land referred to in sub -section (1), such officers as t he Board may 
+authorise may from time to time enter upon that land and inspect, repair, alter, renew or 
+remove the pipe or lay a new pipe in substitution thereof but shall pay compensation for 
+any damage done in the course of such action. 
+41. Provision of f ire hydrants.—(1) The Water -Supply Engineer shall fix hydrants 
+on water mains (other than trunk mains) at such places as may be most convenient for 
+affording a supply of water for extinguishing any fire which may break out and shall keep 
+in good order and from time to time renew every such hydrant. 
+(2) To denote the situation of every hydrant placed under this section, letters, marks 
+or figures shall be displayed prominently on some wall, building or other structure near 
+such hydrant. 
+(3) As soon as any suc h hydrant is completed, the Water -Supply Engineer shall 
+deposit a key thereof at each place where a public fire engine is kept and in such other 
+places as he deems necessary. 
+(4) The Board may, at the request and expense of the owner or occupier of any 
+factory, workshop, trade premises or place of business situated in or near a street in 
+which a pipe is laid (and not being a trunk main and being of sufficient dimensions to 
+carry a hydrant), fix on the pipe and keep in good order and from time to time renew one 
+or more fire hydrants, to be used only for extinguishing fires as near as conveniently may 
+be to that factory, workshop, trade premises or place of business. 
+IndiaCode
+
+=== PDF PAGE 24 ===
+ 24 
+(5) The Board shall allow all persons to take water for extinguishing fires from any 
+pipe on which a hydrant is fixed without any payment. 
+42. Power to require owners of premises to set up pumps, etc. —The owner of 
+every premises connected with the Board water works shall, when so required by the 
+Board, provide a sump and set up electric pumps or ot her contrivances whereby water 
+may be caused to reach to the top of the top-most storey of such premises. 
+43. Supply of water. —The Water-Supply Engineer may permit the owner, lessee or 
+occupier of any premises to connect the premises by means of supply pip es for 
+conveying to the premises a supply of water for his domestic purposes from the Board 
+water works subject to the requirements specified in section 44 and the conditions, if 
+any, laid down in the rules made in this behalf. 
+44. Laying of supply pipes, etc.—(1) An owner, lessee or occupier of any premises, 
+who desires to have a supply of water for his domestic purposes from the Board water 
+works, shall comply with the following requirements, namely:— 
+(a) he shall give to the Board fourteen days’ notice o f his intention to lay the 
+necessary supply pipe; and 
+(b) he shall lay the supply pipe at his own expense, having first obtained, as 
+respects any land not forming part of a street, the consent of the owners or occupiers 
+thereof: 
+Provided that where any par t of the supply pipe is to be laid in a street, he shall not 
+himself break open the street or lay that part of the pipe. 
+(2) Upon the receipt of such a notice as is referred to in sub -section (1), the Board 
+shall 1[if in its opinion there is no objection] 1 lay the necessary communication pipe and 
+any part of the supply pipe which is to be laid in a street and shall connect the 
+communication pipe with the supply pipe. 
+  
+(3) The expenses, reasonably incurred by the Board in executing the work which it is 
+required or authorised by this section to execute, shall be repaid to it by the person by 
+whom the notice was given and may be recovered from such person as an arrear of 
+water rate under this Act: 
+Provided that if 2[the Board considers it necessary to lay] 2 a main in lieu of a supply 
+pipe, the additional cost incurred in laying the main instead of a supply pipe shall be 
+borne by him. 
+ (4) Notwithstanding anything contained in the foregoing provisions of this section, the 
+Board may, within a reasonable time after the service of the notice upon him, require the 
+person giving the notice either to pay to it in advance, the cost of the work as estimated 
+by the Board or to give security for payment thereof to its satisfaction. 
+(5) If any payment made to the Board unde r sub-section (4) exceeds the expenses 
+which it would be entitled to recover from the person giving the notice, the excess shall 
+be repaid by it and if and so far as those expenses are not covered by the payment, the 
+Board may recover the balance from such  person as an arrear of water rate under this 
+Act. 
+        1. Inserted by Act 6 of 1966 w.e.f. 17.3.1966. 
+2. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+45. Power to require separate service pipes. —(1) The Board may require the 
+provision of a separate s ervice pipe for each of the premises supplied or to be supplied 
+by it with water. 
+(2) If, in the case of any premises already supplied with water but not having a 
+separate service pipe, the Board gives notice to the owner of the premises requiring the 
+IndiaCode
+
+=== PDF PAGE 25 ===
+ 25 
+provision of such a pipe, the owner shall, within three months, lay so much of the 
+required pipe as will constitute a supply pipe and is not required to be laid in a street, 
+and the Board shall, within fourteen days after the owner has done so, lay so much of 
+the required pipe as will constitute a communication pipe or a supply pipe to be laid in a 
+street and make all necessary communications. 
+(3) If an owner upon whom a notice has been served under sub -section (2) fails to 
+comply therewith the Board may itself execute the work which the owner was required to 
+execute and recover the expenses reasonably incurred by it in executing the work as an 
+arrear of water rate under this Act. 
+46. Stopcocks.—(1) On every service pipe laid after the date of coming into force of 
+this Chapter, the Board shall, and on every service pipe laid before such date the Board 
+may fit a stopcock enclosed in a cover box or a pit of such size as may be reasonably 
+necessary. 
+(2) Every stopcock fitted on a service pipe after the date of comin g into force of this 
+Chapter shall be placed in such position as the Board deems most convenient: 
+Provided that,— 
+(a) a stopcock in private premises shall be placed as near as is reasonably 
+practicable to the street from which the service pipe enters those premises; and 
+(b) a stopcock in a street shall be placed as near to the boundary thereof as is 
+reasonably practicable. 
+47. Power to provide meters.—(1) The Board may provide a water-meter and attach 
+the same to the service pipe in premises connected with Board water works. 
+1[(2) The cost of meters, the expense of their installation, and the rent payable for use 
+of meters, shall be such as may be prescribed by regulations, and shall be paid by the 
+owner of the premises.]1 
+1[(3) The use, maintenance and test ing of meters shall be regulated by bye -laws 
+made in this behalf.]1 
+1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+48. Presumption as to correctness of meters. —Whenever water is supplied under 
+this Act through a meter, it shall be presumed that the quan tity indicated by the meter 
+has been consumed until the contrary is proved. 
+49. Prohibition of waste or misuse of water. —(1) No person shall wilfully or 
+negligently cause or suffer any water fitting which he is liable to maintain,— 
+ (a) to be or remain so out of order or so in need of repair, or 
+ (b) to be or remain so constructed or adapted or to be so used, 
+- that the water supplied to him by the Board is or is likely to be wasted, misused or 
+unduly consumed, or contaminated before use, or that foul air o r any impure matter is 
+likely to return into any pipe belonging to, or connected with, a pipe belonging to the 
+Board. 
+(2) If any water fitting which any person is liable to maintain is in such a condition, or 
+so constructed or adapted as aforesaid, the Boa rd, without prejudice to any action 
+against the person under any other provision of this Act, may require that person to carry 
+out any necessary repairs or alterations and if he fails to do so within forty -eight hours, 
+may itself carry out the work and rec over from him the expenses reasonably incurred by 
+it in so doing, as an arrear of water-rates payable under this Act. 
+50. Power to enter premises to detect waste or misuse of water. —The Water-
+Supply Engineer or any officer authorised by the Board may, betw een sunrise and 
+sunset, enter any premises supplied with water by the Board in order to examine if there 
+IndiaCode
+
+=== PDF PAGE 26 ===
+ 26 
+be any waste or misuse of such water and the Water -Supply Engineer or such officer 
+shall not be refused admittance to the premises nor shall he be obst ructed by any 
+person in making his examination. 
+51. Power to test water fittings. —The Board may test any water fitting used in 
+connection with water supplied by the Board. 
+52. Water pipes, etc., not to be placed where water will be polluted. —(1) No 
+water pipes shall be laid in a drain or on the surface of an open channel or house gully 
+or within six meters of a cesspool or in any position where the pipe is likely to be injured 
+or the water therein polluted; and except with the approval of the Board no ciste rn shall 
+be constructed within six meters of a latrine, or cesspool. 
+(2) No latrine, or cesspool shall be constructed or made within six meters of any water 
+pipe or cistern or in any position where the pipe or cistern is likely to be injured or the 
+water therein polluted. 
+53. Power to cut off water supply. —(1) The Board may cut off the supply of water 
+from any premises,— 
+(a) if the premises are unoccupied; 
+(b) if the owner or occupier neglects to comply with any lawful order or requisition 
+regarding water supply issued by the Board within the period specified therein; 
+(c) if any charges or any other sum due for water or for the cost of making a 
+connection or the hire of a meter or the cost of carrying out any work or test connected 
+with the water supply whic h is chargeable to any person by or under this Act is not paid 
+within fifteen days after a bill for such charges or sums has been presented or served; 
+(d) if after receipt of a notice from the Board requiring him to refrain from so doing, 
+the owner or occu pier continues to use the water or to permit it to be used in 
+contravention of the provisions of this Act or any rule made there-under; 
+(e) if the owner or occupier wilfully or negligently damages his meter or any pipe or 
+tap conveying water; 
+(f) if the owner or occupier refuses to admit the Board or any person authorised by 
+it in this behalf into the premises which it or he proposes to enter for the purpose of 
+executing any work or of placing or removing any apparatus or of making any 
+examination or inquiry in connection with the water supply or prevents the Water Supply 
+Engineer or any person authorised by the Board doing such work, from placing or 
+removing such apparatus or making such examination or inquiry; 
+(g) if any pipes, taps, works or fittings conn ected with the water supply are found 
+on examination by the Board or any person authorised by it to be out of repair to such an 
+extent as to cause waste or contamination of water; 
+(h) if the owner or occupier causes pipes, taps, works or fittings connected with the 
+Board water supply to be placed, removed, repaired or otherwise interfered with in 
+contravention of the provisions of this Act or of the rules or regulations made thereunder: 
+Provided that the Board shall not cut off the supply of water unless no tice of not less 
+than three days has been given to the owner or occupier of the premises. 
+      1[(i) on receipt of requisition from any statutory authority on the ground of violation of 
+any statutory provisions by the owner or occupier or developer of the building: 
+  Provided that the Board shall not cut off the supply of water unless a notice of not 
+less than seven days has been given to the owner or occupier of the premises, except in 
+case involving contamination of water; ]1 
+IndiaCode
+
+=== PDF PAGE 27 ===
+ 27 
+ (2) ( a) The owner and the occupier of the premises shall be jointly and severally 
+liable for the payment of all the sums referred to in clause (c) of sub-section (1). 
+(b) The sums referred to in clause (a) shall be a charge on the premises. 
+(3) The expenses of cutting off the supply shall be payable by the owner and occupier 
+of the premises jointly and severally. 
+(4) In case under clause ( c) of sub -section (1) as soon as any money for non -
+payment of which water has been cut off, together with the expenses of cutting off the 
+supply, has been paid by the owner or occupier, the Board shall cause water to be 
+supplied as before on payment of the cost of re -connecting the premises with the water 
+works. 
+(5) Action taken under this section against any person shall be without prejudice to 
+any penalties to which he may otherwise be liable. 
+1.  Inserted by Act 15 of 2010 w.e.f. 16.04.2010. 
+54. Joint and several liability of owners and occupiers for offence in relation to 
+water supply.—If any offence relating to water supply is committed under th is Act on 
+any premises connected with the Board water works, the owner, the person primarily 
+liable for the payment of the charges for water, and the occupiers of the said premises 
+shall be jointly and severally liable for such offence. 
+55. Non-liability of Board when supply reduced or not made in certain cases. —
+The Board shall not be liable to any penalty or damages for cutting off the supply of 
+water or for not supplying water in the case of unusual drought, other unavoidable cause 
+or accident, or the necessity for relaying or repairing pipes. 
+56. Rights of user of conduits, lines, etc. —(1) The Board may place and maintain 
+conduits and lines of mains or pipes over, under, along or across any immovable 
+property whether within or without the local limits of the Bangalore Metropolitan Area 
+without acquiring the same, and may at any time for the purpose of examining, repairing, 
+altering or removing any conduits or lines of mains or pipes, enter on any property over, 
+under, along or across which the conduits or lines of mains or pipes have been placed: 
+Provided that the Board shall not acquire any right other than a right of user in the 
+property over, under, along or across which any conduit or line of mains or pipes is 
+placed. 
+(2) In the exercise of the powers c onferred upon it by this section, the Board shall 
+cause as little damage and inconvenience as may be possible, and shall make full 
+compensation for any damage or inconvenience caused by it. 
+57. Power of owner of premises to place pipes through land belongi ng to other 
+persons.—(1) If it appears to the Board that the only or most convenient means of water 
+supply to any premises is by placing or carrying any pipe over, under, along or across 
+the immovable property of another person, it may, by order in writing , authorise the 
+owner of the premises to place or carry such pipe, over, under, along or across such 
+immovable property: 
+Provided that before making any such order the Board shall give to the owner of the 
+immovable property a reasonable opportunity of showing cause within such time as may 
+be prescribed by regulations made in this behalf as to why the order should not be 
+made: 
+Provided further that the owner of the premises shall not acquire any right other than 
+a right of user in the property over, under, along or across which any such pipe is placed 
+or carried. 
+(2) Upon the making of an order under sub -section (1), the owner of the premises 
+may, after giving reasonable notice of his intention so to do, enter upon the immovable 
+IndiaCode
+
+=== PDF PAGE 28 ===
+ 28 
+property with assistants and w orkmen at any time between sunrise and sunset for the 
+purpose of placing a pipe over, under, along or across such immovable property or for 
+the purpose of repairing the same. 
+(3) In placing or carrying a pipe under this section, as little damage as possibl e shall 
+be done to the immovable property and the owner of the premises shall,— 
+(a) cause the pipe to be placed or carried with the least practicable delay; 
+(b) fill in, re -instate and make good at his own cost and with the least practicable 
+delay, and lan d opened, broken up or removed for the purpose of placing or carrying 
+such pipe; and 
+(c) pay compensation to the owner of the immovable property and to any other 
+person who sustains damage by reason of the placing or carrying of such pipe. 
+(4) If the owner of the immovable property, over, under, along or across which a pipe 
+has been placed or carried under this section whilst such immovable property was not 
+built upon, desires to erect any building on such property, the Board shall, by notice in 
+writing, require the owner of the premises to close, remove or divert the pipe in such 
+manner as shall be approved by him and to fill in, re -instate and make good the 
+immovable property as if the pipe had not been placed or carried over, under, along or 
+across the same: 
+Provided that no such requisition shall be made unless in the opinion of the Board it is 
+necessary or expedient for the construction of the proposed building or the safe 
+enjoyment thereof that the pipe should be closed, removed or diverted. 
+58. Power t o execute work after giving notice to the person liable. —(1) When 
+under the provisions of this Chapter any person may be required or is liable to execute 
+any work, the Board may, in accordance with the provisions of this Act and of any rule or 
+regulation made in this behalf, cause such work to be executed after giving such person 
+an opportunity of executing the same within such time as may be specified by it for this 
+purpose. 
+(2) The expenses incurred or likely to be incurred by the Board in the execution of any 
+such work shall be payable by the said person and the expenses incurred by the Board 
+in connection with the maintenance of such work shall be payable by the person or 
+persons enjoying the amenities and conveniences rendered possible by such work. 
+(3) The expenses referred to in sub -section (2) shall be recoverable from the person 
+or persons liable therefor as an arrear of charges payable under this Act. 
+59. Work to be done by licensed plumber. —(1) No person other than a licensed 
+plumber shall execute any work described in this Chapter and no person shall permit 
+any such work to be executed except by a licensed plumber: 
+Provided that if, in the opinion of the Water Supply Engineer, the work is of a trivial 
+nature, he may grant permission in writing for the execution of such work by a person 
+other than a licensed plumber. 
+(2) Every person who employs a licensed plumber to execute any work shall, when so 
+required, furnish to the Water Supply Engineer the name of such plumber. 
+(3) When any work is executed except in accordance with the provisions of sub -
+section (1), such work shall be liable to be dismantled at the discretion of the Board 
+without prejudice to the right of the Board to prosecute under this Act the person at 
+whose instance such work has been executed. 
+(4) The Board may make regulations for the guidance of licensed plumbers and a 
+copy of all such regulations shall be attached to every licence granted to a plumber by 
+the Board. 
+IndiaCode
+
+=== PDF PAGE 29 ===
+ 29 
+(5) The Board may, from time to time, prescribe the charges to be pai d to licensed 
+plumbers for any work done by them under or for any of the purposes of this Chapter. 
+(6) No licensed plumber shall, for any work referred to in sub -section (5), demand or 
+receive more than the charges prescribed therefor under that sub-section. 
+(7) The Board shall make regulations providing for,— 
+(a)  the exercise of adequate control on all licensed plumbers; 
+(b)  the inspection of all works carried out by them; and 
+(c)  the hearing and disposal of complaints made by the owners or occupiers of  
+premises with regard to the quality of work done, material used, delay in execution of 
+work, and the charges made, by a licensed plumber. 
+(8) No licensed plumber shall contravene any of the regulations made under this 
+section or execute carelessly or negl igently any work under this Act or make use of bad 
+materials, appliances or fittings. 
+(9) If any licensed plumber contravenes sub -section (8), his licence may be 
+suspended or cancelled whether he is prosecuted under this Act or not. 
+60. Prohibition of certain acts.—(1) No person shall,— 
+(a) wilfully obstruct any person acting under the authority of the Board in setting 
+out the lines of any works or pull up or remove any pillar, post or stake fixed in the 
+ground for the purpose of setting out the lines of su ch work, or deface or destroy any 
+works made for the same purpose; or 
+(b) wilfully or negligently break, injure, turn on, open, close, shut off or otherwise 
+interfere with any lock, cock, valve, pipe, meter or other work or apparatus belonging to 
+the Board; or 
+(c) unlawfully obstruct the flow of, or flush, draw off, or divert, or take water from 
+any water work belonging to the Board or any water course by which any such water is 
+supplied; or 
+(d) obstruct any officer or other employee of the Board in the dis charge of his 
+duties under this Chapter or refuse or wilfully neglect to furnish him with the means 
+necessary for the making of any entry, inspection, examination or inquiry thereunder in 
+relation to any water work; or 
+(e) bathe in, at or upon any water wo rk or wash or throw or cause to enter therein 
+any animal, or throw any rubbish, dirt or filth into any water work or wash or clean therein 
+any cloth, wool or leather or the skin of any animal, or cause water of any sink, or drain 
+or any steam engine or boi ler or any polluted water to turn or be brought into any water 
+work, or do any other act whereby the water in any water work is fouled or likely to be 
+fouled. 
+(2) Nothing in clause ( b) of sub -section (1) shall apply to a consumer closing the 
+stopcock fixed on the service pipe supplying water to his premises so long as he has 
+obtained the consent of any other consumer whose supply will be affected thereby. 
+1[61. Regulations regarding water supply. —(1) The Board may, with the previous 
+approval of the State Go vernment, make regulations to carry out the purposes of this 
+Chapter. 
+  
+(2) In particular and without prejudice to the generality of the foregoing provisions, 
+such regulations may provide for,— 
+(a) the power of the Board,— 
+(i) to stop the supply of water, whether for domestic purpose, or not, or for 
+gratuitous use; and 
+IndiaCode
+
+=== PDF PAGE 30 ===
+ 30 
+(ii) to prohibit the sale and use of water for the purpose of business; 
+  2[(iii) to insist on rain water harvesting system for  conservation of water;] 2 
+ 
+(b) the power of the Board to take charge of private connections; 
+(c) the prohibition of fraudulent and unauthorised use of water and the prohibition 
+of tampering with meters; 
+(d) the licensing of plumbers and fitters, and for the compulsory employment of 
+licensed plumbers and fitters. 
+(3) In making any regulation under this section, the Board may provide that a breach 
+thereof shall be punishable with fine which may extend to 1[five thousand rupees]  1 and 
+in case of continuing breach with an additional fine which may extend to 1[five hundred 
+rupees]1 for every day during which the breach continues after the receipt of a notice 
+from the Board to discontinue such breach.]1 
+1. Section 61 and 61A Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+              2.  Inserted by Act 15 of 2010 w.e.f. 16.04.2010. 
+            3. Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+1[61A. Bye -laws regarding water supply. —Subject to the provisions of the rules 
+and the regulations, the Board may after previous publication, make bye -laws to provide 
+for,— 
+(a) the connection of water supply pipes for conveying to any premises a supply of 
+water from Board Water Works; 
+(b) the making and renewing connections with Board Water Works; 
+(c) the power of the Board to alter the position of connections; 
+(d) the equitable distribution of water supplied to occupiers; 
+(e) the size, material, quality, description and position of the pipes and fittings to be 
+used for the purpose of any connection with or any communication from any Board 
+Water Works and the stamping of pipes and fittings and fees for such stamping; 
+(f) the size, material, quality and description of pipes, cisterns, and fittings which are 
+found on an examination under the provisions of the Act to be so defective that they 
+cannot be effectively repaired; 
+(g) the provisi on and maintenance of meters when water is supplied by 
+measurement; 
+(h) the maintenance of pipes, cisterns and other water works.]1 
+1. Section 61 and 61A Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+62. Punishment for certain offences.— Whoever,— 
+ (a) contravenes any of the provisions of this Act mentioned in the first column of the 
+following Table; or 
+ (b) fails to comply with any order or direction lawfully given to him or any requisition 
+lawfully made upon him under any of the said provisions, 
+shall be punishable, 1[ 3[XXX]3 ] 1 
+ (i) with 4[penalty]4 which may extend to the amount specified in that behalf in the 
+third column of the said Table; 1[ 3[XXX]3 ]1 and 
+ (ii) in the case of a continuing contravention or failure, with an additional fine which 
+may extend to the amount specified in the fourth column of that Table for every day 
+during which such contravention or failure continues after conviction for the first such 
+contravention or failure. 
+IndiaCode
+
+=== PDF PAGE 31 ===
+ 31 
+                                                 2[4[TABLE 
+Provisions of 
+the Act Subject 
+Maximum 
+penalty  which 
+may be 
+imposed 
+Daily penalty 
+which may be 
+imposed 
+(1) (2) (3) (4) 
+Section 28 Trespassing on premises connected 
+with water supply. 
+10,000 - 
+Section 30 Failure to maintain house connections 
+in conformity with regulations 
+10,000 - 
+Section 32  
+Sub-Section (2) 
+Occupying or allowing occupation of 
+house without proper water supply 
+10,000 - 
+Section 32 
+Sub-Section (3) 
+Failure to comply with requisition to 
+make house connection 
+10,000 100 
+Section 34 Use for n on-domestic purposes of 
+water supplied for domestic purposes 
+50,000 100 
+Section 49 Waste or misuse of water 50,000 - 
+Section 50 Refusal of admittance, etc 10,000 - 
+Section 52  
+Sub-section (1) 
+Laying of water pipes, etc., in a 
+position where the same may  be 
+injured or water therein polluted 
+50,000 100 
+Section 59  
+Sub-section (1) 
+Execution of work by a person other  
+than a licensed plumber 
+20,000 - 
+Section 59  
+Sub-section (2) 
+Failure to furnish when required name 
+of licensed plumber employed 
+10,000 - 
+Section 59  
+Sub-section (6) 
+Licensed plumbers not to demand 
+more than the charges prescribed 
+10,000 - 
+Section 59  
+Sub-section (8) 
+Licensed plumbers not to contravene 
+regulations or execute work carelessly 
+or negligently, etc., 
+10,000 - 
+Section 60 Prohibition of willful or neglectful acts 
+relating to water works. 
+50,000 - 
+                                                                                           ]4]2  
+1.  Inserted by Act 15 of 2010 w.e.f. 16.04.2010. 
+2.  Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+3. Omitted by Act 61 of 2025 w.e.f. ……………… 
+4. Substituted by Act 61 of 2025 w.e.f. ………………. 
+ 
+CHAPTER V 
+SEWERS AND SEWERAGE 
+63. Vesting of sewers, etc., in Board. —(1) On and from the date of coming into 
+force of this Chapter, all public sewers, a ll sewers in, alongside or under any public 
+street within the Bangalore Metropolitan Area, and all sewage disposal works whether 
+constructed out of the municipal fund of the Bruhat Bangalore Mahanagara Palike of the 
+IndiaCode
+
+=== PDF PAGE 32 ===
+ 32 
+Bruhat Bangalore Mahanagara or otherwise , and all works, materials and things 
+appertaining thereto, shall vest in the Board. 
+(2) All public and other sewers which are vested in the Board are hereafter in this Act 
+referred to as Board sewers. 
+(3) For the purposes of enlarging, deepening or otherw ise repairing or maintaining 
+any such sewer or sewage disposal work so much of the sub-soil appertaining thereto as 
+may be necessary for the said purpose shall be deemed also to vest in the Board. 
+(4) All sewers and ventilation -shafts, pipes and all applia nces and fittings connected 
+with the sewerage works constructed, erected or set up out of the municipal fund of the 
+Bruhat Bangalore Mahanagara Palike in or upon premises not belonging to the Bruhat 
+Bangalore Mahanagara Palike whether,— 
+ (a) before or after the commencement of this Act, and 
+ (b) for the use of the owner or occupier of such premises or not, 
+shall, unless the Bruhat Bangalore Mahanagara Palike has otherwise determined, or 
+does at any time otherwise determine, vest in the Board. 
+64. Control of  sewers and sewage disposal works. —(1) All Government sewers, 
+all sewage disposal works and all works, materials and things appertaining thereto shall 
+be under the control of the Board. 
+(2) The Board shall maintain and keep in repair all Board sewers and s ewage 
+disposal works and shall construct as many new drains and sewage disposal works as 
+may from time to time be necessary for effectual sewerage and sewage disposal of the 
+Bangalore Metropolitan Area. 
+65. Certain matters not to be passed into Board sewer s.—(1) No person shall 
+throw, empty, or turn into any Board sewer or into any drain or sewer communicating 
+with a Board sewer,— 
+(a) any matter likely to injure the sewer or to interfere with the free flow of its 
+contents, or to affect prejudicially the treatment and disposal of its contents; or 
+(b) any chemical, refuse or waste steam, or any liquid of 1[such temperature as 
+may be specified by notification by the Board] 1, being refuse or steam which, or a liquid 
+which when so heated, is, either alone or in c ombination with the contents of the sewer, 
+dangerous, or the cause of a nuisance, or prejudicial to health; or 
+ (c) any dangerous petroleum. 
+(2) In this section, the expression “dangerous petroleum” has the same meaning as in 
+the Petroleum Act, 1934 (Central Act 30 of 1934). 
+1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+66. Application by owners and occupiers to drain into Board sewer.—(1) Subject 
+to such conditions as may be prescribed by regulations made in this behalf, the owner or 
+occupier of any premises having a private drain, or the owner of any private drain within 
+the Bangalore Metropolitan Area may apply to the Board to have his drain made to 
+communicate with the Board sewers and thereby to discharge foul water and surface 
+water from those premises or that private drain: 
+Provided that nothing in this sub -section shall entitle any person to discharge directly 
+or indirectly into any Board sewer,— 
+(i) any trade effluent from any trade premises except in accordance with the 
+regulations made in this behalf; or 
+(ii) any liquid or other matter the discharge of which into Board sewers is 
+prohibited by or under this Act or any other law. 
+IndiaCode
+
+=== PDF PAGE 33 ===
+ 33 
+(2) Any person desirous of availing himself of the provisions of sub -section (1) shall 
+give to the Board notice of his proposals, and at any time within one month after receipt 
+thereof, the Board may by notice to him refuse to permit the communication to be made, 
+if it appears to it that the mode of construction or condition of the drain is such that the 
+making of the comm unication would be prejudicial to the sewerage system, and for the 
+purpose of examining the mode of construction and condition of the drain it may, if 
+necessary, require it to be laid open for inspection. 
+(3) The Board may, if it thinks fit, construct such  part of the work necessary for 
+connecting a private drain with a Board sewer as is in or under a public street and in 
+such a case, the expenses incurred by the Board shall be paid by the owner or occupier 
+of the premises, or as the case may be, the owner of the private drain and shall be 
+recoverable from the owner or occupier as an arrear of charges payable under this Act. 
+1[(4) Every owner or occupier of a building having sewerage connection shall pay 
+such sewerage charges as may be determined by the Boar d by regulation from time to 
+time.]1 
+1.  Inserted by Act 15 of 2010 w.e.f. 16.04.2010. 
+67. Drainage of undrained premises.—(1) Where any premises are in the opinion of 
+the Board without sufficient means of effectual drainage and a Government sewer or 
+some place approved by the Board for the discharge of filth and other polluted and 
+obnoxious matter is situated at a distance of not exceeding thirty -five metre from any 
+part of the said premises, it may, by written notice, require the owner of the said 
+premises,— 
+(a) to make a drain emptying into such Government sewer or place; 
+(b) to construct a closed cesspool or soakage pit and fittings as may appear to the 
+Board necessary for the purpose of gathering and receiving the filth and other polluted 
+and obnoxious matter from and conveying the same off, the said premises and of 
+effectually flushing such drain and every fixture connected therewith; 
+(c) to remove any existing drain or other appliance or thing used or intended to be 
+used for drainage which is injurious to health; 
+(d) to provide a closed drain in substitution of an open drain or to provide such 
+other appliance or thing either newly or in substitution of any existing appliance or thing 
+or to provide both a closed drain and such other appliance or thing in  substitution of the 
+existing open drain and other appliance or thing, which is or is likely to be injurious to 
+health; 
+(e) to provide and set up all such appliances and fittings as may appear to the 
+Board to be necessary for the purpose of gathering and r eceiving the waste water from 
+floors and galleries of buildings when they are washed, and conveying the same through 
+spouts, by down-take pipes so as to prevent such waste water from discharging directly 
+on streets or inside any lower portion of the premises; 
+(f) to carry out any work to improve or re -model an existing drain which is 
+inadequate, insufficient or faulty. 
+(2) Where in any case not provided for in sub -section (1) any premises are, in the 
+opinion of the Board without sufficient means of effectua l drainage, it may, by written 
+notice, require the owner of the premises,— 
+(a) to construct a drain up to a point to be prescribed in such notice but not at a 
+distance of more than thirty-five metres from any part of the premises; or 
+(b) to construct a closed cesspool or soakage pit and drain or drains emptying into 
+such cesspool or soakage pit. 
+IndiaCode
+
+=== PDF PAGE 34 ===
+ 34 
+(3) Any requisition for the construction of any drain under sub-section (2) may contain 
+any of the details specified in sub-section (1). 
+68. New premises not to be erected without drains.—(1) In areas in which Board 
+sewers are provided it shall not be lawful to erect or to re -erect any premises or to 
+occupy any such premises unless,— 
+(a) a drain be constructed of such size, materials and descriptions, at such level 
+and with such fall as shall appear to the Board to be necessary for the effectual drainage 
+of such premises; 
+(b) there have been provided and set up on such premises such appliances and 
+fittings as may appear to the Board to be necessary for the purposes of  gathering or 
+receiving the filth and other polluted and obnoxious matter from, and conveying the 
+same off, the said premises and of effectually flushing the drain of the said premises and 
+every fixture connected therewith. 
+(2) The drain so constructed shall empty into a Board sewer. 
+(3) The provisions of this section shall be applicable to premises any part of which is situated within a 
+distance of thirty-five metres from a Board sewer. 
+69. Power to drain group or block of premises by combined operations.—(1) If it 
+appears to the Board that any group or block of premises may be drained more 
+economically or advantageously in combination than separately, and a Board sewer of 
+sufficient size already exists or is about to be constructed within thirty -five metres of any 
+part of that group or block of premises, the Board may cause that group or block of 
+premises to be drained by a combined operation. 
+(2) The expenses incurred in carrying out any work under sub-section (1) in respect of 
+any group or block of premis es shall be paid by the owners of such premises in such 
+proportion as the Board may determine and shall be recoverable from them as an arrear 
+of charges payable under this Act. 
+(3) Not less than fifteen days before any such work is commenced, the Board sha ll 
+give to each such owner,— 
+(a) written notice of the nature of the proposed work, and 
+(b) an estimate of the expenses to be incurred in respect thereof and of the 
+proportion of such expenses payable by him. 
+(4) The Board may require the owners of such group or block of premises to maintain 
+the work executed under this section. 
+70. Power of Board to close or limit the use of private drains in certain cases. —
+Where a drain connecting any premises with a Board sewer is sufficient for the effectual 
+drainage of such premises and is otherwise unobjectionable but is not, in the opinion of 
+the Board adapted to the general system of sewerage in the Bangalore Metropolitan 
+Area, it may, by written notice addressed to the owner of the premises, direct,— 
+(a) that such drain be closed, discontinued or destroyed and that any work necessary 
+for that purpose be done; or 
+(b) that such drain shall, from such date as may be specified in the notice in this 
+behalf, be used for filth and polluted water only or for rain water and u npolluted sub-soil 
+water only: 
+Provided that,— 
+(i) no drain may be closed, discontinued or destroyed by the Board under clause 
+(a) except on condition of its providing another drain equally effectual for the drainage of 
+the premises and communicating with any Board sewer which it thinks fit; and 
+IndiaCode
+
+=== PDF PAGE 35 ===
+ 35 
+(ii) the expenses of the construction of any drain so provided by the Board and of 
+any work done under clause (a) shall be borne by the Board. 
+71. Use of drain by a person other than the owner.—(1) Where the Board either 
+on receipt of an application from the owner of any premises or otherwise is of the opinion 
+that the only, or the most convenient means of effectual drainage of the premises into a 
+Board sewer is through a drain belonging to another person, the Board may by notice in 
+writing require the owner of such drain to show cause within a period specified in the 
+notice as to why an order under this section should not be made. 
+(2) Where no cause is shown within the specified period or the cause shown appears 
+to the Board invalid or insufficient, the Board may by order in writing either authorise the 
+owner of the premises to use the drain or declare him to be a joint owner thereof. 
+(3) An order made under sub-section (2) may contain directions as to,— 
+(a) the payment of rent or compensation by the owner of the premises; 
+(b) the construction of a drain for the premises for the purpose of connecting it with 
+the aforesaid drain; 
+(c) the entry upon the land in which the aforesaid drain is situate with assistants 
+and workmen at all reasonable hours; 
+(d) the respective responsibilities of the parties for maintaining, repairing, flushing, 
+cleaning and emptying the aforesaid drain. 
+  1[72. Sewage and rain water drains to be distinct. - Wherever it is provided 
+in this Chapter that steps shall or may be taken for the effectual drainage of any 
+premises, it shall be competent to the Board to require that there shall be one drain for 
+filth and polluted water and connecting to Board sewer and an entirely distinct drain for 
+rain wate r and unpolluted sub -soil water or both rain water and unpolluted sub -soil 
+water, emptying into rain water harvesting system, Bruhat Bangalore Mahanagara Palike 
+drain or other suitable places.] 1 
+1. Substituted by Act 15 of 2010 w.e.f. 16.04.2010. 
+ 
+  1[2[3[72A. Obligation to provide rain water harvesting structure. - (1) Every 
+owner who proposes to construct a building on a sital area of not less than 108 square 
+meter shall provide rain water harvesting structure for storage, for use or for ground 
+water recharge in such manner and subject to such conditions as may be provided in the 
+regulations and guidelines issued by the Board. 
+ (2) Every owner or occupier of a building having sital area of not less than 216 
+square meter and not more than 1000 square meter,  who has not provided rain water 
+harvesting structure before the commencement of the Bangalore Water Supply and 
+Sewerage (Amendment) Act, 2021, shall provide rainwater harvesting structure for 
+storage, for use and for ground water recharge subject to such conditions as may be 
+specified in the regulations.  
+(3) Every owner who proposes to construct a building on sital area of not less 
+than 1000 square meter or a owner or occupier of a building having sital area of not less 
+than 1000 square meter who has not provided rain water harvesting structure before the 
+IndiaCode
+
+=== PDF PAGE 36 ===
+ 36 
+commencement of the Bangalore Water Supply and Sewerage (Amendment) Act, 2021 
+shall provide dual piping system and rain water harvesting structure for storage and for 
+use, other than drinking, cooking and  bathing purpose, based on roof area and ground 
+water recharge based on paved and unpaved areas in such manner and subject to such 
+conditions as may be provided in the regulations and guidelines issued by the Board. 
+Explanation.- For the purpose of this section,-  
+(a) “rain water harvesting” means collection and storage of rain water from roof 
+top of a building or from a vacant land for use or for ground water recharge; and  
+(b) “ground water recharge” means recharging of open well or the bore well or 
+the underground water as the case may be, by use of harvested rain water.]3]2]1 
+1. Substituted by Act 5 of 2011 w.e.f. 05.02.2011. 
+2. Substituted by Act 25 of 2016 w.e.f 01.08.2016. 
+3. Substituted by Act 29 of 2021 w.e.f. 07.10.2021 
+73. Power to require owner to carry o ut certain works for satisfactory 
+drainage.—For the purpose of efficient drainage of any premises, the Board may, by 
+notice in writing,— 
+(a) require any courtyard, alley or passage between two or more buildings to be 
+paved by the owner or owners of such buildings with such materials and in such manner 
+as may be approved by the Board, and 
+(b) require such paving to be kept in proper repair. 
+74. Appointment of places for the emptying of sewers and disposal of 
+sewage.—The Board may cause any or all of the Boar d sewers to empty into, and all 
+sewage to be disposed of at, such place or places as it considers suitable: 
+Provided that no place which has not been before the commencement of this Chapter 
+used for any of the purposes specified in this section shall, afte r such commencement 
+be used therefor without the approval of the Board: 
+Provided further that on and after such date as may be appointed by the Board in this 
+behalf no sewage shall be discharged into any water -course until it has been 1[treated in 
+such manner as may be prescribed in the bye-laws made in this behalf.]1 
+ 1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+75. Connection with sewers not to be made without permission. —Without the 
+written permission of the Board, no person shall, for any purpose w hatsoever, at any 
+time make or cause to be made any connection or communication with any sewer 
+referred to in section 63 constructed or maintained by, or vested in, the Board. 
+   1[75A.Board to cut off sewerage connection. - The Board may cut off sewerage 
+connection to any premises,- 
+ (a) if the premises are unoccupied; 
+ (b) if the owner or occupier contravenes the provision of this Act or neglects to 
+comply with any lawful order or requisites regarding water supply or sewerage 
+connection issued by the Board within the period specified therein; 
+ (c) if any charges or any other sum due for water supply or sewerage connection or 
+the cost of carrying out work or test conducted with water supply or sewerage, 
+chargeable on the owner or occupier under this Act, is  not paid within fifteen days after 
+issue of bills for such charges; 
+IndiaCode
+
+=== PDF PAGE 37 ===
+ 37 
+ (d) on receipt of requisition from any statutory authority on the ground of violation 
+of any statutory provisions by the owner/occupier/developer of the building.]1 
+                                           1. Inserted by Act 15 of 2010  w.e.f. 16.04.2010. 
+  76. Buildings and private streets not to be erected or constructed over 
+sewers without permission. —  1[(1)No private street shall be constructed and no 
+building, wall, fence or other  structure shall be erected on any Board sewer constructed 
+or maintained by, or vested in the Board.  Even where a structure is built near a sewer 
+there shall be a minimum clearance of 1.0 meter or half the dia -meter of the sewer 
+(whichever is greater) from the edge of the sewer or manhole on the sewer. 
+ (2) If any private street be constructed or any building, wall, fence or structure 
+erected in contravention of the above, the Board may remove or otherwise deal with the 
+same as it thinks fit.] 1 
+ (3) The expenses incurred by the Board in so doing shall be paid by the owner of the 
+private street or of the building, fence, wall or other structure or, as the case may be, by 
+the person offending and shall be recoverable as an arrear of charges payable under 
+this Act. 
+                                           1. Substituted by Act 15 of 2010  w.e.f. 16.04.2010. 
+ 
+77. Rights of user of property for sewers. —(1) The Board may place and maintain 
+sewers over, under, along or across any immovable property whether withi n or without 
+the local limits of the Bangalore Metropolitan Area, without acquiring the same, and may 
+at any time for the purpose of examining, repairing, altering or removing any sewers 
+enter on any property over, under, along or across which the sewers have been laid: 
+Provided that the Board shall not acquire any right other than a right of user in the 
+property over, under, along or across which any sewer is laid. 
+(2) In the exercise of the powers conferred upon it by this section, the Board shall 
+cause as little damage as may be possible, and shall make full compensation for any 
+damage caused by it. 
+78. Power of owner of premises to lay sewer through land belonging to other 
+persons.—(1) If it appears to the Board that the only or most convenient means of 
+sewerage of any premises is by laying any sewer over, under, along or across the 
+immovable property of another person, the Board may, by order in writing, authorise the 
+owner of the premises to lay or carry such sewer over, under, along or across such 
+immovable property: 
+Provided that before making any such order the Board shall give to the owner of the 
+immovable property a reasonable opportunity of showing cause within such time as may 
+be prescribed by regulations made in this behalf as to why the order sh ould not be 
+made: 
+Provided further that the owner of the premises shall not acquire any right other than 
+a right of user in the property over, under, along or across which any such sewer is laid. 
+(2) Upon the making of an order under sub -section (1), the o wner of the premises 
+may, after giving reasonable notice of his intention so to do, enter upon the immovable 
+property with assistants and workmen at any time between sunrise and sunset for the 
+purpose of laying a sewer over, under, along or across such imm ovable property or for 
+the purpose of repairing the same. 
+(3) In laying a sewer under this section, as little damage as possible shall be done to 
+the immovable property and the owner of the premises shall,— 
+(a) cause the sewer to be laid with the least practicable delay; 
+IndiaCode
+
+=== PDF PAGE 38 ===
+ 38 
+(b) fill in, reinstate and make good at his own cost and with the least practicable 
+delay, any land opened, broken up or removed for the purpose of laying such sewer; and 
+(c) pay compensation to the owner of the immovable property and to an y other 
+person who sustains damage by reason of the laying of such sewer. 
+(4) If the owner of the immovable property, over, under, along or across which a 
+sewer has been laid under this section whilst such immovable property was not built 
+upon, desires to erect any building on such property, the Board shall, by notice in writing, 
+require the owner of the premises to close, remove or divert the sewer in such manner 
+as shall be approved by it and to fill in, reinstate and make good the immovable property 
+as if the sewer had not been laid over, along or across the same: 
+Provided that no such requisition shall be made unless in the opinion of the Board it is 
+necessary or expedient for the construction of the proposed building or the safe 
+enjoyment thereof that the sewer should be closed, removed or diverted. 
+79. Power to execute work after giving notice to the person liable. —(1) When 
+under the provisions of this chapter any person may be required or is liable to execute 
+any work, the Board may, in accordance with  the provisions of this Act and of any 
+regulations made in this behalf, cause such work to be executed after giving such 
+person an opportunity of executing the same within such time as may be specified by it 
+for this purpose. 
+(2) The expenses incurred or likely to be incurred by the Board in the execution of any 
+such work shall be payable by the said person and the expenses incurred by the Board 
+in connection with the maintenance of such work shall be payable by the person or 
+persons enjoying such amenities and conveniences rendered possible by such work. 
+(3) The expenses referred to in sub -section (2) shall be recoverable from the person 
+or persons liable therefor as an arrear of charges payable under this Act. 
+80. Power to affix shafts, etc., for ventilati on of sewer or cesspool. —For the 
+purpose of ventilating any sewer or cesspool, whether vested in the Board or not, the 
+Board may, in accordance with regulations made in this behalf, erect upon any premises 
+or affix to the outside of any building or to any tree any such shaft or pipe as may appear 
+to it to be necessary. 
+81. Power to examine and test sewers, etc., believed to be defective.—(1) Where 
+it appears to the Board that there are reasonable grounds for believing that a private 
+sewer or cesspool is in such condition as to be prejudicial to health or a nuisance or that 
+a private sewer communicating directly or indirectly with a Board sewer is so defective 
+as to admit sub -soil water, it may examine its condition and for that purpose may apply 
+any test, ot her than a test by water under pressure, and if it deems it necessary, open 
+the ground. 
+(2) If on examination the sewer or cesspool is found to be in proper condition, the 
+Board shall, as soon as possible, reinstate any ground which has been opened by it a nd 
+make good the damage done by it. 
+82. Work to be done by licensed plumber. —(1) No person other than a licensed 
+plumber shall execute any work described in this Chapter and no person shall permit 
+any such work to be executed except by a licensed plumber: 
+Provided that if, in the opinion of the Sanitary Engineer, the work is of a trivial nature, 
+he may grant permission in writing for the execution of such work by a person other than 
+a licensed plumber. 
+(2) The provisions of section 59 shall be applicable in  respect of any work connected 
+with any drain as they are applicable in respect of any work connected with water 
+supply. 
+IndiaCode
+
+=== PDF PAGE 39 ===
+ 39 
+83. Prohibition of certain acts.—No person shall,— 
+(a) wilfully obstruct any person acting under the authority of the Board in setting out 
+the lines of any works or pull up or remove any pillar, post or stake fixed in the ground 
+for the purpose of setting out lines of such work, or deface or destroy any works made 
+for the same purpose; or 
+(b) wilfully or negligently break, injure, turn on , open, close, shut off or otherwise 
+interfere with any lock, cock, valve, pipe, or other work or apparatus belonging to the 
+Board; or 
+(c) unlawfully obstruct the flow of or flush, draw off, divert or take sewage from any 
+sewage work belonging to the Board; or 
+(d) obstruct any officer or other employee of the Board in the discharge of his duties 
+under this Chapter or refuse or wilfully neglect to furnish him with the means necessary 
+for the making of any entry, inspection, examination or inquiry thereunder in relation to 
+any sewage work. 
+84. Regulations regarding sewerage. —(1) The Board may with the previous 
+approval of the State Government may, make regulations to carry out the purposes of 
+this Chapter. 
+1[(2) In particulars and without prejudice to the fore going provision, such regulations 
+may provide for the charges to be paid to the Board by occupiers of trade premises for 
+the reception of trade effluent into Board sewers and disposal thereof.]1 
+ (3) In making any regulation under this section, the Board m ay provide that a breach 
+thereof shall be punishable with fine which may extend to 2 [five thousand rupees] 2 and 
+in case of continuing breach with an additional fine which may extend to 1[five hundred 
+rupees] 1 for every day during which the breach continu es after receipt of a notice from 
+the Board to discontinue such breach. 
+1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+  2. Substituted by Act 15 of 2010 w.e.f. 16.4.2010. 
+1[84A. Bye -laws regarding sewerage. —(1) Subject to the provisions of rules and 
+regulations, the Board may after previous publication make bye-laws to provide for,— 
+(a) the regulation or prohibition of the discharge or deposit of offensive or 
+obstructive matter polluted water or other polluted and obnoxious matter into sewers; 
+(b) the r egulation in any manner not specifically provided for in this Act, of the 
+construction, alteration, maintenance, preservation, cleaning and repairs of sewers, 
+ventilation shafts, pipes, latrines, urinals, cesspools and other sewerage works; 
+(c) the cleansing of sewers; 
+(d) the prohibition of erection of buildings over sewers without the permission of 
+the Board; 
+(e) the connection of private drains with Board sewers; 
+(f) the location and construction of cesspools; 
+(g) the covering and ventilation of cesspools; 
+(h) the period or periods of the day during which trade effluent may be discharged 
+from any trade premises into Board sewers; 
+(i) the exclusion from trade effluent of all condensing matter; 
+(j) the elimination from trade effluent, before it enters a Boa rd sewer, of any 
+constituent which in the opinion of the Board would, either alone or in combination with 
+any matter with which it is likely to come into contact while passing through Board 
+sewers, injure or obstruct those sewers or make specially difficul t or expensive the 
+treatment or disposal of the sewage from those sewers; 
+IndiaCode
+
+=== PDF PAGE 40 ===
+ 40 
+(k) the maximum quantity of trade effluent which may, without any consent or 
+permission, be discharged from any trade premises into Board sewers on any one day 
+and the highest rate at which trade effluent may, without such consent or permission, be 
+discharged from any trade premises into Board sewers; 
+(l) the regulation of the temperature of trade effluent at the time of its discharge 
+into Board sewers and the securing of the neutrality of trade effluent (that is to say, that it 
+is neither acidic not alkaline) at the time of such discharge; 
+(m) the provision and maintenance of such an inspection chamber or manhole as 
+will enable a person readily to take at any time samples of what is p assing into Board 
+sewers from trade premises; 
+(n) the provision and maintenance of such meters as may be required to measure 
+the volume of any trade effluent being discharged from any trade premises into Board 
+sewers, and the testing of such meters.]1 
+1. Inserted by Act 6 of 1966 w.e.f. 17.3.1966. 
+85. Punishment for certain offences.— Whoever,— 
+ (a) contravenes any of the provisions of this Act mentioned in the first column of the 
+following Table; or 
+ (b) fails to comply with any order or direction lawfully  given to him or any requisition 
+lawfully made upon him under any of the said provisions,  
+shall be punishable, 1[ 3[XXX]3 ]1  
+(i) with 4[penalty]4 which may extend to the amount specified in that behalf in the 
+third column of the said Table; 1[ 3[XXX]3 ]1 and 
+     
+(ii) in the case of a continuing contravention or failure, with an additional fine which 
+may extend to the amount specified in the fourth column of that Table for every day 
+during which such contravention or failure continues after conviction for  the first such 
+contravention or failure. 
+4[2[TABLE 
+Provisions of 
+the Act Subject 
+Maximum 
+penalty which 
+may be 
+imposed 
+Daily penalty 
+which may 
+be imposed 
+(1) (2) (3) (4) 
+Section 65 Injury to, or interference with free flow of 
+contents of Board sewers or drains or sewers 
+communicating with Board sewers 
+50,000 500 
+Section 66 
+Sub-section (2) 
+Private drain not to be connected with Board 
+sewers without notice 
+10,000 100 
+Section 67 Non-compliance with requisition for 
+drainage of un-drained premises 
+20,000 200 
+Section 68 Erection of new premises without drains 50,000 - 
+Section 69 Non-compliance with requisition for 
+maintenance of drainage works for any 
+group or block of premises 
+50,000  
+Section 70 Non-compliance with direction to close or 
+limit the use of pr ivate drains in certain 
+50,000 - 
+IndiaCode
+
+=== PDF PAGE 41 ===
+ 41 
+Provisions of 
+the Act Subject 
+Maximum 
+penalty which 
+may be 
+imposed 
+Daily penalty 
+which may 
+be imposed 
+(1) (2) (3) (4) 
+cases 
+Section 71 Non-compliance with Sanitary Engineer's 
+orders regarding the use of a drain by a 
+person other than the owner thereof 
+50,000 - 
+Section 72 Non-compliance with requisition for keeping 
+sewage and rain water drains distinct 
+50,000 - 
+Section 73 Non-compliance with requisition for the 
+pavement of court yard etc., 
+10,000 - 
+Section 75 Connection with Board sewers without 
+written permission 
+50,000 500 
+Section 78   
+sub-section (4) 
+Non-compliance with requisition t o close, 
+remove or divert a pipe or drain 
+50,000 500 
+Section 82  
+sub-section (1) 
+Execution of work by a person other than a 
+licensed plumber 
+50,000 - 
+Section 82  
+sub-section (2) 
+read with  
+section 59 (2) 
+Failure to furnish when required name of 
+licensed plumber   employed 
+10,000 - 
+Section 82     
+sub-section (6) 
+read with 
+section 59(2) 
+Licensed plumbers not to demand   more 
+than the charges prescribed 
+50,000 - 
+Section 82 
+sub-section (8) 
+read with 
+section 59(2) 
+Licensed plumbers not to contravene 
+regulations or execute   work carelessly or 
+negligently. Etc., 
+50,000 - 
+ 
+]2]4 
+1. Inserted by Act 6 of 1966 w.e.f. 17.3.1966. 
+   2. Substituted by Act 15 of 2010 w.e.f. 16.4.2010. 
+3. Omitted by Act 61 of 2025 w.e.f. ……………… 
+4. Substituted by Act 61 of 2025 w.e.f. ………………. 
+ 
+CHAPTER VI 
+MISCELLANEOUS 
+86. Annual reports, statistics and returns. —(1) The Board shall, before such date 
+and in such form as may be prescribed by rules, submit to the State Government an 
+annual report upon such matters as may be prescribed by rul es, and the State 
+Government shall cause such report to be published in the official Gazette. 
+(2) Without prejudice to the provisions of sub -section (1), the Board shall as soon as 
+may be after the end of each financial year, prepare and submit to the State Government 
+in such form as may be prescribed by 1[regulations]1 a report giving an account of its 
+IndiaCode
+
+=== PDF PAGE 42 ===
+ 42 
+activities during the previous financial year and the report shall also give an account of 
+the activities, if any, which are likely to be undertaken by the Board in the next financial 
+year; and the State Government shall cause every such report to be laid before the State 
+Legislature as soon as may be after it is received by the State Government. 
+ (3) The Board shall furnish to the State Government at such ti mes and in such form 
+and manner 2[x x x] 2 as the State Government may direct, such statistics and returns, 
+and such particulars in regard to any proposed or existing scheme, as the State 
+Government may from time to time require. 
+1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+                                                         2. Omitted by Act 6 of 1966 w.e.f. 17.3.1966. 
+87. Power to make rules. —(1) The State Government may, after previous 
+publication, by notification make rules to give effect to the provisions of this Act. 
+(2) In particular, and without prejudice to the generality of the foregoing power, such 
+rules may provide for,— 
+(a) the powers of the Chairman and the term of office of the Chairman and other 
+members of the Board, the conditions u nder which they shall be eligible for 
+reappointment and their remuneration, allowances and other conditions of service; 
+(b) the terms and conditions of appointment of members of the Consultative 
+Committee, the convening of meetings of such Committee and th e conduct of business 
+thereat; 
+(c) the form in which the annual financial statement and supplementary statements 
+under section 17 shall be prepared by the Board, and the particulars to be included 
+therein; 
+(d) the conditions subject to which the Board may borrow under section 21; 
+(e) the manner in which stock issued by the Board shall be issued, transferred, 
+dealt with and redeemed; 
+(f) the manner in which the accounts of the Board shall be published under section 
+25; 
+(g) the form in which and the date by which the annual report of the Board shall be 
+submitted under section 86 and the form and manner of furnishing statistics and returns 
+by the Board under that section. 
+88. Regulations. —(1) The Board may with the previous approval of the State 
+Government make  regulations not inconsistent with this Act and the rules made 
+thereunder to provide for all or any of the following matters, namely:— 
+(a) the administration of the funds and other property of the Board and the 
+maintenance of its accounts; 
+(b) the summoning and holding of meetings of the Board and the times and places 
+at which such meetings shall be held, and the conduct of business thereat and the 
+number of members necessary to constitute a quorum; 
+(c) the duties of officers and servants of the Board, and their salaries, allowances 
+and other conditions of service; 
+1[(d) the fine which may be imposed for the breach of any bye -law, which may 
+extend to 2[five thousand rupees]  2, and in case of continuing breach the additional fine 
+which may extend to 2 [five h undred rupees] 2 for every day, during which the breach 
+continues after receipt of a notice from the Board to discontinue the breach.]1 
+ (e) the procedure to be followed by the Board in inviting, considering and 
+accepting tenders; 
+IndiaCode
+
+=== PDF PAGE 43 ===
+ 43 
+(f) any other matter arising out of the Board’s functions under this Act in which it is 
+necessary or expedient to make regulations. 
+(2) The power to make regulations under this Act is subject to the condition of 
+previous publication. 
+1. Substituted by Act 6 of 1966 w.e.f. 17.3.1966. 
+2.     Substituted by Act 15 of 2010 w.e.f. 16.4.2010. 
+ 
+  1[89. Directions by the State Government. - The State Government may, 
+issue to the Board such directions as it may think necessary for the purpose of carrying 
+out the functions under this Act and the Board shall comply with such directions.] 1 
+   1. Substituted by Act 15 of 2010 w.e.f. 16.4.2010. 
+  1[89A. Collection of capital contribution from the beneficiary or borrowing 
+loan etc., in respect of any project. - In furtherance of implementation of any w ater 
+supply and sanitation projects, the State Government may issue directions to the Board 
+for making funding arrangements, to collect capital contribution from the beneficiaries of 
+the project or through any Local Authority or to borrow loans from funding agencies or to 
+borrow from the market  as per requirements of the projects.]1 
+1. Deemed to have been inserted by Act 32 of 2010  w.e.f. 01.01.2003. 
+90. Licenses and written permissions. —(1) Whenever it is provided in this Act or 
+any rule or regulation ma de thereunder that a licence or a written permission may be 
+granted for any purpose, such licence or written permission shall be signed by the Water 
+Supply Engineer or the Sanitary Engineer, as the case may be, or by the officer 
+empowered to grant the same under this Act or the rules or regulations made thereunder 
+and shall specify in addition to any other matter required to be specified under any other 
+provision of this Act or any provision of any rule made thereunder,— 
+(a) the date of the grant thereof; 
+(b) the purpose and the period (if any) for which it is granted; 
+(c) restrictions or conditions, if any, subject to which it is granted; 
+(d) the name and address of the person to whom it is granted; and 
+(e) the fee, if any, paid for the licence or written permission. 
+(2) Except as otherwise provided in this Act or any rule or regulation made 
+thereunder, for every such licence or written permission, a fee may be charged at such 
+rate as may from time to time be fixed by the Board and such fee shall be payable by the 
+person to whom the licence or written permission is granted. 
+(3) Save as otherwise provided in this Act or any rule or regulation made thereunder 
+any licence or written permission granted under this Act or any rule or regulation made 
+thereunder may at any time be suspended or revoked by the Board or by the officer by 
+whom it was granted, if it or he is satisfied that it has been secured by the grantee 
+through misrepresentation or fraud or if any of its restrictions or conditions has been 
+infringed or  evaded by the grantee, or if the grantee has been convicted for the 
+contravention of any of the provisions of this Act or any rule or regulation made 
+thereunder relating to any matter for which the licence or permission has been granted: 
+Provided that,— 
+(a) before making any order of suspension or revocation reasonable opportunity 
+shall be afforded to the grantee of the licence or the written permission to show cause 
+why it should not be suspended or revoked; 
+(b) every such order shall contain a brief stat ement of the reasons for the 
+suspension or revocation of the licence or the written permission. 
+(4) When any such licence or written permission is suspended or revoked, or when 
+the period for which the same was granted has expired, the grantee shall, for a ll 
+IndiaCode
+
+=== PDF PAGE 44 ===
+ 44 
+purposes of this Act or any rule made thereunder, be deemed to be without a licence or 
+written permission until such time as the order suspending or revoking the licence or 
+written permission is rescinded or until the licence or written permission is renewed. 
+(5) Every grantee of any licence or written permission granted under this Act shall at 
+all reasonable times, while such licence or written permission remains in force, if so 
+required by the Board or the authority by whom it was granted, produce such  licence or 
+written permission. 
+91. Powers of entry and inspection. —The Chief Engineer, the Water Supply 
+Engineer, the Sanitary Engineer, or any officer authorised by the Board in this behalf or 
+empowered in this behalf by or under the provisions of this A ct, may enter into or upon 
+any land or building with or without assistants and workmen,— 
+(a) for the purpose of ascertaining whether there is or has been on or in connection 
+with the land or building any contravention of the provisions of this Act or any r ule or 
+regulation made thereunder; 
+(b) for the purpose of ascertaining whether or not circumstances exist which would 
+authorise or require the Board or any officer authorised or empowered in this behalf to 
+take action or execute any work under this Act or any rule or regulation made 
+thereunder; 
+(c) for the purpose of taking any action or executing any work authorised or required 
+by this Act or any rule or regulation made thereunder; 
+(d) to make any inquiry, inspection, examination, measurement, valuation or  survey 
+authorised or required by or under this Act, or necessary for the proper administration of 
+this Act; 
+(e) generally for the purpose of efficient discharge of the functions by any officer of 
+the Board under this Act or any rule or regulation made thereunder. 
+92. Power to enter land adjoining land in relation to any work. —(1) The Chief 
+Engineer, the Water Supply Engineer, the Sanitary Engineer or any officer authorised in 
+this behalf by the Board or empowered in this behalf by or under any provision of  this 
+Act, may enter on any land within fifty metres of any work authorised by or under this Act 
+with or without assistants and workmen for the purpose of depositing thereon any soil, 
+gravel, stone or other materials or for obtaining access to such work or  for any other 
+purposes connected with the execution of the same. 
+(2) The person so authorised shall, before entering on any such land, state the 
+purpose thereof, and shall, if so required by the owner or occupier thereof, fence off so 
+much of the land as may be required for such purpose. 
+(3) The person so authorised shall, in exercising any power conferred by this section, 
+do as little damage as may be, and compensation shall be payable by the Board in 
+accordance with regulations made in this behalf to the owner or occupier of such land or 
+to both for any such damage, whether permanent or temporary. 
+93. Breaking into buildings.—(1) It shall be lawful for the Chief Engineer, the Water 
+Supply Engineer, the Sanitary Engineer, or any officer authorised in this behalf by the 
+Board or empowered in this behalf by, or under any provision of this Act, to make any 
+entry into any place, and to open or cause to be opened any door, gate or other 
+barrier,— 
+(a) if he considers the opening thereof necessary for the purpose of such entry; 
+and 
+(b) if the owner or occupier is absent or being present refuses to open such door, 
+gate or barrier. 
+IndiaCode
+
+=== PDF PAGE 45 ===
+ 45 
+(2) Before making any entry into any such place or opening or causing to be opened 
+any such door, gate or other barrier, the Chief Engineer, the Water Supply Engineer, the 
+Sanitary Engineer or the person authorised or empowered in this behalf, shall call upon 
+two or more respectable inhabitants of the locality in which the place to be entered into is 
+situate, to witness the entry or opening and may issue an order in writing to them or any 
+of them so to do. 
+(3) A report shall be made to the Board as soon as may be after any entry has been 
+made into any place or any door, gate or other barrier has been opened under this 
+section. 
+94. Time of making entry.—Save as otherwise provided in this Act or any regulation 
+made thereunder, no entry authorised by or under this Act shall be made except 
+between the hours of sunrise and sunset. 
+95. Consent ordinarily to be obtained. —Save as otherwise provided i n this Act or 
+any regulation made thereunder, no entry upon or into any land or building shall be 
+made without the consent of the occupier, or if there is no occupier, of the owner thereof 
+and no such entry shall be made without giving the said owner or oc cupier, as the case 
+may be, not less than twenty -four hours’ written notice of the intention to make such 
+entry. 
+96. Regard to be had to social or religious usages. —When any place used as a 
+human dwelling is entered under this Act, due regard shall be paid  to the social and 
+religious customs and usages of the occupants of the place entered, and no apartment 
+in the actual occupancy of a female shall be entered or broken open until she has been 
+informed that she is at liberty to withdraw and every reasonable facility has been 
+afforded to her for withdrawing. 
+97. Prohibition or obstruction or molestation in execution of work. —No person 
+shall obstruct or molest any person authorised or empowered by or under this Act in the 
+execution of his duty or of anything wh ich he is authorised or empowered or required to 
+do by virtue or in consequence of any of the provisions of this Act or any rule or 
+regulation made thereunder. 
+98. Notices, etc., to fix reasonable time. —Where any notice, bill, order or 
+requisition issued o r made under this Act or any rule or regulation made thereunder 
+requires anything to be done for the doing of which no time is fixed in this Act or the rule 
+or the regulation made thereunder, the notice, bill, order or requisition shall specify a 
+reasonable time for doing the same. 
+99. Signature on notices, etc., may be stamped. —(1) Every licence, written 
+permission, notice, bill, summons or other document which is required by this Act or any 
+rule or regulation made thereunder to bear the signature of the W ater Supply Engineer 
+or the Sanitary Engineer or of any officer authorised or empowered to do so shall be 
+deemed to be properly signed if it bears a facsimile of the signature of any such officer 
+stamped thereupon. 
+(2) Nothing in sub-section (1) shall be deemed to apply to a cheque. 
+100. Notices, etc., by whom to be served or issued. —All notices, bills, summons 
+and other documents required by this Act or any rule or any regulation made thereunder 
+to be served upon, or issued to, any person, shall be served or issued by such persons 
+as may be authorised by the Board. 
+101. Service of notices, etc. —(1) Every notice, bill, summons, order, requisition or 
+other document required or authorised by this Act or any rule or regulation made 
+thereunder to be served or is sued on any person shall, save as otherwise provided in 
+this Act or such rule or regulation, be deemed to be duly served,— 
+IndiaCode
+
+=== PDF PAGE 46 ===
+ 46 
+(a) where the person to be served is a company, if the document is addressed to 
+the secretary of the company at its registered office  or at its principal office or place of 
+business and is either,— 
+(i) sent by registered post, or 
+(ii) delivered at the registered office or at the principal office or place of business 
+of the company; 
+(b) where the person to be served is a partnership, if the document is addressed to 
+the partnership at its principal place of business, identifying it by the name or style under 
+which its business is carried on, and is either,— 
+(i) sent by registered post, or 
+(ii) delivered at the said place of business; 
+(c) w here the person to be served is a public body, or a Bruhat Bangalore 
+Mahanagara Palike, society or other body, if the document is addressed to the secretary, 
+treasurer or other head officer of that body, Bruhat Bangalore Mahanagara Palike or 
+society at its principal office, and is either,— 
+(i) sent by registered post, or 
+(ii) delivered at that office; 
+(d) in any other case, if the document is addressed to the person to be served 
+and,— 
+(i) is given or tendered to him, or 
+(ii) if such person cannot be found, is affixed on some conspicuous part of his 
+last known place of residence or business, if within the 1[State of Karnataka]1, or is given 
+or tendered to some adult member of his family or is affixed on some conspicuous part 
+of the land or building, if any, to which it relates, or 
+  
+(iii) is sent by registered post to that person. 
+(2) Any document which is required or authorised to be served on the owner or 
+occupier of any land or building may be addressed “the owner” or “the occupier”, as the 
+case may be, of that land or building (naming that land or building) without further name 
+or description, and shall be deemed to be duly served,— 
+(a) if the document so addressed is sent or delivered in accordance with clause (d) 
+of sub-section (1); or 
+(b) if the document  so addressed or a copy thereof so addressed, is delivered to 
+some person on the land or building or, where there is no person on the land or building 
+to whom it can be delivered, is affixed to some conspicuous part of the land or building. 
+(3) Where a document is served on a partnership in accordance with this section, the 
+document shall be deemed to be served on each partner. 
+(4) For the purpose of enabling any document to be served on the owner of any 
+premises the Water Supply Engineer or the Sanitary En gineer or any other officer 
+authorised or empowered to do so may by notice in writing require the occupier of the 
+premises to state the name and address of the owner thereof. 
+(5) Where the person on whom a document is to be served is a minor, the service 
+upon his guardian or any adult member of his family shall be deemed to be service upon 
+the minor. 
+(6) Nothing in sections 99 and 100 and in this section shall apply to any summons 
+issued under this Act by a court. 
+(7) A servant is not a member of the family within the meaning of this section. 
+1. Adopted by the Karnataka adaptation of laws order 1973 w.e.f. 1.11.1973. 
+IndiaCode
+
+=== PDF PAGE 47 ===
+ 47 
+102. Service of bills for charges or notice of demand by ordinary post. —
+Notwithstanding anything contained in sections 100 and 101 a bill for a ny charges or a 
+notice of demand may be served by sending it by ordinary post with a prepaid letter 
+under a certificate of posting addressed to the appropriate person specified in section 
+101 at his last known place of residence or business and in proving the service of every 
+bill or notice so sent it shall be sufficient to prove that the letter was properly addressed 
+and posted under a certificate of posting. 
+103. Power in case of non -compliance with notice, etc. —In the event of non -
+compliance with the terms of any notice, order or requisition issued to any person under 
+this Act or any rule or regulation made thereunder, requiring such person to execute any 
+work or to do any act it shall be lawful for the authority or officer at whose instance the 
+notice, order or requisition has been issued, whether or not the person in default is liable 
+to punishment for such default or has been prosecuted or sentenced to any punishment 
+therefor, after giving notice in writing to such person, to take such action or such st eps 
+as may be necessary for the completion of the act or the work required to be done or 
+executed by such person and all the expenses incurred on such account shall be 
+payable to the Board on demand and if not paid within ten days after such demand, shall 
+be recoverable as an arrear of charges payable under this Act. 
+104. Liability of occupier to pay in default of owner. —(1) If any notice, order or 
+requisition has been issued to any person in respect of property of which he is the 
+owner, the authority or of ficer at whose instance such notice, order or requisition has 
+been issued, may require the occupier of such property or of any part thereof to pay to 
+him, instead of to the owner, any rent payable by him in respect of such property, as it 
+falls due up to the amount recoverable from the owner under section 103: 
+Provided that if the occupier refuses to disclose the correct amount of the rent 
+payable by him or the name or address of the person to whom it is payable, the authority 
+or officer may recover from th e occupier the whole amount recoverable under section 
+103 as an arrear of charges payable under this Act. 
+(2) Any amount recovered from an occupier instead of from an owner under sub -
+section (1), shall in the absence of any contract between the owner and t he occupier to 
+the contrary, be deemed to have been paid to the owner. 
+105. Execution of work by occupier in default of owner and deduction of 
+expenses from rent.—Whenever the owner of any land or building fails to execute any 
+work which he is required to execute under this Act or any rule or regulation made 
+thereunder, the occupier, if any, of such land or building may, with the approval of the 
+Board, execute the said work and he shall, subject to any contract between the owner 
+and occupier to the contrary , be entitled to recover from the owner the reasonable 
+expenses incurred by him in the execution of the work and may deduct the amount 
+thereof from the rent payable by him to the owner. 
+106. Relief to agents and trustees. —Where any person, by reason of his  receiving 
+rent of immovable property as a receiver, agent or trustee, or of his being as a receiver, 
+agent or trustee the person who would receive the rent if the property were let to a 
+tenant, would under this Act or any rule or regulation made thereunde r, be bound to 
+discharge any obligation imposed on the owner of the property for the discharge of 
+which money is required, he shall not be bound to discharge the obligation unless he 
+has, or but for his own improper act or default might have had funds in h is hands 
+belonging to the owner sufficient for the purpose. 
+(2) The burden of proving any fact entitling a receiver, agent or trustee to relief under 
+sub-section (1) shall lie upon him. 
+IndiaCode
+
+=== PDF PAGE 48 ===
+ 48 
+(3) Where any receiver, agent or trustee has claimed and established his right to relief 
+under this section, the Board may by notice in writing require him, to apply to the 
+discharge of his obligation as aforesaid the first moneys which may come to his hands 
+on behalf, or for the use, of the owner, and on failure to comply w ith the notice, he shall 
+be deemed to be personally liable to discharge the obligation. 
+107. Compensation to be paid by offenders for damage caused by them. —(1) 
+Any person who has been convicted of an offence against this Act or any rule or 
+regulation made  thereunder shall, notwithstanding any punishment to which he may 
+have been sentenced for the said offence, be liable to pay such compensation for any 
+damage to the property of the Board resulting from the said offence as the Board may 
+consider reasonable. 
+(2) In the event of a dispute regarding the amount of compensation payable under 
+sub-section (1) such amount shall, on application made to him, be determined by the 
+magistrate before whom the said person was convicted of the said offence; and on non -
+payment of the amount of compensation so determined the same shall be recovered 
+under a warrant from the said magistrate as if it were a fine imposed by him on the 
+person liable therefor. 
+1[107A. Interest on delayed payments. - Any sum due to the Board on accoun t of 
+any charge, costs, expense, fees, rates or rent, prorata charges or any other account 
+under this Act or any rule, regulation or order made there under shall carry interest at the 
+rate fixed by the Board from time to time from the  respective due dates  till the date of 
+payment or recovery.] 1 
+   1. Inserted by Act 15 of 2010 w.e.f. 16.4.2010. 
+108. Mode of recovery of dues. —Any sum due to the Board on account of any 
+charge, costs, expenses, fees, rates or rent or on any other account under this Act or 
+any rule, regulation or order made thereunder may, without prejudice to any other mode 
+of recovery, be recovered from any person from whom such sum is due,— 
+(a) as if it were an arrear of land revenue; or 
+(b) on application to any judicial magistrate, by suc h magistrate as if it were a fine 
+imposed by him. 
+      1[108A. Theft of water .- (1) Whoever dishonestly obtains water supply through 
+illegal connection or tampers meter or uses tampered meter in any manner resulting in 
+non-recording or wrong recording of consumption of water or damages or destroys water 
+meter/apparatus so as to prevent accurate metering of water consumed, shall be 
+punishable with imprisonment for a term which may extend up to three years or with fine; 
+or with both. 
+ (2) If it is proved that any artificial means or means not authorized by the Board exist 
+for consumption or use of water by the consumer without being recorded by the meter, it 
+shall be presumed that the consumption or use of water has been dishonestly made by 
+such consumer until contrary is proved. 
+ 108B. Abetment.- Without prejudice to any penalty or fine which may be 
+imposed or prosecution proceeding which may be initiated under this Act or any other 
+law for the time being in force, whoever including any officer or the employe e of the 
+Board or the licensed plumber abets an offence punishable under this Act or enters into 
+or acquiesces in any agreement to do, abstains from doing, permit’s, conceals or 
+connives at any act or tiling whereby any theft of water is committed, he shal l be 
+punishable with the same punishment provided for the offence in this Act.]1 
+   1. Inserted by Act 15 of 2010 w.e.f. 16.4.2010. 
+IndiaCode
+
+=== PDF PAGE 49 ===
+ 49 
+1[109.General penalty. - Whoever, in any case in which a penalty is not 
+expressly provided by this Act, fails to comply with any notice, order or requisition issued 
+under any provision of this Act or any rule or regulation or bye -law or otherwise 
+contravenes any of the provisions of this Act or any rule or regulation or bye -law, shall 
+be punishable with imprisonment which may extend to six months or with fine which may 
+extend to five thousand rupees or with both. In the case of a continuing failure or 
+contravention, with an additional fine which may extend to five hundred ru pees for every 
+day during which such failure or contrav ention continues after conviction for the first 
+such failure or contravention.]1 
+1. Substituted  by  Act 15 of 2010 w.e.f. 16.4.2010. 
+     2[1[109A. Penalty of pro -rata charges for unauthorized connections. - 
+Whoever un-authorisedly obtains water supply or san itary connections or both by any 
+means from the water supply pipelines of the Board or sanitary connections to the 
+sewerage system of the Board in contravention of the provisions of this Act and 
+regulations made thereunder shall, in addition to any other p enalty and pro-rata charges 
+payable, be liable to pay upto 50% of the pro -rata charges payable, as determined by 
+the Board, subject to such conditions as may be specified in the regulations for such 
+connection]1]2 
+ 
+1. Inserted  by Act 15 of 2010 w.e.f. 16.4.2010. 
+2. Substituted by Act 28 of 2013 w.e.f.11.03.2013. 
+110. Offences by companies. —(1) Where an offence under this Act has been 
+committed by a company, every person who, at the time the offence was committed, 
+was in charge of, and was responsible to, the com pany for the conduct of the business 
+of the company, as well as the company, shall be deemed to be guilty of the offence and 
+shall be liable to be proceeded against and punished accordingly: 
+Provided that nothing contained in this sub -section shall render any such person 
+liable to any punishment provided in this Act if he proves that the offence was committed 
+without his knowledge or that he exercised all due diligence to prevent the commission 
+of such offence. 
+(2) Notwithstanding anything contained in sub-section (1) where an offence under this 
+Act has been committed by a company and it is proved that the offence has been 
+committed with the consent or connivance of or is attributable to any neglect on the part 
+of, any director, manager, secretary or other o fficer of the company, such director, 
+manager, secretary or other officer shall also be- deemed to be guilty of that offence and 
+shall be liable to be proceeded against and punished accordingly. 
+Explanation.—For the purposes of this section,— 
+(a) “company” means a body corporate, and includes a firm or other association of 
+individuals; and 
+(b) “director” in relation to a firm means a partner in the firm. 
+111. Prosecutions.—Save as otherwise provided in this Act, no court shall proceed 
+with the trial of any offence made punishable by or under this Act or any rule or 
+regulation except on the complaint of, or upon information received from, the Water 
+Supply Engineer, the Sanitary Engineer or any officer authorised by the Board by a 
+general or special order in this behalf. 
+112. Composition of offences. —(1) The Board or any officer of the Board 
+authorised by it by general or special order in this behalf, may, either before or after the 
+institution of the proceedings, compound any offence made punishable by or unde r this 
+Act: 
+IndiaCode
+
+=== PDF PAGE 50 ===
+ 50 
+Provided that no offence shall be compounded which is committed by failure to 
+comply with a notice, order or requisition issued by or on behalf of the Board unless and 
+until the same has been complied with so far as such compliance is possible. 
+(2) Where an offence has been compounded, the offender, if in custody, shall be 
+discharged and no further proceedings shall be taken against him in respect of the 
+offence so compounded. 
+113. Arrest of offenders. —(1) The Chief Engineer, the Water Supply En gineer, the 
+Sanitary Engineer, any officer authorised in this behalf by the Board or any police officer 
+may arrest any person who commits in his view any offence against this Act or against 
+any rule or regulation made thereunder, if,— 
+(a) the name and address of such person be unknown to him, and 
+(b) such person on demand declines to give his name and address or gives a 
+name and address which such officer has reason to believe to be false. 
+(2) No person so arrested shall be detained in custody after his tru e name and 
+address are ascertained or, without the order of the nearest magistrate, for a period 
+longer than twenty-four hours from the time of arrest exclusive of the time necessary for 
+the journey from the place of arrest to the court of such magistrate. 
+114. Duties of police officers and employees of the Bruhat Bangalore 
+Mahanagara Palike. —It shall be the duty of all police officers and employees of the 
+Bruhat Bangalore Mahanagara Palike to give immediate information to the Board or 
+officers of the Board  authorised in this behalf, of the commission of, or the attempt to 
+commit, any offence against this Act or any rule or regulation made thereunder and to 
+assist all such officers in the exercise of their lawful authority. 
+115. Validity of notices and other  documents.—No notice, order, requisition, 
+licence, permission in writing or any other document issued under this Act or any rule or 
+regulation shall be invalid merely by reason of defect of form. 
+116. Admissibility of document or entry as evidence. —A copy  of any receipt, 
+application, plan, notice, order or other document or of any entry in a register in the 
+possession of the Board shall, if duly certified by the legal keeper thereof or other person 
+authorised by the Board in this behalf, be admissible in e vidence of the existence of the 
+document or entry, and shall be admitted as evidence of the matters and transactions 
+therein recorded in every case where, and to the same extent to which, the original 
+document or entry would, if produced, have been admissi ble to prove such matters and 
+transactions. 
+117. Evidence of officers of the Board. —No officer or servant of the Board shall in 
+any legal proceedings to which the Board is not a party, be required to produce any 
+register or document the contents of which c an be proved under section 116 by a 
+certified copy, or to appear as a witness to prove any matter or transaction recorded 
+therein save by order of the court made for special cause. 
+118. Delegation of powers. —The Board may by notification direct that any po wer 
+conferred or any duty imposed on the Water Supply Engineer or the Sanitary Engineer 
+by or under this Act shall, in such circumstances and under such conditions, if any, as 
+may be specified in the notification, be exercised or performed also by any othe r officer 
+or servant of the Board specified in the notification. 
+119. Chief Controlling Authority. —(1) The Board shall be the Chief Controlling 
+authority in respect of all matters relating to the administration of this Act and for that 
+purpose may exercise all powers necessary in that behalf. 
+(2) The Chief Engineer or any other officer or officers notified by the Board in this 
+behalf may also exercise any power or perform any function which the Water Supply 
+IndiaCode
+
+=== PDF PAGE 51 ===
+ 51 
+Engineer or the Sanitary Engineer may exercise or perform under this Act or any rule or 
+regulation made thereunder. 
+120. Appeals.—Any person aggrieved by any decision or order of the Water Supply 
+Engineer or the Sanitary Engineer or other officer under this Act or any rule or regulation 
+made thereunder ma y within a period of sixty days from the date of such decision or 
+order appeal to the authority prescribed by the regulations and subject to revision by the 
+Board, the orders of the appellate authority on such appeal shall be final. 
+121. Revision.—The Board may call for the records of any proceedings of any officer 
+subordinate to it for the purpose of satisfying itself as to the legality or propriety of any 
+order or proceeding and may pass such order with respect thereto as it thinks fit. 
+122. Rules and reg ulations to be laid before State Legislature, etc. —(1) Every 
+rule or regulation made under this Act and every order made under section 129 shall be 
+laid, as soon as may be after it is made, before each House of the State Legislature 
+while it is in session for a total period of thirty days which may be comprised in one 
+session or in two or more successive sessions, and if before the expiry of the said 
+period, either House of the State Legislature makes any modification in any rule or 
+regulation or order or d irects that any rule or regulation or order shall not have effect, 
+and if the modification or direction is agreed to by the other House, such rule or 
+regulation or order shall thereafter have effect only in such modified form or be of no 
+effect, as the case may be. 
+(2) A rule or regulation under this Act may be made with retrospective effect and 
+when such a rule or regulation is made the reasons for making the rule or regulation 
+shall be specified in a statement laid before both Houses of the State Legislat ure. 
+Subject to any modification made under sub -section (1), every rule or regulation made 
+under this Act shall have effect as if enacted in this Act. 
+123. Provisions as to employees of the Bruhat Bangalore Mahanagara Palike 
+employed in connection with wat er supply or sewerage undertakings. —(1) With 
+effect from the date on which Chapter IV or Chapter V as the case may be, comes into 
+force, every officer and other employee of the Bruhat Bangalore Mahanagara Palike 
+employed in connection with the Water Supply  Undertaking of the Bruhat Bangalore 
+Mahanagara Palike or the Sewage Undertaking of the Bruhat Bangalore Mahanagara 
+Palike, as the case may be, shall stand transferred to and become an officer or other 
+employee of the Board with such designations as the St ate Government may determine 
+and shall hold office by the same tenure, at the same remuneration and on the same 
+terms and conditions of service as he would have held the same if he had continued to 
+be an officer or employee of the Bruhat Bangalore Mahanaga ra Palike and shall 
+continue to do so unless and until such tenure, remuneration and terms and conditions 
+are duly altered by the Board: 
+Provided that any service rendered by such officer or employee under the Bruhat 
+Bangalore Mahanagara Palike before such  transfer shall be deemed to be service 
+rendered under the Board. 
+(2) The Board may employ any officer or other employee transferred under sub -
+section (1) in the discharge of such functions under this Act as it may think proper and 
+every such officer or other employee shall discharge those functions accordingly. 
+124. Members, officers and servants of the Board to be public servants. —(1) All 
+members, officers and servants of the Board shall be deemed, when acting or purporting 
+to act in pursuance of the prov isions of this Act or any rule or regulation made 
+thereunder, to be public servants within the meaning of section 21 of the Indian Penal 
+IndiaCode
+
+=== PDF PAGE 52 ===
+ 52 
+Code (Central Act 45 of 1860) and the Prevention of Corruption Act, 1947 (Central Act 2 
+of 1947) for the time being in force. 
+(2) The words “State Government” and “Government” in section 161 of the Indian 
+Penal Code shall for the purposes of sub-section (1) be deemed to include the Board. 
+125. Protection of action of the Board, etc. —(1) No suit or prosecution shall be 
+entertained in any court against the Board or against any officer or servant of the Board 
+or against any person acting under the order or direction of the Board or any officer or 
+servant of the Board for anything which is in good faith done or intended to be d one 
+under this Act or any rule or regulation made thereunder. 
+(2) No suit, prosecution or other legal proceeding shall lie against any officer or 
+servant of the Board for any act done or purporting to be done under this Act or any rule 
+or regulation made thereunder without the previous sanction of the Board. 
+126. Notice to be given of suits.—(1) No suit shall be instituted against the Board or 
+against any officer or servant of the Board or against any person acting under the order 
+or direction of the Board or any officer or other servant, in respect of any act done, or 
+purporting to have been done in pursuance of this Act or any rule or regulation made 
+thereunder, until the expiration of two months after notice in writing has been left at the 
+office of the B oard and, in the case of such officer, servant or person, unless notice in 
+writing has also been delivered to him or left at his office or place of residence, and 
+unless such notice states explicitly the cause of action, the nature of the relief sought, 
+the amount of compensation claimed and the name and place of residence of the 
+intending plaintiff and unless the plaint contains a statement that such notice has been 
+so left or delivered. 
+(2) Nothing in sub -section (1) shall be deemed to apply to a suit in which the only 
+relief claimed is an injunction of which the object would be defeated by the giving of the 
+notice or the postponement of institution of the suit. 
+127. Continuation of appointments, notifications, rules, bye -laws, etc.—(1) With 
+effect from the date on which Chapter IV comes into force,— 
+(a) any appointment, notification, order, scheme, rule, bye -law, form or notice 
+made or issued, and any licence or permission granted under the Bruhat Bangalore 
+Mahanagara Municipal Bruhat Bangalore Mahanagara Palike Act, 1949, in so far as it 
+relates to the water supply undertaking, shall continue in force and be deemed to have 
+been made, issued or granted under the provisions of this Act, unless and until it is 
+superseded by any appointment, notification, orde r, scheme, rule, regulation, form or 
+notice made or issued or any licence or permission granted under the provisions of this 
+Act; 
+(b) all obligations and liabilities incurred, all contracts entered into, all matters and 
+things engaged to be done by, with, or for the Bruhat Bangalore Mahanagara Palike in 
+connection with the water supply undertaking shall be deemed to have been incurred, 
+entered into or engaged to be done by, with, or for the Board; 
+(c) all property, movable and immovable, and all interests o f whatsoever nature 
+and kind therein vested in the Bruhat Bangalore Mahanagara Palike in so far as they 
+relate to the water supply undertaking shall, with all rights of whatsoever description 
+used, enjoyed or possessed by the Bruhat Bangalore Mahanagara Pa like in respect of 
+the water supply undertaking, vest in the Board; 
+(d) all rates, fees, rents and other sums of money due to the Bruhat Bangalore 
+Mahanagara Palike in connection with the water supply undertaking shall be deemed to 
+be due to the Board; 
+IndiaCode
+
+=== PDF PAGE 53 ===
+ 53 
+(e) all suits, prosecutions and other legal proceedings instituted or which might 
+have been instituted by or against the Bruhat Bangalore Mahanagara Palike, so far as 
+they relate to the water supply undertaking may be continued or be instituted by or 
+against the Board. 
+(2) With effect from the date on which Chapter V comes into force,- 
+(a) any appointment, notification, order, scheme, rule, bye -law, form or notice 
+made or issued, and any licence or permission granted under the Bruhat Bangalore 
+Mahanagara Municipal Bruhat Bangalore Mahanagara Palike Act, 1949, in so far as it 
+relates to the sewerage undertaking, shall continue in force and be deemed to have 
+been made, issued or granted under the provisions of this Act, unless and until it is 
+superseded by any ap pointment, notification, order, scheme, rule, regulation, form or 
+notice made or issued or any licence or permission granted under the provisions of this 
+Act; 
+(b) all obligations and liabilities incurred, all contracts entered into, all matters and 
+things engaged to be done by, with, or for the Bruhat Bangalore Mahanagara Palike in 
+connection with the sewerage undertaking, shall be deemed to have been incurred, 
+entered into or engaged to be done, by, with, or for the Board; 
+(c) all property, movable and imm ovable, and all interests of whatsoever nature 
+and kind therein vested in the Bruhat Bangalore Mahanagara Palike in so far as they 
+relate to the sewerage undertaking shall, with all rights of whatsoever description used, 
+enjoyed or possessed by the Bruhat Bangalore Mahanagara Palike in respect of the 
+sewerage undertaking, vest in the Board; 
+(d) all rates, fees, rents and other sums of money due to the Bruhat Bangalore 
+Mahanagara Palike in connection with the sewerage undertaking shall be deemed to be 
+due to the Board; 
+(e) all suits, prosecutions and other legal proceedings instituted or which might 
+have been instituted by or against the Bruhat Bangalore Mahanagara Palike, so far as it 
+relates to the sewerage undertaking may be continued or be instituted by o r against the 
+Board. 
+     1[127A. Acquisition of land. - (1) Subject to the provisions of this Act and with the 
+previous approval of the State Government, the Board may enter into an agreement with 
+the owner of any land or any interest therein situated with in or outside the Bangalore 
+Metropolitan area on such terms and at such price as may be approved to purchase and 
+hold such immovable property or any interest therein for the purpose of this Act.  
+ (2) The State Government having powers of acquisition under  Land Acquisition Act, 
+1894 or any other Act for the time being in force may, at the request of the Board 
+procure the acquisition of any immovable property and such acquisition shall be deemed 
+to be for public purpose. 
+ (3) For the purpose of sub -section ( 2) of section 50 of the Land Acquisition Act, 
+1894, the Authority shall be deemed to be the Local Authority concerned. 
+ (4) After the land vests with the State Government under section 16 of the Land 
+Acquisition Act, 1894, the Deputy Commissioner shall upo n payment of the cost of 
+acquisition and upon the Board agreeing to pay any further costs which may be incurred 
+on account of acquisition transfer the land to the Board and the land shall there upon 
+vest with the Board.]1 
+                                          1. Inserted by Act 15 of 2010 w.e.f. 16.4.2010. 
+1[128. XXX]1 
+                                          1. Omitted by Act 15 of 2010 w.e.f. 16.4.2010. 
+IndiaCode
+
+=== PDF PAGE 54 ===
+ 54 
+129. Orders for bringing this Act into force. —(1) Notwithstanding anything 
+contained in this Act o r in any other law for the time being in force, the State 
+Government may, by order published in the official Gazette, make such provisions as 
+appear to it to be necessary or expedient,— 
+(a) for bringing the provisions of this Act into effective operation; 
+(b) for making omissions from, additions to and adaptations and modifications of 
+the rules, bye-laws, notifications and orders referred to in clause (a) of sub-section (1) of 
+section 127 or clause (a) of sub-section (2) of section 127 for purposes of giving effect to 
+the provisions of this Act; 
+(c) for removing difficulties arising in connection with the transition to the provisions 
+of this Act including difficulties in the construing of references to the Bruhat Bangalore 
+Mahanagara Palike or other authorities in any law; 
+(d) for authorising the continued carrying on for the time being by the Board of 
+services and activities carried on by the Bruhat Bangalore Mahanagara Palike; and 
+(e) so far as it appears necessary or expedient in connection with any of the  
+matters aforesaid, for varying the powers or jurisdiction of any authority and empowering 
+other authorities to exercise such jurisdiction as may be specified in such order. 
+(2) The provisions made by any order under sub -section (1) shall, subject to the 
+provisions of section 122, have effect as if enacted in this Act, and any such order may 
+be made so as to be retrospective to any date not earlier than the date of 
+commencement of this Chapter: 
+Provided that no person shall be deemed to be guilty of an offe nce by reason of so 
+much of any such order as makes any provisions thereof retrospective to any date 
+before the making thereof. IndiaCode
+
+=== PDF PAGE 55 ===
+ 55 
+SCHEDULE 
+(See section 24) 
+TABLE 
+ Description of asset Number of Years or period 
+ A. Land owned under full title Infinite 
+ B. Land held under lease,— 
+ (a) for investment in the land The period of the lease or the period 
+   remaining unexpired on the 
+   assignment of the lease. 
+ (b) for cost of clearing site The period of the lease remaining 
+   unexpired at the date of clearing the 
+   site. 
+ C. Assets purchased new,— 
+ (a) Buildings and civil engineering works of a 
+permanent character, not mentioned above,— 
+ (i) offices. Fifty 
+ (ii) temporary erections such Five.  
+  as wooden structures. 
+ (iii)  roads other than Kutcha One hundred. 
+  roads. 
+ (iv) others. Fifty 
+ (b) Self-propelled vehicles. Seven 
+ (c) (i) Office furniture and fittings. Twenty. 
+  (ii) Office equipment. Ten. 
+ D. Assets purchased second-hand Such reasonable period as the State 
+  and assets not otherwise provided Government determines in each case 
+  for in this Table. having regard to the nature, age and 
+   condition of the asset at the time of 
+   its acquisition by the owner. 
+NOTIFICATION 
+I 
+Bangalore, dated the 1st December, 1964 [No. PLM 158 MNY 64] 
+S.O. 1664. —In exercise of the powers conferred by sub -section (2) of section 1 of the 
+Bangalore Water Supply and Sewerage Act, 1964 (Karnataka Act 36 of 1964), the Government of 
+Karnataka hereby appoints the 1st day of December 1964 as the date on which Chapter IV of the 
+said Act shall come into force. 
+By Order and in the name of the Governor of Mysore, 
+ 
+(L. A. DHAMANIGI) 
+Deputy Secretary. 
+ 
+ 
+II 
+Bangalore, dated the 1st December, 1964 [No. PLM 154 MNY 64] 
+S.O. 1665. —In exercise of the powers conferred by sub -section (2) of section  1 of the 
+Bangalore Water Supply and Sewerage Act, 1964 (Mysore Act 36 of 1964), the Government of 
+Mysore hereby appoints the 2nd day of December 1964 as the date on which Chapter V of the 
+said Act shall come into force. 
+IndiaCode
+
+=== PDF PAGE 56 ===
+ 56 
+By Order and in the name of the Governor of Mysore, 
+ 
+(L. A. DHAMANIGI) 
+Deputy Secretary. 
+(Published in the Karnataka Gazette (Extraordinary) Part IV -2C (ii) dated 1st December, 1964, 
+as No. 276.) 
+* * * 
+The Bangalore Water Supply and Sewerage Act, 1964 has been amended by the 
+following Acts, namely.- 
+Amendments (Chronological) 
+Sl.No. Act No. and 
+year 
+Sections Amended Remarks 
+1. 36 of 1964 2 The Chapter I, II, III, & VI 
+came into force 
+w.e.f.10.9.64 and the 
+chapter IV came into force 
+w.e.f. 1.12.1964 vide 
+Notifn. PLM 158 MNY 64 
+dt.1.12.64 and  Chapter V 
+came into force w.e.f. 
+2.12.1964 vide Notfn. PLM 
+154 MNY 64 dt. 1.12.64 
+2 6 of 1966 2(3A), 2(11), 3(3), 5(1), 6(1), 
+7(1), 13, 15(2), 16, 18(1), 23, 
+24(1), 24(2), 24A, 24B, 
+25(1)(5), 26, 44(2), 44(3), 
+47(2), (3), 61, 65(1), 74, 84(2), 
+84A, 86(2)  (3), 88(1), 89(1), 
+109 
+ 
+w.e.f. 17.3.1966 
+3 10 of 1996 31(1) w.e.f. 31.3.1966 
+ 
+4 KAL Order 
+1973 
+Preamble, Title, 4, 101(1) w.e.f. 1.11.1973 
+ 
+5 18 of 1984 25(1) (2)(3)(4), 33 w.e.f. 21.4.1984 
+ 
+ 
+Amendments (section-wise) 
+Sections 
+Amended 
+Act No. and Year Remarks 
+Preamble, Title KAL Order  1973 w.e.f. 1.11.1973 
+2 6 of 1966 w.e.f. 17.3.1966 
+3 6 of 1966 w.e.f. 17.3.1966 
+4 KAL Order 1973 w.e.f. 1.11.1973 
+5 6 of 1966 w.e.f. 17.3.1966 
+6 6 of 1966 w.e.f. 17.3.1966 
+7 6 of 1966 w.e.f. 17.3.1966 
+13 6 of 1966 w.e.f. 17.3.1966 
+16 6 of 1966 w.e.f. 17.3.1966 
+18 6 of 1966 w.e.f. 17.3.1966 
+23 6 of 1966 w.e.f. 17.3.1966 
+IndiaCode
+
+=== PDF PAGE 57 ===
+ 57 
+24 6 of 1966 w.e.f. 17.3.1966 
+24A 
+24B 
+6 of 1966 
+6 of 1966 
+w.e.f. 17.3.1966 
+w.e.f. 17.3.1966 
+25 a) 6 of 1966 
+b) 18 of 1984 
+w.e.f. 17.3.1966 
+w.e.f. 17.3.1966 
+26 6 of 1966 w.e.f. 17.3.1966 
+31 10 of 1966 w.e.f. 31.3.1966 
+33 18 of 1984 w.e.f. 21.4.1984 
+44 6 of 1966 w.e.f. 17.3.1966 
+47 6 of 1966 w.e.f. 17.3.1966 
+61 6 of 1966 w.e.f. 17.3.1966 
+65 6 of 1966 w.e.f. 17.3.1966 
+74 6 of 1966 w.e.f. 17.3.1966 
+84 6 of 1966 w.e.f. 17.3.1966 
+84A 6 of 1966 w.e.f. 17.3.1966 
+86 6 of 1966 w.e.f. 17.3.1966 
+88  6 of 1966 w.e.f. 17.3.1966 
+89 6 of 1966 w.e.f. 17.3.1966 
+101 KAL Order 1973 w.e.f. 1.11.1973 
+109 6 of 1966 w.e.f. 17.3.1966 
+ 
+IndiaCode
+
+=== PDF PAGE 58 ===
+ 58 
+KARNATAKA ACT NO. 32 OF 2010 
+(First published in the Karnataka Gazette Extra-ordinary on the Twenty seventh day of July, 
+2010) 
+THE BANGALORE WATER SUPPLY AND SEWERAGE (AMENDMENT) ACT, 2010 
+(Received the assent of the Governor on the Twenty fourth day of July, 2010)  
+ 
+  An Act further to amend the Bangalore Water Supply and Sewerage Act, 1964. 
+  Whereas, it is expedient further to amend the Bangalore Water Supply and Sewerage 
+Act, 1964 (Karnataka Act 36 of 1964), for the purposes hereinafter appearing;  
+  Be it enacted by the Karnata ka State Legislature in the sixty First  year of the Republic of 
+India as follows:- 
+ 1. Short title and commencement: (1) This Act may be called the Bangalore Water Supply 
+and Sewerage (Amendment) Act, 2010. 
+ (2) It shall come into force at once. 
+ 
+    (Section 2 is incorporated in the principal Act) 
+ 
+ 3. Validation of assessment and collection of capital contribution. -  Notwithstanding 
+anything contained in any judgment, decree or order of any  Court, Tribunal or other authority to 
+the contrary any directi on through an order issued by the State Government to the Board for 
+making funding arrangements,  to  collect capital contribution from the beneficiaries of any project 
+(hereinafter referred to as capital contribution)  or through a Local Authority  as per  requirements 
+of the project and assessment or collection of any capital contribution from the beneficiaries of the 
+project in accordance with such direction or order of the State Government made or purporting to 
+have been made and any action or thing take n or done ( including any notices or orders issued) 
+or assessment made and  all proceedings held and any collection of capital contribution or 
+amount purported to have been collected by way of capital contribution in relation to such 
+assessment or collection in respect of such project with effect from 1 st January 2003 shall be and 
+shall be deemed to be valid and effective, as if such assessment or collection or action or thing, 
+had been made, taken or done under the principal Act, as amended by this Act and  accordingly,- 
+(a) all acts, proceedings or things done or any action taken by any Local 
+Authority or as the case may be, the Board or any of its officer in connection 
+with the assessment or collection of such capital contribution in respect of 
+such project fo r all purposes be deemed to be, and to have always been 
+done or taken in accordance with law; 
+(b) no suit or other proceedings shall be maintained or continued in any Court or 
+Tribunal or before any authority for the refund of any such capital 
+contribution; and 
+(c) no court shall enforce any decree or order directing the refund of any such 
+capital contribution. 
+- - -  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IndiaCode
+
+=== PDF PAGE 59 ===
+ 59 
+ 
+ 
+KARNATAKA ACT NO. 28 OF 2013 
+(First published in the Karnataka Gazette Extra-ordinary on the eleventh day of March, 
+2013) 
+THE BANGALORE WATER SUPPLY AND SEWERAGE (AMENDMENT)  ACT, 2013 
+(Received the assent of the Governor on the fifth day of March, 2013) 
+ 
+ An Act further to amend the Bangalore Water Supply and Sewerage Act, 1964. 
+ Whereas, it is expedient further to amend the Bangalore Water  Supply and 
+Sewerage Act, 1964 (Karnataka Act 36 of 1964), for the purposes hereinafter appearing; 
+ Be it enacted by the Karnataka State Legislature in the  sixty -fourth  year of the 
+Republic of India as follows:- 
+ 1. Short title and commencement .- (1) This Act may be called the Bangalore 
+Water Supply and Sewerage (Amendment)  Act, 2013. 
+(2) It shall come into force at once.  
+            (Section 109A is incorporated in the principal Act) 
+2. Substitution of section 109A. -  In the Bangalore Water Supply and 
+Sewerage Act, 1964 (Karnataka Act 36 of 1964), for section 109A, the following shall be 
+substituted, namely:- 
+ “109A. Penalty of pro-rata charges for unauthorized connections.- Whoever 
+un-authorisedly obtains water supply or sanitary connections or both by any means from 
+the water supply pipelines of the Board or sanitary connections to the sewerage system 
+of the Board in contravention of the provisions of this Act and regulations made 
+thereunder shall, in addition to any other penalty and pro-rata charges payable, be liable 
+to pay upto 50% of the pro-rata charges payable, as determined by the Board, subject to 
+such conditions as may be specified in the regulations for such connection." 
+ 
+KARNATAKA ACT NO 25 OF 2016 
+(First Published in the Karnataka Gazette Extra-ordinary on the First day of 
+August, 2016) 
+ 
+THE BANGALORE WATER SUPPLY AND SEWERAGE (AMENDMENT)  ACT, 2016  
+(Received the assent of the Governor on the Twenty Ninth day of July, 2016) 
+ 
+ An Act further to amend the Bangalore Water Supply and Sewerage Act, 1964. 
+     Whereas, it is expedient further to amend the Bangalore Water Supply and 
+Sewerage Act, 1964 (Karnataka Act 36 of 1964) for the purposes hereinafter appearing;  
+        Be it enacted by the Karnataka State Legislature in the sixty -seventh year of the Republic 
+of India as follows:- 
+ 
+       1. Short title and commencement. - (1) This Act may be called the Bangalore Water 
+Supply and Sewerage (Amendment) Act, 2016. 
+         (2) It shall come into force at once. 
+(Section 72A is incorporated in the principal Act) 
+IndiaCode
+
+=== PDF PAGE 60 ===
+ 60 
+KARNATAKA ACT NO. 02  OF 2017 
+(First Published in the Karnataka Gazette Extra-ordinary on the 04th day of January, 2017) 
+THE BANGALORE WATER SUPPLY AND SEWERAGE  
+(SECOND AMENDMENT)  ACT, 2016 
+(Received the assent of the Governor on the 31st day of December, 2016) 
+ An Act further to amend the Bangalore Water Supply and Sewerage Act, 1964. 
+    Whereas, it is expedient further to amend the Bangalore Water Supply and 
+Sewerage Act, 1964 (Karnataka Act 36 of 1964) for the purposes hereinafter appearing: 
+        Be it enacted by the Karnataka State Legislature in the sixty -seventh year of the 
+Republic of India as follows:- 
+       1. Short title and commencement. - (1) This Act may be called the Bangalore 
+Water Supply and Sewerage (second Amendment) Act, 2016. 
+         (2) It shall come into force at once. 
+(Section 15 is incorporated in the principal Act) 
+ 
+KARNATAKA ACT NO. 29 OF 2021 
+(First published in the Karnataka Gazette Extra-ordinary on the 7th day of October, 2021) 
+ 
+THE BANGALORE WATER SUPPLY AND SEWERAGE 
+ (AMENDMENT) ACT, 2021 
+ (Received the assent of the Governor on the 5th day of October, 2021) 
+ 
+ 
+An Act to further amend the Bangalore Water Supply and Sewerage Act, 
+1964. 
+ 
+     Whereas, it is expedient further to amend the Bangalore Water Supply and 
+Sewerage Act, 1964 (Karnataka Act 36 of 1964) for the purposes hereinafter 
+appearing: 
+ 
+        Be it enacted by the Karnataka State Legislature in the seventy second year of 
+the Republic of India as follows:- 
+       1. Short title and commencement. - (1) This Act may be called the Bangalore 
+Water Supply and Sewerage (Amendment) Act, 2021. 
+          (2) It shall come into force at once. 
+     2. Substitution of section 72A. - In the Bangalore Water Supply and Sewerage 
+Act, 1964 (Karnataka Act 36 of 1964) fo r section 72A, the following shall be substituted, 
+namely:- 
+“72A. Obligation to provide rain water harvesting structure.- (1) Every owner 
+who proposes to construct a building on a sital area of not less than 108 square meter 
+shall provide rain water harves ting structure for storage, for use or for ground water 
+IndiaCode
+
+=== PDF PAGE 61 ===
+ 61 
+recharge in such manner and subject to such conditions as may be provided in the 
+regulations and guidelines issued by the Board. 
+ (2) Every owner or occupier of a building having sital area of not les s than 216 
+square meter and not more than 1000 square meter, who has not provided rain water 
+harvesting structure before the commencement of the Bangalore Water Supply and 
+Sewerage (Amendment) Act, 2021, shall provide rainwater harvesting structure for 
+storage, for use and for ground water recharge subject to such conditions as may be 
+specified in the regulations.  
+(3) Every owner who proposes to construct a building on sital area of not less 
+than 1000 square meter or a owner or occupier of a building havin g sital area of not less 
+than 1000 square meter who has not provided rain water harvesting structure before the 
+commencement of the Bangalore Water Supply and Sewerage (Amendment) Act, 2021 
+shall provide dual piping system and rain water harvesting structu re for storage and for 
+use, other than drinking, cooking and bathing purpose, based on roof area and ground 
+water recharge based on paved and unpaved areas in such manner and subject to such 
+conditions as may be provided in the regulations and guidelines issued by the Board. 
+Explanation.- For the purpose of this section,-  
+(a) “rain water harvesting” means collection and storage of rain water from roof 
+top of a building or from a vacant land for use or for ground water recharge; and  
+(b) “ground water recha rge” means recharging of open well or the bore well or 
+the underground water as the case may be, by use of harvested rain water.” 
+                                                         
+By Order and in the name of 
+             the Governor of Karnataka, 
+ 
+ 
+ G. SRIDHAR 
+Secretary to Government 
+Department of Parliamentary Affairs 
+and Legislation  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+IndiaCode
+
+=== PDF PAGE 62 ===
+ 62 
+ 
+ KARNATAKA ACT NO. 61 OF 2025 
+(First published in the Karnataka Gazette Extra-ordinary on the 12th day of September, 
+2025) 
+ 
+THE KARNATAKA DECRIMINALISATION (AMENDMENT OF 
+PROVISIONS) ACT, 2025 
+ (Received the assent of the Governor on the 11th day of September, 2025) 
+ 
+An Act to amend certain enactments for decriminalising and 
+rationalising offences and to further enhance trust -based governance for 
+ease of living and doing business. 
+Whereas it is to amend certain enactments for decriminalising and 
+rationalising offences  and to further enhance trust-based governance for 
+ease of living and doing business and for matters connected therewith for 
+the purposes hereinafter appearing;   
+Be it enacted by the Karnataka State Legislature in the seventy 
+sixth year of the Republic of India, as follows:-  
+1. Short title, commencement and application. - (1) This Act 
+may be called the Karnataka Decriminalisation (Amendment of 
+Provisions) Act, 2025. 
+(2) It shall come into force on such date as the Government of 
+Karnataka may, by notification in the Official Gazette, appoint and 
+different dates may be appointed for amendments relating to different 
+enactments.  
+(3) The amendment of an y enactment by this Act shall not affect 
+any other enactment in which the amended enactment has been applied, 
+incorporated or referred to. 
+(4) This Act shall not affect the validity, invalidity, effect or 
+consequences of anything already done or suffered, or any right, title, 
+obligation or liability already acquired, accrued or incurred or any 
+remedy or proceeding in respect thereof, or any release or discharge of, or 
+from any debt, penalty, obligation, liability, claim or demand or any 
+indemnity already granted, or the proof of any past act or thing; 
+(5) This Act shall not affect any principle or rule of law, or 
+established jurisdiction, form or course of pleading, practice or 
+procedure, or existing usage, custom, privilege, restriction, exemption, 
+office o r appointment, notwithstanding that the same respectively may 
+have been in any manner affirmed, or recognised or derived by, in or 
+from any enactment hereby amended. 
+ (6) The amendment of any enactment by this Act shall not revive 
+restore any jurisdiction,  office, custom, liability, right, title, privilege, 
+IndiaCode
+
+=== PDF PAGE 63 ===
+ 63 
+restriction, exemption, usage, practice, procedure or other matter or 
+thing not now existing or in force. 
+ 
+2. Amendment of Karnataka Act 36 of 1964 .- In the  Bangalore 
+Water Supply and Sewerage Act, 1964 (Karnataka Act 36 of 1964),- 
+(1) In section 62,- 
+(a) after clause (b), in the hanging para, the words, “with 
+imprisonment which may extend to six months or”, shall be omitted; 
+(b) in clause (i).- 
+(i)  for the word “fine”, the word “penalty”, shall be subst ituted; 
+and  
+(ii) the words “or with both” shall be omitted;  
+(c) for the table and the entries relating thereunder the following 
+table, shall be substituted, namely:- 
+ 
+“TABLE 
+Provisions of 
+the Act Subject 
+Maximum 
+penalty  which 
+may be 
+imposed 
+Daily penalty 
+which may be 
+imposed 
+(1) (2) (3) (4) 
+Section 28 Trespassing on premises connected 
+with water supply. 
+10,000 - 
+Section 30 Failure to maintain house connections 
+in conformity with regulations 
+10,000 - 
+Section 32  
+Sub-Section (2) 
+Occupying or allowing o ccupation of 
+house without proper water supply 
+10,000 - 
+Section 32 
+Sub-Section (3) 
+Failure to comply with requisition to 
+make house connection 
+10,000 100 
+Section 34 Use for non -domestic purposes of 
+water supplied for domestic purposes 
+50,000 100 
+Section 49 Waste or misuse of water 50,000 - 
+Section 50 Refusal of admittance, etc 10,000 - 
+Section 52  
+Sub-section (1) 
+Laying of water pipes, etc., in a 
+position where the same may be 
+injured or water therein polluted 
+50,000 100 
+Section 59  
+Sub-section (1) 
+Execution of work by a person other  
+than a licensed plumber 
+20,000 - 
+Section 59  
+Sub-section (2) 
+Failure to furnish when required name 
+of licensed plumber employed 
+10,000 - 
+Section 59  Licensed plumbers not to demand 10,000 - 
+IndiaCode
+
+=== PDF PAGE 64 ===
+ 64 
+Provisions of 
+the Act Subject 
+Maximum 
+penalty  which 
+may be 
+imposed 
+Daily penalty 
+which may be 
+imposed 
+(1) (2) (3) (4) 
+Sub-section (6) more than the charges prescribed 
+Section 59  
+Sub-section (8) 
+Licensed plumbers not to contravene 
+regulations or execute work carelessly 
+or negligently, etc., 
+10,000 - 
+Section 60 Prohibition of willful or neglectful acts 
+relating to water works. 
+50,000 - 
+” 
+(2) in section 85,- 
+ (a) after clause (b), in the hanging para, the words, “with 
+imprisonment which may extend to six months or”, shall be omitted; 
+(i) in clause (i) for the word “fine”, the word “penalty”, shall be 
+substituted; and 
+(ii) the words “or with both”, shall be omitted. 
+(b) for the table and the entries relating thereto, the following table 
+and entries relating thereto, shall be substituted, namely:- 
+ 
+“TABLE 
+ 
+Provisions of 
+the Act Subject 
+Maximum 
+penalty which 
+may be 
+imposed 
+Daily penalty 
+which may 
+be imposed 
+(1) (2) (3) (4) 
+Section 65 Injury to, or interference with free flow of 
+contents of Board sewers or drains or sewers 
+communicating with Board sewers 
+50,000 500 
+Section 66 
+Sub-section (2) 
+Private drain not to be connected with Board 
+sewers without notice 
+10,000 100 
+Section 67 Non-compliance with requisition for 
+drainage of un-drained premises 
+20,000 200 
+Section 68 Erection of new premises without drains 50,000 - 
+Section 69 Non-compliance with requisition for 
+maintenance of drainage works for any 
+group or block of premises 
+50,000  
+Section 70 Non-compliance with direction to close or 
+limit the use of private drains in certain 
+cases 
+50,000 - 
+Section 71 Non-compliance with Sanitary Engineer's 
+orders regarding the use of a drain by a 
+50,000 - 
+IndiaCode
+
+=== PDF PAGE 65 ===
+ 65 
+Provisions of 
+the Act Subject 
+Maximum 
+penalty which 
+may be 
+imposed 
+Daily penalty 
+which may 
+be imposed 
+(1) (2) (3) (4) 
+person other than the owner thereof 
+Section 72 Non-compliance with requisition for keeping 
+sewage and rain water drains distinct 
+50,000 - 
+Section 73 Non-compliance with requisition for the pavement 
+of court yard etc., 
+10,000 - 
+Section 75 Connection with Board se wers without written 
+permission 
+50,000 500 
+Section 78   
+sub-section (4) 
+Non-compliance with requisition to close, remove 
+or divert a pipe or drain 
+50,000 500 
+Section 82  
+sub-section (1) 
+Execution of work by a person other than a 
+licensed plumber 
+50,000 - 
+Section 82  
+sub-section (2) 
+read with  
+section 59 (2) 
+Failure to furnish when required name of licensed 
+plumber   employed 
+10,000 - 
+Section 82     
+sub-section (6) 
+read with section 
+59(2) 
+Licensed plumbers not to demand   more than 
+the charges prescribed 
+50,000 - 
+Section 82 sub-
+section (8) read 
+with section 
+59(2) 
+Licensed plumbers not to contravene regulations 
+or execute   work carelessly or negligently. Etc., 
+50,000 - 
+” 
+ 
+The above translation of ಕರ್ನಾಟಕ ನಿರಪರಾಧೀಕರಣ (ಉಪಬಂಧಗಳ 
+ತಿದ್ದ ು ಪಡಿ) ಅಧನಿಯಮ, 2025 (2025ರ ಕರ್ನಾಟಕ ಅಧನಿಯಮ ಸಂಖ್ಯೆ : 61 ) be 
+published in the official Gazette under Article 348 of the Constitution of 
+India. 
+  
+                                                      THAAWARCHAND GEHLOT 
+                                                     GOVERNOR OF KARNATAKA 
+                                                                    By Order and in the name of 
+             the Governor of Karnataka, 
+ 
+      G. SRIDHAR 
+        Secretary to Government 
+           Department of Parliamentary 
+          Affairs and Legislation  
+IndiaCode

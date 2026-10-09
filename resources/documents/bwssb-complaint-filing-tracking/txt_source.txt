@@ -1,0 +1,53 @@
+BWSSB complaint links: scraped supporting details
+Scraped: 2026-10-09T00:42:26.724909+04:00
+
+Read resource_context.md first for which link to use and why.
+Below are labels and choices from blank public forms, not complaint records.
+An asterisk (*) marks a field the page labels as required.
+Interactive subcategory choices are not captured. No form was submitted.
+
+SUBMIT A COMPLAINT
+Source: https://cms.bwssb.gov.in/module/complain/new_complaint
+
+Form fields and choices:
+Contact Details
+Consumer Name*
+[Input hint: Enter Consumer Name]
+Email Address
+[Input hint: Enter Email Address]
+Contact Number*
+[Input hint: Enter Contact Number]
+Address*
+Avoid Special Characters like #$%^&*()+=[]';{}|":<>?~\ in Address field
+Latitude
+Longitude
+Customer Location
+Details
+Category*
+Select Category
+Billing
+Borewell
+Sewerage
+Water
+Others
+Waste Water Management (WWM)
+Sub Category*
+Select Sub Category
+RR Number
+[Input hint: RR-Number]
+Describe Your Complaint*
+Avoid Special Characters like #$%^&*()+=[]';{}|":<>?~\ in Describe your Complaint field
+Submit
+Reset
+
+---
+
+TRACK AN EXISTING COMPLAINT
+Source: https://cms.bwssb.gov.in/module/complain/view/search_new_complaint
+
+Form fields and choices:
+Complaint Details
+Complaint Number*
+[Input hint: Complaint Number]
+[Input hint: Enter the characters shown in the image*]
+Search

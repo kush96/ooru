@@ -1,0 +1,57 @@
+Bengaluru public-agency directory
+
+Read resource_context.md first for scope and limitations.
+Scraped official-page text; download time is NOT the date the underlying information was updated.
+
+Bengaluru Urban district agency directory
+Source: https://bengaluruurban.nic.in/en/directory/
+Fetched: 2026-10-09T08:30:13.671794+04:00
+
+Police Department
+Name: DCP Central | Designation: DCP | Email: acpcentraltrafficbcp[at]ksp[dot]gov[dot]in | Mobile No: (not listed) | Landline No: 22942344 | Fax No: 22200907 | Address: Bengaluru
+Name: DCP West | Designation: DCP | Email: dcpwest[at]ksp[dot]gov[dot]in | Mobile No: (not listed) | Landline No: 22942356 | Fax No: 22370195 | Address: Bengaluru
+Name: DCP East | Designation: DCP | Email: dcpeast[at]ksp[dot]gov[dot]in | Mobile No: (not listed) | Landline No: 22942312 | Fax No: 25567085 | Address: Bengaluru
+Name: DCP South | Designation: DCP | Email: (not listed) | Mobile No: (not listed) | Landline No: 26635199 | Fax No: 22943296 | Address: Bengaluru Urban
+Name: DCP North | Designation: DCP | Email: dcpnorth[at]ksp[dot]gov[dot]in | Mobile No: (not listed) | Landline No: 22942299 | Fax No: 23567714 | Address: Bengaluru Urban
+Name: Additional Director General of Police | Designation: Additional Director General | Email: (not listed) | Mobile No: (not listed) | Landline No: 22942103 | Fax No: (not listed) | Address: # 2, State Police Head Quarters, Nrupathunga Road, Bangalore-560001
+Name: Commissioner of Police | Designation: Commissioner of Police | Email: compolbcp[at]ksp[dot]gov[dot]in | Mobile No: (not listed) | Landline No: (not listed) | Fax No: 22374022 | Address: Infantry Road, Bangalore-560001
+Bangalore Water Supply and Sewerage Board
+Name: Chairman | Designation: Chairman | Email: chairman[at]bwssb[dot]gov[dot]in | Mobile No: (not listed) | Landline No: 22945139 | Fax No: (not listed) | Address: 1st Floor, Cauvery Bhavan, Kempegowda Road,Bengaluru-560009
+Karnataka State Pollution Control Board
+Name: Chairman | Designation: Chairman | Email: chairman[at]kspcb[dot]gov[dot]in | Mobile No: (not listed) | Landline No: 25581383 | Fax No: (not listed) | Address: Karnataka State Pollution Control Board ,"Parisara Bhavan", #49, 4th & 5th Floor, Church Street, Bangalore-560001
+Name: Member Secretary | Designation: Member Secretary | Email: memsecy[at]kspcb[dot]gov[dot]in | Mobile No: (not listed) | Landline No: 25589112 | Fax No: 25586321 | Address: Karnataka State Pollution Control Board , Parisara Bhavan, #49, 4th & 5th Floor, Church Street, Bangalore-560001
+Karnataka Slum Board Development Department
+Name: Chairman | Designation: Chairman | Email: kscb_blr[at]rediffmail[dot]com | Mobile No: (not listed) | Landline No: 23460085 | Fax No: 23567060 | Address: No:55, 3rd Floor, Abhaya complex, Risaldar Stre​et, Sheshadripuram, Bangalore- 560 020
+Karnataka Housing Board
+Name: Chairman | Designation: Chairman | Email: (not listed) | Mobile No: (not listed) | Landline No: 22275149 | Fax No: (not listed) | Address: Bengaluru
+Name: Chief Engineer | Designation: Chief Engineer | Email: (not listed) | Mobile No: (not listed) | Landline No: 22100077 | Fax No: (not listed) | Address: Bengaluru
+Name: Commissioner | Designation: Commissioner | Email: (not listed) | Mobile No: (not listed) | Landline No: 22213592 | Fax No: (not listed) | Address: Bengaluru
+Bangalore Metropolitan Task Force
+Name: Additional Director General of Police | Designation: Additional Director General of Police | Email: adgp-bmtf-ka[at]nic[dot]in | Mobile No: (not listed) | Landline No: 22975586 | Fax No: 22975680 | Address: Bengaluru
+Bangalore Development Authority
+Name: Secretary | Designation: Secretary | Email: secy[at]bdabangalore[dot]org | Mobile No: (not listed) | Landline No: 23365151 | Fax No: (not listed) | Address: Bengaluru
+Name: Commissioner | Designation: Commissioner | Email: com[at]bdabangalore[dot]org | Mobile No: (not listed) | Landline No: 23360843 | Fax No: 23345799 | Address: Bengaluru
+Bruhat Bengaluru Mahanagara Palike
+Name: Addl. Commisioner (Administration) | Designation: Additional Commissioner | Email: addcomm[dot]ad[at]gmail[dot]com | Mobile No: (not listed) | Landline No: 22975549 | Fax No: (not listed) | Address: Bengaluru
+Name: Deputy Commissioner (Administration) | Designation: Deputy Commissioner | Email: bbmplalc[at]gmail[dot]com | Mobile No: (not listed) | Landline No: 22975549 | Fax No: (not listed) | Address: Bengaluru
+Name: Joint Commissioner- Byatarayanapur Yelhanka | Designation: Joint Commissioner | Email: (not listed) | Mobile No: (not listed) | Landline No: 22975949 | Fax No: (not listed) | Address: BBMP Office, Bengaluru
+Name: Joint Commissioner East | Designation: Joint Commissioner | Email: (not listed) | Mobile No: (not listed) | Landline No: (not listed) | Fax No: (not listed) | Address: B.B.M.P.  Office, Bengaluru
+Name: Commissioner BBMP | Designation: Commissioner | Email: comm[at]bbmpgov[dot]in | Mobile No: (not listed) | Landline No: 22248366 | Fax No: (not listed) | Address: Bengaluru
+Karnataka Industrial Areas Development Board
+Name: Chief Executive Officer & Executive Member | Designation: Chief Executive Officer & Executive Member | Email: (not listed) | Mobile No: (not listed) | Landline No: 22211495 | Fax No: (not listed) | Address: KIADB Head Office,14/3, 2nd floor, R.P Buildings, Nrupatunga Road, Bengaluru-560001.
+Public Instruction Department
+Name: DDPI North | Designation: Deputy Director of Public Instructions | Email: ddpi-n[dot]edu[dot]karbng[at]nic[dot]in | Mobile No: (not listed) | Landline No: 22215312 | Fax No: (not listed) | Address: Bengaluru Urban
+Name: DDPI South | Designation: Deputy Director of Public Instructions | Email: ddpi-s[dot]edu[dot]karbng[at]nic[dot]in | Mobile No: (not listed) | Landline No: 26701189 | Fax No: (not listed) | Address: Bengaluru Urban
+Name: DDPU South | Designation: Deputy Director of Pre University | Email: southddoffice[at]gmail[dot]com | Mobile No: (not listed) | Landline No: 26673475 | Fax No: (not listed) | Address: Bengaluru Urban
+Name: DDPU North | Designation: Deputy Director of Pre University | Email: ddanpue[at]gmail[dot]com | Mobile No: (not listed) | Landline No: 080-23446475 | Fax No: (not listed) | Address: Bengaluru Urban
+Name: Director PU Board | Designation: Director | Email: dir-dpue[at]karnataka[dot]gov[dot]in | Mobile No: (not listed) | Landline No: 23562033 | Fax No: 2336652 | Address: Bengaluru Urban
+Zilla Panchayat
+Name: AEE Anekal | Designation: Assistant Executive Engineer | Email: (not listed) | Mobile No: (not listed) | Landline No: 27859232 | Fax No: 27841632 | Address: Anekal, Bengaluru Urban
+Name: Assistant Executive Engineer North | Designation: Assistant Executive Engineer | Email: (not listed) | Mobile No: (not listed) | Landline No: 22877069 | Fax No: (not listed) | Address: Bengaluru Uurban
+Name: AEE East | Designation: Assistant Executive Engineer | Email: (not listed) | Mobile No: (not listed) | Landline No: 25616617 | Fax No: (not listed) | Address: Bengaluru Urban
+Name: AEE South | Designation: Assistant Executive Engineer | Email: (not listed) | Mobile No: (not listed) | Landline No: 26716200 | Fax No: (not listed) | Address: Bengaluru Urban
+Name: Executive Officer Anekal | Designation: Executive Officer | Email: eotpanekal[at]reddifmail[dot]com | Mobile No: (not listed) | Landline No: 27859232 | Fax No: 27841632 | Address: Anekal, Bengaluru Urban
+Name: Executive Officer East | Designation: Executive Officer | Email: eotpeast[at]gmail[dot]com | Mobile No: (not listed) | Landline No: 25614626 | Fax No: (not listed) | Address: K.R. Puram, Bengaluru Urban
+Name: Executive Officer South | Designation: Executive Officer | Email: eotpbangaloresouth[at]gmail[dot]com | Mobile No: (not listed) | Landline No: 26713384 | Fax No: (not listed) | Address: Banashankari, Bangalore
+Name: Executive Officer North | Designation: Executive Officer | Email: eotpnbangal[at]gmail[dot]com | Mobile No: (not listed) | Landline No: 28460315 | Fax No: 28461352 | Address: Yelahanka, Bengaluru Urban
+Name: C.E.O, Zilla Panchayat, Bangalore | Designation: Chief Executive Officer | Email: ceobngu[at]kar[dot]nic[dot]in | Mobile No: (not listed) | Landline No: 26710580 | Fax No: (not listed) | Address: Bengaluru Urban

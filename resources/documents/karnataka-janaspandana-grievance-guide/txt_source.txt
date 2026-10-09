@@ -1,0 +1,15 @@
+Karnataka Janaspandana grievance guide
+
+Read resource_context.md first for scope and limitations.
+Scraped official-page text; download time is NOT the date the underlying information was updated.
+
+Government district guide to the statewide grievance system
+Source: https://koppal.nic.in/en/service/ipgrs/
+Fetched: 2026-10-09T08:30:14.305276+04:00
+
+Public Grievance Redressal System
+Janaspandana – Integrated Public Grievance Redressal System
+Government of Karnataka
+Visit
+:
+https://ipgrs.karnataka.gov.in/

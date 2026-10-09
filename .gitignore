@@ -1,0 +1,39 @@
+# Secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python environments, generated files and test caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.uv_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+build/
+dist/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Editor / operating-system files
+.idea/
+.DS_Store
+*.log
+
+# Downloaded bulk datasets and generated map output.
+# Keep fetch scripts, source notes, small reference datasets and documents.
+/resources/datasets/municipal-accounts/original/
+/resources/datasets/municipal-accounts/csv/
+/resources/datasets/citizen-grievances/original/
+/resources/datasets/citizen-grievances/csv/
+/resources/datasets/roads/osmnx_cache/
+/resources/datasets/roads/bengaluru_roads.csv
+/playground/wards_map.html

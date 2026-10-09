@@ -1,0 +1,43 @@
+Bengaluru district health department
+
+Read resource_context.md first for scope and limitations.
+Scraped official-page text; download time is NOT the date the underlying information was updated.
+
+Bengaluru Urban: Health department
+Source: https://bengaluruurban.nic.in/en/healthdept/
+Fetched: 2026-10-09T08:30:15.373519+04:00
+
+Department of Health and Family Welfare Services implements various National and State Health programs of Public Health importance and also provides comprehensive Health Care Services to the people of the State through various types of Health and Medical Institutions.
+Health care services are provided through the implementation of:
+Rural Health component of the Minimum Needs Programme.
+Medical Development programme and Hospital Pharmacy Programme.
+National ‘AIDS’ Control Programme.
+Reproductive Child Health (RCH ). Family Welfare and Immunization Programme.
+National Leprosy Eradication Programme.
+National Tuberculosis Control Programme.
+National Programme for Control of Blindness Programme.
+National Vector Borne Disease Control Programme.
+National Guinea worm Eradication Programme.
+Prevention and control of Communicable Diseases like Diarrhoeal diseases, Japanese Encephalitis etc.
+Health Education and Training Programme.
+Nutrition Programme – Nutrition Education & Demonstration.
+National Iodine deficiency Disorder Programme.
+Laboratory Services and Vaccine Production Units.
+Education and Environmental Sanitation & Curative Services
+Each district hospital has got the following specialties:
+Medicine, Obstetrics & Gynecology, Orthopaedic, Ear, Nose, and Throat, Radiology, Dental, Blood Bank, Surgery, Ophthalmology Paediatric, Skin and STD, Anesthesia, Psychiatry, Pathology.
+CONTACT DETAILS :
+District Health Officer, Bengaluru Urban District
+Phone :9449843037,080-22717240/25566844
+e-Mail:dhobangaloreurban[at]gmail[dot]com
+Important e-Governance projects:
+e-Hospital – Open source Health Information Management System, easily customizable, designed to manage multiple hospitals
+Click here (https://ehospital.gov.in/ehospitalsso/)
+for more information
+Ayushman Bharat Pradhan mantri Jan Aarogya Yojana ….
+Click here (https://pmjay.gov.in/)
+for more information
+BALI-KA
+PCPNDT  …
+Click here (http://www.pcpndt.karnataka.gov.in/)
+for More Information

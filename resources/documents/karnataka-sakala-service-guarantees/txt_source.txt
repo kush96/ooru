@@ -1,0 +1,23 @@
+Karnataka Sakala service guarantees: introduction
+
+Read resource_context.md first for scope and limitations.
+Scraped official-page text; download time is NOT the date the underlying information was updated.
+
+Bengaluru Urban: Sakala services
+Source: https://bengaluruurban.nic.in/en/service/sakala-services/
+Fetched: 2026-10-09T08:30:13.457733+04:00
+
+Sakala Services
+A Bill has been passed by the Karnataka State Legislature to provide guarantee of services to citizens in the State of Karnataka within the stipulated time limit and for matters connected therewith and incidental thereto. This Act is called the Karnataka Guarantee of Services to Citizens Act, 2011.
+Visit
+:
+http://www.sakala.kar.nic.in/
+O/o The Deputy Commissioner, Bengaluru Urban District
+DC office building
+Revenue Complex, K.G. Road, Bengaluru 560009
+Location
+: Bengaluru |
+City
+: Bengaluru Urban |
+PIN Code
+: 560009

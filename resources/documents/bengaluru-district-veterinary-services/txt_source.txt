@@ -1,0 +1,28 @@
+Bengaluru district veterinary services
+
+Read resource_context.md first for scope and limitations.
+Scraped official-page text; download time is NOT the date the underlying information was updated.
+
+Bengaluru Urban: Animal Husbandry
+Source: https://bengaluruurban.nic.in/en/animal-husbandry/
+Fetched: 2026-10-09T08:30:15.482511+04:00
+
+District Animal Husbandry Department details appear here like contact person name, Helpline no., services, schemes and more.
+The Department of Animal Husbandry   Veterinary Services started functioning independently from 1945. The department is playing a vital role in providing healthcare services to livestock, extension, and training to farmers, implementation of Socioeconomic programs, conducting Sample Survey and Animal Census programs periodically in the State.
+The department is undertaking various developmental activities like:
+Animal health and veterinary services
+Cattle development
+National Project for Cattle and Buffalo Breeding (NPCBB)
+Poultry development
+Sheep and wool development
+Dairy development
+Piggery development
+Fodder development
+Rabbit rearing development
+Extension and training programmes
+Implementation of socio-economic programmes, etc.
+CONTACT DETAILS
+Dr. C. Rajashekhar Deputy Director,Bangalore (Urban)
+Phone : 080-23418327
+e-Mail :
+Helpline: 1800 425 0012 ; 080 – 2341 710 7 am to 9 pm
