@@ -1,13 +1,14 @@
 """Answer chat messages and classify whether authority guidance would help."""
 
 import json
+from typing import Annotated
+
+from fastapi import Depends
 
 from app.clients.llm import LLMClient
-from app.modules.chat.schemas import (
-    AuthorityIntentResponse,
-    ChatResponse,
-    ModelReply,
-)
+from app.modules.chat.models.api.response.authority_intent_response import AuthorityIntentResponse
+from app.modules.chat.models.api.response.chat_response import ChatResponse
+from app.modules.chat.models.model_reply import ModelReply
 from app.modules.chat.tools.authority_intent import detect_authority_intent
 
 
@@ -28,7 +29,7 @@ Do not suggest live lookups or actions this prototype cannot perform.
 
 
 class ChatService:
-    def __init__(self, llm_client: LLMClient):
+    def __init__(self, llm_client: Annotated[LLMClient, Depends(LLMClient)]):
         self.llm_client = llm_client
 
     async def classify_authority_intent(self, prompt: str) -> AuthorityIntentResponse:
@@ -41,6 +42,8 @@ class ChatService:
         history: list[dict[str, str]] | None = None,
         location_name: str | None = None,
     ) -> ChatResponse:
+        # classify intent
+
         messages = [{"role": "system", "content": SYSTEM_PROMPT}]
         messages.extend(history or [])
         current_message = message

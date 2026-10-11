@@ -4,11 +4,11 @@ from typing import Annotated
 
 from fastapi import APIRouter, Depends
 
-from app.dependencies import get_chat_service
-from app.modules.chat.schemas import (
-    AuthorityIntentRequest, AuthorityIntentResponse, ChatRequest, ChatResponse,
-)
-from app.modules.chat.chat_service import ChatService
+from app.modules.chat.models.api.request.authority_intent_request import AuthorityIntentRequest
+from app.modules.chat.models.api.request.chat_request import ChatRequest
+from app.modules.chat.models.api.response.authority_intent_response import AuthorityIntentResponse
+from app.modules.chat.models.api.response.chat_response import ChatResponse
+from app.modules.chat.service.chat_service import ChatService
 
 
 router = APIRouter(prefix="/api/chat", tags=["chat"])
@@ -16,7 +16,7 @@ router = APIRouter(prefix="/api/chat", tags=["chat"])
 
 @router.post("", response_model=ChatResponse)
 async def chat(
-    request: ChatRequest, service: Annotated[ChatService, Depends(get_chat_service)],
+    request: ChatRequest, service: Annotated[ChatService, Depends(ChatService)],
 ) -> ChatResponse:
     return await service.answer_chat(
         message=request.message,
@@ -27,7 +27,7 @@ async def chat(
 
 @router.post("/authority-intent", response_model=AuthorityIntentResponse)
 async def authority_intent(
-    request: AuthorityIntentRequest, service: Annotated[ChatService, Depends(get_chat_service)],
+    request: AuthorityIntentRequest, service: Annotated[ChatService, Depends(ChatService)],
 ) -> AuthorityIntentResponse:
     """Classify a prompt only. No authority lookup or document search yet."""
     return await service.classify_authority_intent(prompt=request.prompt)

@@ -12,7 +12,7 @@ from app.modules.chat.route import router as chat_router
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    get_settings()  # Validate settings at startup, without contacting external services.
+    get_settings()  # Validate settings at startup, without contacting external service.
     yield
 
 

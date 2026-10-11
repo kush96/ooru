@@ -1,11 +1,12 @@
 """Model API access. Groq today; an OpenAI-compatible server can replace it."""
 
-from typing import TypeVar
+from typing import Annotated, TypeVar
 
+from fastapi import Depends
 from openai import APIConnectionError, APIError, APIStatusError, APITimeoutError, AsyncOpenAI
 from pydantic import BaseModel, ValidationError
 
-from app.config import Settings
+from app.config import Settings, get_settings
 
 
 Result = TypeVar("Result", bound=BaseModel)
@@ -19,7 +20,7 @@ class InferenceError(Exception):
 
 
 class LLMClient:
-    def __init__(self, settings: Settings):
+    def __init__(self, settings: Annotated[Settings, Depends(get_settings)]):
         self.settings = settings
 
     async def generate(

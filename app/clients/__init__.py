@@ -1,1 +1,1 @@
-"""Clients for external services, shared across application modules."""
+"""Clients for external service, shared across application modules."""

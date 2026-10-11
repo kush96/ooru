@@ -1,4 +1,4 @@
-"""Inject fake clients/services without replacing module-level functions."""
+"""Inject fake clients/service without replacing module-level functions."""
 
 import asyncio
 from unittest.mock import Mock
@@ -7,12 +7,11 @@ import pytest
 from fastapi.testclient import TestClient
 
 from app.clients.llm import LLMClient
-from app.dependencies import get_chat_service
 from app.main import app
-from app.modules.chat.chat_service import ChatService
-from app.modules.chat.schemas import (
-    AuthorityIntentResponse, ChatResponse, ModelReply,
-)
+from app.modules.chat.models.api.response.authority_intent_response import AuthorityIntentResponse
+from app.modules.chat.models.api.response.chat_response import ChatResponse
+from app.modules.chat.models.model_reply import ModelReply
+from app.modules.chat.service.chat_service import ChatService
 
 
 def test_chat_service_uses_injected_client():
@@ -52,11 +51,27 @@ def test_service_accepts_plain_context_without_mutating_history():
     assert history == [{"role": "user", "content": "Hello"}]
 
 
-def test_chat_dependency_wires_settings(settings):
-    service = get_chat_service(settings)
+def test_chat_service_can_be_constructed_outside_fastapi(settings):
+    llm_client = LLMClient(settings=settings)
+    service = ChatService(llm_client=llm_client)
     assert isinstance(service, ChatService)
     assert isinstance(service.llm_client, LLMClient)
+    assert service.llm_client is llm_client
     assert service.llm_client.settings is settings
+
+
+def test_route_accepts_client_class_override(settings):
+    llm_client = Mock(spec=LLMClient)
+    llm_client.generate.return_value = ModelReply(answer="Injected client.", suggested_questions=[])
+    app.dependency_overrides[LLMClient] = lambda: llm_client
+    try:
+        with TestClient(app) as client:
+            response = client.post("/api/chat", json={"message": "Hello"})
+        assert response.status_code == 200
+        assert response.json()["answer"] == "Injected client."
+        llm_client.generate.assert_awaited_once()
+    finally:
+        app.dependency_overrides.pop(LLMClient)
 
 
 @pytest.mark.parametrize("path, payload, method, result", [
@@ -69,7 +84,7 @@ def test_routes_accept_injected_service(settings, path, payload, method, result)
     service = Mock(spec=ChatService)
     handler = getattr(service, method)
     handler.return_value = result
-    app.dependency_overrides[get_chat_service] = lambda: service
+    app.dependency_overrides[ChatService] = lambda: service
     try:
         with TestClient(app) as client:
             response = client.post(path, json=payload)
@@ -81,13 +96,13 @@ def test_routes_accept_injected_service(settings, path, payload, method, result)
         else:
             handler.assert_awaited_once_with(prompt="Who repairs roads?")
     finally:
-        app.dependency_overrides.pop(get_chat_service)
+        app.dependency_overrides.pop(ChatService)
 
 
 def test_route_unpacks_history_and_location(settings):
     service = Mock(spec=ChatService)
     service.answer_chat.return_value = ChatResponse(answer="Hello.", suggested_questions=[])
-    app.dependency_overrides[get_chat_service] = lambda: service
+    app.dependency_overrides[ChatService] = lambda: service
     try:
         with TestClient(app) as client:
             response = client.post("/api/chat", json={
@@ -102,4 +117,4 @@ def test_route_unpacks_history_and_location(settings):
             location_name="Indiranagar",
         )
     finally:
-        app.dependency_overrides.pop(get_chat_service)
+        app.dependency_overrides.pop(ChatService)

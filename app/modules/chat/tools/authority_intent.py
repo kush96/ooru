@@ -1,7 +1,7 @@
 """Decide whether identifying a responsible public body would help this user."""
 
 from app.clients.llm import LLMClient
-from app.modules.chat.schemas import AuthorityIntentResponse
+from app.modules.chat.models.api.response.authority_intent_response import AuthorityIntentResponse
 
 
 SYSTEM_PROMPT = """Classify the user's prompt for a civic-help chatbot.
@@ -22,7 +22,7 @@ Return false for:
 - General definitions, technical explanations, historical facts or spending totals
   without a request about responsibility, ownership, accountability or getting help.
 - Translation, rewriting or summarization of text that merely mentions a civic problem.
-- Personal/technical problems unrelated to public services, greetings or vague prompts
+- Personal/technical problems unrelated to public service, greetings or vague prompts
   that give no identifiable civic context. No conversation history is available here.
 - Explicit requests not to provide authority/contact guidance, unless another part
   of the prompt genuinely asks about responsibility.

@@ -6,7 +6,7 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT.parents[1]))
 from _fetch_web import fetch_pages
 
-SOURCES = [("Bengaluru Urban: Sakala services",
+SOURCES = [("Bengaluru Urban: Sakala service",
             "https://bengaluruurban.nic.in/en/service/sakala-services/",
             ("Sakala", "Guarantee of Services"))]
 

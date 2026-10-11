@@ -6,12 +6,17 @@ from pathlib import Path
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
 
+from app.clients.osm import OsmClient
 from app.config import get_settings
-from app.dependencies import get_boundary_service, get_road_service
+from app.modules.commons.boundary_service import BoundaryService
 # Register all ORM tables before create_all, independently of service construction.
 from app.modules.commons.models import municipal_corporations, wards
 from app.modules.commons.models.base import BaseModel
+from app.modules.commons.repositories.municipal_corporations_repo import MunicipalCorporationsRepo
+from app.modules.commons.repositories.wards_repo import WardsRepo
 from app.modules.roads.models import roads
+from app.modules.roads.repositories.roads_repo import RoadsRepo
+from app.modules.roads.road_service import RoadService
 
 logger = logging.getLogger(__name__)
 
@@ -30,14 +35,27 @@ def main():
     try:
         BaseModel.metadata.create_all(engine)
         with Session(engine) as session, session.begin():
-            boundaries = get_boundary_service(session)
+            corporations_repo = MunicipalCorporationsRepo(session=session)
+            wards_repo = WardsRepo(session=session)
+            boundaries = BoundaryService(
+                corporations_repo=corporations_repo,
+                wards_repo=wards_repo,
+            )
             counts = boundaries.import_data(
                 datasets_dir / "wards/original/gba-369-wards-december-2025.kml",
             )
         logger.info("Committed boundaries: %s", counts)
 
         with Session(engine) as session:
-            road_service = get_road_service(session)
+            roads_repo = RoadsRepo(session=session)
+            wards_repo = WardsRepo(session=session)
+            osm_client = OsmClient()
+            road_service = RoadService(
+                session=session,
+                roads_repo=roads_repo,
+                wards_repo=wards_repo,
+                osm_client=osm_client,
+            )
             road_service.import_data(datasets_dir / "roads")
     finally:
         engine.dispose()

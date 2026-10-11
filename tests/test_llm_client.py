@@ -9,7 +9,7 @@ from openai import AsyncOpenAI
 
 from app.clients import llm
 from app.config import get_settings
-from app.modules.chat.schemas import AuthorityIntentResponse
+from app.modules.chat.models.api.response.authority_intent_response import AuthorityIntentResponse
 
 
 @pytest.mark.parametrize("local", [False, True])

@@ -8,5 +8,5 @@
 
 `txt_source.txt` contains the page text and source link. From `ooru_be`:
 ```bash
-uv run --group resources resources/documents/bengaluru-district-veterinary-services/fetch.py
+uv run --group resources resources/documents/bengaluru-district-veterinary-service/fetch.py
 ```

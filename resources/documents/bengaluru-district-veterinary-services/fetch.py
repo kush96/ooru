@@ -10,4 +10,4 @@ SOURCES = [("Bengaluru Urban: Animal Husbandry",
             "https://bengaluruurban.nic.in/en/animal-husbandry/", ("Animal Husbandry",))]
 
 if __name__ == "__main__":
-    fetch_pages(ROOT, "Bengaluru district veterinary services", SOURCES)
+    fetch_pages(ROOT, "Bengaluru district veterinary service", SOURCES)

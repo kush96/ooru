@@ -35,13 +35,18 @@ No database is needed for chat. `GET /health` checks only that the server is ali
 
 - `app/config.py`: typed settings, loaded once from this backend's `.env`.
 - `app/clients/llm.py`: `LLMClient(settings)` sends requests and validates model JSON.
-- `app/modules/chat/route.py` → `chat_service.py` → `tools/authority_intent.py`: endpoint,
+- `app/modules/chat/route.py` → `service/chat_service.py` → `tools/authority_intent.py`: endpoint,
   workflow, then classification instructions. The tool calls the shared client.
-- `app/dependencies.py`: all service/repository/client wiring. Routes use its
-  factories through FastAPI `Depends`; the import runner passes its DB session.
+- Dependency wiring is in constructors: route `Depends(ChatService)` →
+  `Depends(LLMClient)` → `Depends(get_settings)`. No factory wrappers or base classes.
+  In scripts/tests, pass objects explicitly: `ChatService(llm_client=LLMClient(settings))`.
+  `Depends` resolves only inside FastAPI; ordinary Python calls still need arguments.
 - Routes unpack request models; `ChatService` receives `message`, `history`,
   `location_name`, or just `prompt` for classification. No HTTP request object.
-- `app/modules/chat/schemas.py`: chat request/response shapes.
+- `app/modules/chat/models/api/`: `request/`, `response/`, and shared API text rules
+  in `common/text_constraints.py`. Nested models stay in their parent's file.
+- `app/modules/chat/models/model_reply.py`: internal inference output with its own
+  validation; it does not depend on API models.
 - `app/main.py`: startup, routes and shared HTTP error handling.
 
 There is no chat repository: no stored data is being read or written yet.
@@ -86,11 +91,12 @@ The runner imports corporations and wards, fetches roads only when
 `resources/datasets/roads/bengaluru_roads.csv` is absent, then upserts roads in batches of 1,000.
 Existing records are updated on reruns. Connection settings are in the local `.env`.
 
-`app/import_all.py` gets `BoundaryService` and `RoadService` from `app/dependencies.py`, then calls
-their `import_data()` methods. They live in `commons/boundary_service.py` and
+`app/import_all.py` creates repositories/clients, passes them to `BoundaryService`
+and `RoadService`, then calls their `import_data()` methods. These services live in `commons/boundary_service.py` and
 `roads/road_service.py` under `app/modules`. Repositories receive a database session
 in their constructors; services receive those repositories. `RoadService` also
 receives the session for batch transactions and an `OsmClient` for fetching roads.
+Each import session gets its own repositories; none are stored globally.
 No generic CRUD base or extra dependency-injection framework is needed.
 Alembic is not currently used. `create_all` creates missing tables but does not alter existing schemas.
 
