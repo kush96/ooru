@@ -1,20 +1,20 @@
-import os
 from pathlib import Path
 
 import geopandas as gpd
-from dotenv import load_dotenv
 from sqlalchemy import create_engine, select
 
+from app.config import get_settings
 from app.modules.commons.models.municipal_corporations import MunicipalCorporation
 from app.modules.commons.models.wards import Ward
 
 
-PROJECT_DIR = Path(__file__).resolve().parent.parent
 MAP_PATH = Path(__file__).resolve().parent / "wards_map.html"
 
 if __name__ == "__main__":
-    load_dotenv(PROJECT_DIR / ".env")
-    engine = create_engine(os.environ["DATABASE_URL"])
+    database_url = get_settings().database_url.get_secret_value()
+    if not database_url:
+        raise ValueError("Set DATABASE_URL in the backend .env before building the map.")
+    engine = create_engine(database_url)
 
     ward_query = (
         select(

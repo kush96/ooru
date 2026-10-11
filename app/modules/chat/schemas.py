@@ -2,7 +2,7 @@
 
 from typing import Annotated, Literal
 
-from pydantic import BaseModel, ConfigDict, Field, HttpUrl, StringConstraints, model_validator
+from pydantic import BaseModel, ConfigDict, Field, HttpUrl, StrictBool, StringConstraints, model_validator
 
 
 MessageText = Annotated[str, StringConstraints(strip_whitespace=True, min_length=1, max_length=4000)]
@@ -57,3 +57,18 @@ class ChatResponse(ModelReply):
     # This first version has no retrieval, database tools or live web search.
     mode: Literal["model_only"] = "model_only"
     sources: list[Source] = Field(default_factory=list)
+
+
+class AuthorityIntentRequest(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    prompt: MessageText
+
+
+class AuthorityIntentResponse(BaseModel):
+    """An intent decision, not an authority lookup or a document-search result."""
+
+    model_config = ConfigDict(extra="forbid")
+
+    needs_authority_lookup: StrictBool
+    reason: ShortText
